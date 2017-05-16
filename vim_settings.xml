@@ -3,6 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="E:/WWWW/epsd.git/editor/src/js/base/core/dom.js" timestamp="1494937544987">
+        <mark key="'" line="1109" column="0" />
+        <mark key="[" line="45" column="0" />
+        <mark key="]" line="45" column="65" />
+      </file>
       <file name="/JavaScript Console" timestamp="1494936473479">
         <mark key="[" line="0" column="0" />
       </file>
@@ -13,8 +18,22 @@
         <mark key="." line="1" column="11" />
       </file>
     </filemarks>
-    <jumps />
-    <registers />
+    <jumps>
+      <jump line="45" column="56" filename="E:/WWWW/epsd.git/editor/src/js/base/core/dom.js" />
+      <jump line="16" column="5" filename="E:/WWWW/epsd.git/editor/src/js/base/core/dom.js" />
+      <jump line="56" column="0" filename="E:/WWWW/epsd.git/editor/src/js/base/core/dom.js" />
+      <jump line="76" column="9" filename="E:/WWWW/epsd.git/editor/src/js/base/core/dom.js" />
+      <jump line="0" column="0" filename="E:/WWWW/epsd.git/editor/src/js/base/core/dom.js" />
+      <jump line="1109" column="0" filename="E:/WWWW/epsd.git/editor/src/js/base/core/dom.js" />
+    </jumps>
+    <registers>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgKiByZXR1cm5zIHByZWRpY2F0ZSB3aGljaCBqdWRnZSB3aGV0aGVyIG5vZGVOYW1lIGlzIHNhbWUK</text>
+      </register>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgKiByZXR1cm5zIHByZWRpY2F0ZSB3aGljaCBqdWRnZSB3aGV0aGVyIG5vZGVOYW1lIGlzIHNhbWUK</text>
+      </register>
+    </registers>
     <search>
       <last-dir>0</last-dir>
       <show-last>false</show-last>
@@ -25,6 +44,22 @@
       <history-expr />
       <history-input />
     </history>
-    <shortcut-conflicts />
+    <shortcut-conflicts>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed E</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed C</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed V</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed U</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed D</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
   </component>
 </application>

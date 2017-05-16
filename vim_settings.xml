@@ -2,14 +2,29 @@
   <component name="VimSettings">
     <state version="4" enabled="true" />
     <globalmarks />
-    <filemarks />
+    <filemarks>
+      <file name="/JavaScript Console" timestamp="1494936473479">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="E:/LLLL/youtube-channel-source-code/angular-1/02-Controllers and Scope/02-using scope.htm" timestamp="1494936155880">
+        <mark key="[" line="13" column="7" />
+        <mark key="]" line="1" column="11" />
+        <mark key="^" line="1" column="11" />
+        <mark key="." line="1" column="11" />
+      </file>
+    </filemarks>
     <jumps />
     <registers />
     <search>
       <last-dir>0</last-dir>
       <show-last>false</show-last>
     </search>
-    <history />
+    <history>
+      <history-search />
+      <history-cmd />
+      <history-expr />
+      <history-input />
+    </history>
     <shortcut-conflicts />
   </component>
 </application>

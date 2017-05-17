@@ -1,0 +1,6 @@
+<keymap version="1" name="Visual Studio Modified" parent="Visual Studio">
+  <action id="CloseContent">
+    <keyboard-shortcut first-keystroke="ctrl w" />
+  </action>
+  <action id="EditorSelectWord" />
+</keymap>

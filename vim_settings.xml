@@ -12,6 +12,12 @@
       <file name="/fragment.js" timestamp="1494989103495">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="E:/WWWW/epsd.git/plugins/tab/tab.js" timestamp="1495181873058">
+        <mark key="[" line="33" column="15" />
+        <mark key="]" line="33" column="15" />
+        <mark key="^" line="33" column="19" />
+        <mark key="." line="33" column="15" />
+      </file>
       <file name="E:/WWWW/epsd.git/editor/src/js/base/core/dom.js" timestamp="1494985650889">
         <mark key="'" line="1109" column="0" />
         <mark key="[" line="45" column="0" />
@@ -80,11 +86,11 @@
       <jump line="52" column="8" filename="E:/WWWW/epsd.git/plugins/tab/converter.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ZXBzZWRpdG9yIG1heSBiZSBmcmVlbHkgZGlzdHJpYnV0ZWQgdW5kZXIgdGhlIE1JVCBsaWNlbnNlLgo=</text>
+      <register name="&quot;" type="4">
+        <text>inser</text>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text>inser</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwYXJzZVN0clw+</text>

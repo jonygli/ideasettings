@@ -23,6 +23,13 @@
         <mark key="^" line="1" column="11" />
         <mark key="." line="1" column="11" />
       </file>
+      <file name="E:/WWWW/epsd.git/editor/Gruntfile.js" timestamp="1495174817119">
+        <mark key="'" line="28" column="10" />
+      </file>
+      <file name="E:/WWWW/epsd.git/editor/examples/lang.html" timestamp="1495175861124">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="71" />
+      </file>
       <file name="E:/WWWW/epsd.git/editor/src/js/app.js" timestamp="1494988911642">
         <mark key="'" line="62" column="0" />
         <mark key="[" line="20" column="3" />
@@ -30,7 +37,11 @@
         <mark key="^" line="21" column="0" />
         <mark key="." line="21" column="0" />
       </file>
-      <file name="E:/LLLL/youtube-channel-source-code/angular-1/03-ng-bind and ng-model/01.js" timestamp="1494993817473" />
+      <file name="E:/WWWW/epsd.git/editor/index.html" timestamp="1495175827191">
+        <mark key="[" line="24" column="22" />
+        <mark key="]" line="24" column="22" />
+        <mark key="." line="24" column="22" />
+      </file>
       <file name="/" timestamp="1494989021458">
         <mark key="[" line="0" column="0" />
       </file>
@@ -49,13 +60,26 @@
       <jump line="0" column="0" filename="E:/WWWW/epsd.git/editor/src/js/app.js" />
       <jump line="20" column="0" filename="E:/WWWW/epsd.git/editor/src/js/app.js" />
       <jump line="62" column="0" filename="E:/WWWW/epsd.git/editor/src/js/app.js" />
+      <jump line="28" column="10" filename="E:/WWWW/epsd.git/editor/Gruntfile.js" />
     </jumps>
     <registers>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgKiByZXR1cm5zIHByZWRpY2F0ZSB3aGljaCBqdWRnZSB3aGV0aGVyIG5vZGVOYW1lIGlzIHNhbWUK</text>
+        <text encoding="base64">ICAgIDxzY3JpcHQgdHlwZT0idGV4dC9qYXZhc2NyaXB0IiBzcmM9Ii4uL2Rpc3QvZXBzZWRpdG9yLmpzIj48L3NjcmlwdD4K</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgKiByZXR1cm5zIHByZWRpY2F0ZSB3aGljaCBqdWRnZSB3aGV0aGVyIG5vZGVOYW1lIGlzIHNhbWUK</text>
+      <register name="1" type="2">
+        <text encoding="base64">Ly8gICAgICAgICAgICBsYW5nICAgOiAna28tS1InCg==</text>
+      </register>
+      <register name="&quot;" type="4">
+        <text>,</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgID4K</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">PHNjcmlwdCBkYXRhLW1haW49InNyYy9qcy9hcHAiIGRhdGEtZWRpdG9yLXR5cGU9ImJzMyIKICAgICAgICBzcmM9Ii8vY2RuanMuY2xvdWRmbGFyZS5jb20vYWpheC9saWJzL3JlcXVpcmUuanMvMi4xLjkvcmVxdWlyZS5taW4uanMiPjwvc2NyaXB0Pgo8L2JvZHk+ICAgCg==</text>
+      </register>
+      <register name="-" type="4">
+        <text>,</text>
       </register>
     </registers>
     <search>
@@ -95,6 +119,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed B</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed X</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>

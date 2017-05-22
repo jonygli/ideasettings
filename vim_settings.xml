@@ -48,11 +48,11 @@
         <mark key="^" line="1" column="35" />
         <mark key="." line="1" column="35" />
       </file>
-      <file name="E:/LLLL/anduo.git/js/grunt_minify/gruntfile.js" timestamp="1495437138247">
-        <mark key="[" line="21" column="0" />
-        <mark key="]" line="23" column="18" />
-        <mark key="." line="21" column="0" />
-        <mark key="^" line="10" column="34" />
+      <file name="E:/LLLL/anduo.git/js/grunt_minify/gruntfile.js" timestamp="1495438708890">
+        <mark key="[" line="35" column="9" />
+        <mark key="]" line="4" column="42" />
+        <mark key="." line="4" column="42" />
+        <mark key="^" line="4" column="42" />
       </file>
       <file name="/JavaScript Console" timestamp="1494989496577">
         <mark key="[" line="0" column="0" />
@@ -156,17 +156,17 @@
       <jump line="1" column="0" filename="E:/LLLL/anduo.git/js/grunt_minify/src/app.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG9wdGlvbnM6IHsKICAgICAgICAgICAgICAgICAgICBzb3VyY2VNYXA6IHRydWUKICAgICAgICAgICAgICAgIH0sCg==</text>
+      <register name="&quot;" type="4">
+        <text>uglify</text>
       </register>
       <register name="-" type="4">
-        <text>app</text>
+        <text>uglify</text>
       </register>
       <register name="/" type="4">
         <text>minify</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG9wdGlvbnM6IHsKICAgICAgICAgICAgICAgICAgICBzb3VyY2VNYXA6IHRydWUKICAgICAgICAgICAgICAgIH0sCg==</text>
+        <text encoding="base64">ICAgIGdydW50LmxvYWROcG1UYXNrcygnZ3J1bnQtY29udHJpYi11Z2xpZnknKTsK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIDxzY3JpcHQgdHlwZT0idGV4dC9qYXZhc2NyaXB0IiBzcmM9InNyYy90L3R3by5qcyI+PC9zY3JpcHQ+Cg==</text>

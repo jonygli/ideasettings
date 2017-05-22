@@ -83,15 +83,21 @@
       <file name="E:/LLLL/anduo.git/js/grunt_minify/app.js" timestamp="1495435091926">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="E:/LLLL/anduo.git/js/grunt_gulp_minify/gulpfile.js" timestamp="1495440121595">
-        <mark key="[" line="3" column="4" />
-        <mark key="]" line="3" column="4" />
-        <mark key="." line="3" column="4" />
-        <mark key="^" line="15" column="28" />
+      <file name="E:/LLLL/anduo.git/js/grunt_gulp_minify/gulpfile.js" timestamp="1495441383356">
+        <mark key="[" line="14" column="26" />
+        <mark key="]" line="14" column="26" />
+        <mark key="." line="14" column="26" />
+        <mark key="^" line="17" column="0" />
       </file>
       <file name="E:/LLLL/anduo.git/js/grunt_gulp_test/gruntfile.js" timestamp="1495439190752">
         <mark key="[" line="6" column="0" />
         <mark key="]" line="7" column="28" />
+      </file>
+      <file name="E:/LLLL/anduo.git/js/grunt_gulp_minify/src/t/two.js" timestamp="1495441195710">
+        <mark key="[" line="2" column="31" />
+        <mark key="]" line="2" column="31" />
+        <mark key="^" line="2" column="30" />
+        <mark key="." line="2" column="31" />
       </file>
       <file name="/" timestamp="1494989021458">
         <mark key="[" line="0" column="0" />
@@ -166,43 +172,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>uglify</text>
+        <text encoding="base64">c2FtcGxlIA==</text>
       </register>
       <register name="-" type="4">
-        <text>uglify</text>
+        <text encoding="base64">c2FtcGxlIA==</text>
       </register>
       <register name="/" type="4">
         <text>minify</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">Z3VscC50YXNrKCdjb3B5ZGlyMScsIGZ1bmN0aW9uKCkgewogICAgZ3VscC5zcmMoJ2RpcjEvKionKQogICAgICAgIC5waXBlKGNvcHkoKSkKICAgICAgICAucGlwZShndWxwLmRlc3QoJ2RpcjIvJykpOwp9KTsK</text>
+        <text encoding="base64">Z3VscC50YXNrKCd0MScsIGZ1bmN0aW9uKCkgewogICAgcmV0dXJuIGd1bHAuc3JjKCdzcmMvKiovKi5qcycpCiAgICAgICAgLnBpcGUoY29uY2F0KCdhbGwubWluLmpzJykpCiAgICAgICAgLnBpcGUodWdsaWZ5KCkpCiAgICAgICAgLnBpcGUoZ3VscC5kZXN0KCdkZXN0LycpKTsKfSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAucGlwZSh1Z2xpZnkoKSkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIDxzY3JpcHQgdHlwZT0idGV4dC9qYXZhc2NyaXB0IiBzcmM9InNyYy90L3R3by5qcyI+PC9zY3JpcHQ+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIDxzY3JpcHQgdHlwZT0idGV4dC9qYXZhc2NyaXB0IiBzcmM9InNyYy9vbmUuanMiPjwvc2NyaXB0Pgo=</text>
+        <text encoding="base64">ICAgIDxzY3JpcHQgdHlwZT0idGV4dC9qYXZhc2NyaXB0IiBzcmM9InNyYy90L3R3by5qcyI+PC9zY3JpcHQ+Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHN0cmljdAo=</text>
+        <text encoding="base64">ICAgIDxzY3JpcHQgdHlwZT0idGV4dC9qYXZhc2NyaXB0IiBzcmM9InNyYy9vbmUuanMiPjwvc2NyaXB0Pgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHVzZQo=</text>
+        <text encoding="base64">ICAgIHN0cmljdAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">c3RyaWN0Cg==</text>
+        <text encoding="base64">ICAgIHVzZQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">dXNlCg==</text>
+        <text encoding="base64">c3RyaWN0Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHN0cmljdDsK</text>
+        <text encoding="base64">dXNlCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHVzZQo=</text>
+        <text encoding="base64">ICAgIHN0cmljdDsK</text>
       </register>
     </registers>
     <search>

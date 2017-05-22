@@ -18,7 +18,6 @@
       <file name="E:/WWWW/epsd.git/plugins/tab/tab.js" timestamp="1495420744166">
         <mark key="'" line="0" column="4" />
       </file>
-      <file name="E:/LLLL/anduo.git/js/grunt_minify/dest/all.min.js" timestamp="1495436626687" />
       <file name="E:/LLLL/anduo.git/js/grunt_minify/src/app.js" timestamp="1495437588968">
         <mark key="'" line="3" column="0" />
         <mark key="[" line="0" column="0" />
@@ -35,6 +34,11 @@
       </file>
       <file name="E:/WWWW/epsd.git/plugins/tab/converter.js" timestamp="1495422683249">
         <mark key="'" line="25" column="0" />
+      </file>
+      <file name="E:/LLLL/anduo.git/js/grunt_gulp_minify/gruntfile.js" timestamp="1495439211086">
+        <mark key="[" line="15" column="9" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
       </file>
       <file name="E:/LLLL/anduo.git/js/grunt_minify/t/two.js" timestamp="1495435149827">
         <mark key="[" line="2" column="11" />
@@ -79,6 +83,16 @@
       <file name="E:/LLLL/anduo.git/js/grunt_minify/app.js" timestamp="1495435091926">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="E:/LLLL/anduo.git/js/grunt_gulp_minify/gulpfile.js" timestamp="1495439277850">
+        <mark key="[" line="0" column="27" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+        <mark key="^" line="1" column="0" />
+      </file>
+      <file name="E:/LLLL/anduo.git/js/grunt_gulp_test/gruntfile.js" timestamp="1495439190752">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="7" column="28" />
+      </file>
       <file name="/" timestamp="1494989021458">
         <mark key="[" line="0" column="0" />
       </file>
@@ -94,10 +108,6 @@
         <mark key="^" line="31" column="21" />
         <mark key="." line="31" column="21" />
       </file>
-      <file name="E:/WWWW/epsd.git/editor/examples/lang.html" timestamp="1495176593043">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="70" />
-      </file>
       <file name="E:/LLLL/anduo.git/js/grunt_minify/01.html" timestamp="1495436719549">
         <mark key="[" line="4" column="45" />
         <mark key="]" line="4" column="51" />
@@ -110,7 +120,6 @@
         <mark key="^" line="40" column="43" />
         <mark key="." line="114" column="0" />
       </file>
-      <file name="E:/LLLL/anduo.git/js/grunt_minify/.editorconfig" timestamp="1495437182872" />
     </filemarks>
     <jumps>
       <jump line="45" column="56" filename="E:/WWWW/epsd.git/editor/src/js/base/core/dom.js" />
@@ -157,43 +166,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>uglify</text>
+        <text>x</text>
       </register>
       <register name="-" type="4">
-        <text>uglify</text>
+        <text>x</text>
       </register>
       <register name="/" type="4">
         <text>minify</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGdydW50LmxvYWROcG1UYXNrcygnZ3J1bnQtY29udHJpYi11Z2xpZnknKTsK</text>
+        <text encoding="base64">dmFyIGNvcHkgPSByZXF1aXJlKCdndWxwLWNvbnRyaWItdWdsaWZ5Jyk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIDxzY3JpcHQgdHlwZT0idGV4dC9qYXZhc2NyaXB0IiBzcmM9InNyYy90L3R3by5qcyI+PC9zY3JpcHQ+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIDxzY3JpcHQgdHlwZT0idGV4dC9qYXZhc2NyaXB0IiBzcmM9InNyYy9vbmUuanMiPjwvc2NyaXB0Pgo=</text>
+        <text encoding="base64">ICAgIDxzY3JpcHQgdHlwZT0idGV4dC9qYXZhc2NyaXB0IiBzcmM9InNyYy90L3R3by5qcyI+PC9zY3JpcHQ+Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHN0cmljdAo=</text>
+        <text encoding="base64">ICAgIDxzY3JpcHQgdHlwZT0idGV4dC9qYXZhc2NyaXB0IiBzcmM9InNyYy9vbmUuanMiPjwvc2NyaXB0Pgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHVzZQo=</text>
+        <text encoding="base64">ICAgIHN0cmljdAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">c3RyaWN0Cg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">dXNlCg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIHN0cmljdDsK</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">ICAgIHVzZQo=</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">c3RyaWN0Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">dXNlCg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIHN0cmljdDsK</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGdydW50LmxvYWROcG1UYXNrcygnZ3J1bnQtY29udHJpYi11Z2xpZnknKTsK</text>
+        <text encoding="base64">ICAgIHVzZQo=</text>
       </register>
     </registers>
     <search>

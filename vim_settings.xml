@@ -3,12 +3,6 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="E:/LLLL/anduo.git/js/grunt_minify/normal.html" timestamp="1495435624888">
-        <mark key="'" line="10" column="0" />
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="0" />
-        <mark key="." line="9" column="0" />
-      </file>
       <file name="E:/WWWW/epsd.git/plugins/tab/Gruntfile.js" timestamp="1495180376663">
         <mark key="'" line="0" column="0" />
       </file>
@@ -17,6 +11,12 @@
       </file>
       <file name="E:/LLLL/anduo.git/js/gulp_test/gulpfile.js" timestamp="1495525705448">
         <mark key="'" line="1" column="0" />
+      </file>
+      <file name="E:/LLLL/anduo.git/js/angular_karma/app/js/test/unit/testingAngularUnitSpec.js" timestamp="1495531609332">
+        <mark key="[" line="10" column="46" />
+        <mark key="]" line="21" column="0" />
+        <mark key="^" line="9" column="7" />
+        <mark key="." line="21" column="0" />
       </file>
       <file name="E:/LLLL/anduo.git/js/grunt_minify/src/app.js" timestamp="1495437588968">
         <mark key="'" line="3" column="0" />
@@ -52,7 +52,7 @@
         <mark key="^" line="1" column="35" />
         <mark key="." line="1" column="35" />
       </file>
-      <file name="E:/LLLL/anduo.git/js/angular_karma/app/js/app.js" timestamp="1495527319453">
+      <file name="E:/LLLL/anduo.git/js/angular_karma/app/js/app.js" timestamp="1495530009387">
         <mark key="[" line="3" column="0" />
       </file>
       <file name="E:/LLLL/anduo.git/js/grunt_minify/gruntfile.js" timestamp="1495438708890">
@@ -82,6 +82,12 @@
         <mark key="]" line="14" column="26" />
         <mark key="." line="14" column="26" />
         <mark key="^" line="17" column="0" />
+      </file>
+      <file name="E:/LLLL/anduo.git/js/angular_karma/package.json" timestamp="1495530535109">
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="0" />
+        <mark key="^" line="20" column="0" />
+        <mark key="." line="18" column="0" />
       </file>
       <file name="E:/LLLL/anduo.git/js/grunt_gulp_test/gruntfile.js" timestamp="1495439190752">
         <mark key="[" line="6" column="0" />
@@ -116,10 +122,10 @@
         <mark key="^" line="1" column="41" />
         <mark key="." line="8" column="6" />
       </file>
-      <file name="E:/LLLL/anduo.git/js/angular_karma/app/bower.json" timestamp="1495528320266">
-        <mark key="[" line="18" column="27" />
-        <mark key="]" line="18" column="28" />
-        <mark key="." line="18" column="28" />
+      <file name="E:/LLLL/anduo.git/js/angular_karma/app/bower.json" timestamp="1495531405426">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="0" />
+        <mark key="." line="17" column="0" />
       </file>
       <file name="E:/LLLL/anduo.git/js/grunt_minify/01.html" timestamp="1495436719549">
         <mark key="[" line="4" column="45" />
@@ -133,11 +139,11 @@
         <mark key="^" line="40" column="43" />
         <mark key="." line="114" column="0" />
       </file>
-      <file name="E:/LLLL/anduo.git/js/angular_karma/app/js/test/karma.conf.js" timestamp="1495529229013">
-        <mark key="[" line="18" column="65" />
-        <mark key="]" line="18" column="58" />
-        <mark key="^" line="18" column="58" />
-        <mark key="." line="18" column="58" />
+      <file name="E:/LLLL/anduo.git/js/angular_karma/app/js/test/karma.conf.js" timestamp="1495531638171">
+        <mark key="[" line="59" column="30" />
+        <mark key="]" line="59" column="30" />
+        <mark key="^" line="58" column="31" />
+        <mark key="." line="59" column="30" />
       </file>
     </filemarks>
     <jumps>
@@ -187,43 +193,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>angular</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>angular</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>minify</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAnLi4vLi4vYm93ZXJfY29tcG9uZW50cy9hbmd1bGFyL2FuZ3VsYXIuanMnLCAK</text>
+        <text encoding="base64">ICAgICAgICBicm93c2VyczogWydQaGFudG9tSlMnLCAnQ2hyb21lJ10sCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAucGlwZSh1Z2xpZnkoKSkK</text>
+        <text encoding="base64">ICAgICJhbmd1bGFyLW1vY2tzIjogIl4xLjYuNCIK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICJhbmd1bGFyIjogIjEuNS4zIiwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIDxzY3JpcHQgdHlwZT0idGV4dC9qYXZhc2NyaXB0IiBzcmM9InNyYy90L3R3by5qcyI+PC9zY3JpcHQ+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIDxzY3JpcHQgdHlwZT0idGV4dC9qYXZhc2NyaXB0IiBzcmM9InNyYy9vbmUuanMiPjwvc2NyaXB0Pgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHN0cmljdAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFyIGN0cmw7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHVzZQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFyIHNjb3BlID0ge307Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">c3RyaWN0Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">dXNlCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaW5qZWN0KGZ1bmN0aW9uKCRjb250cm9sbGVyKSB7CiAgICAgICAgICAgICAgICBjdHJsID0gJGNvbnRyb2xsZXIoJ3Rlc3RpbmdBbmd1bGFyQ3RybCcsIHskc2NvcGU6IHNjb3BlfSk7CiAgICAgICAgICAgIH0pOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHN0cmljdDsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
     </registers>
     <search>
@@ -288,6 +294,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed A</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed Y</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>

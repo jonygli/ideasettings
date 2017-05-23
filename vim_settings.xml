@@ -18,6 +18,9 @@
       <file name="E:/WWWW/epsd.git/plugins/tab/tab.js" timestamp="1495420744166">
         <mark key="'" line="0" column="4" />
       </file>
+      <file name="E:/LLLL/anduo.git/js/gulp_test/gulpfile.js" timestamp="1495525705448">
+        <mark key="'" line="1" column="0" />
+      </file>
       <file name="E:/LLLL/anduo.git/js/grunt_minify/src/app.js" timestamp="1495437588968">
         <mark key="'" line="3" column="0" />
         <mark key="[" line="0" column="0" />
@@ -169,6 +172,8 @@
       <jump line="1" column="23" filename="E:/LLLL/anduo.git/js/grunt_minify/one.js" />
       <jump line="0" column="0" filename="E:/LLLL/anduo.git/js/grunt_minify/one.js" />
       <jump line="1" column="0" filename="E:/LLLL/anduo.git/js/grunt_minify/src/app.js" />
+      <jump line="31" column="28" filename="E:/LLLL/anduo.git/js/gulp_test/gulpfile.js" />
+      <jump line="1" column="0" filename="E:/LLLL/anduo.git/js/gulp_test/gulpfile.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">

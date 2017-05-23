@@ -12,11 +12,12 @@
       <file name="E:/LLLL/anduo.git/js/gulp_test/gulpfile.js" timestamp="1495525705448">
         <mark key="'" line="1" column="0" />
       </file>
-      <file name="E:/LLLL/anduo.git/js/angular_karma/app/js/test/unit/testingAngularUnitSpec.js" timestamp="1495531609332">
-        <mark key="[" line="10" column="46" />
-        <mark key="]" line="21" column="0" />
-        <mark key="^" line="9" column="7" />
-        <mark key="." line="21" column="0" />
+      <file name="E:/LLLL/anduo.git/js/angular_karma/app/js/test/unit/testingAngularUnitSpec.js" timestamp="1495533802391">
+        <mark key="'" line="21" column="32" />
+        <mark key="[" line="27" column="48" />
+        <mark key="]" line="27" column="48" />
+        <mark key="^" line="27" column="48" />
+        <mark key="." line="27" column="48" />
       </file>
       <file name="E:/LLLL/anduo.git/js/grunt_minify/src/app.js" timestamp="1495437588968">
         <mark key="'" line="3" column="0" />
@@ -52,8 +53,11 @@
         <mark key="^" line="1" column="35" />
         <mark key="." line="1" column="35" />
       </file>
-      <file name="E:/LLLL/anduo.git/js/angular_karma/app/js/app.js" timestamp="1495530009387">
-        <mark key="[" line="3" column="0" />
+      <file name="E:/LLLL/anduo.git/js/angular_karma/app/js/app.js" timestamp="1495532950943">
+        <mark key="[" line="11" column="10" />
+        <mark key="]" line="11" column="10" />
+        <mark key="^" line="12" column="25" />
+        <mark key="." line="11" column="10" />
       </file>
       <file name="E:/LLLL/anduo.git/js/grunt_minify/gruntfile.js" timestamp="1495438708890">
         <mark key="[" line="35" column="9" />
@@ -116,11 +120,11 @@
         <mark key="]" line="4" column="11" />
         <mark key="." line="4" column="11" />
       </file>
-      <file name="E:/LLLL/anduo.git/js/angular_karma/app/index.html" timestamp="1495527334458">
-        <mark key="[" line="8" column="6" />
-        <mark key="]" line="8" column="6" />
-        <mark key="^" line="1" column="41" />
-        <mark key="." line="8" column="6" />
+      <file name="E:/LLLL/anduo.git/js/angular_karma/app/index.html" timestamp="1495533211790">
+        <mark key="[" line="13" column="51" />
+        <mark key="]" line="13" column="51" />
+        <mark key="^" line="13" column="50" />
+        <mark key="." line="13" column="51" />
       </file>
       <file name="E:/LLLL/anduo.git/js/angular_karma/app/bower.json" timestamp="1495531405426">
         <mark key="[" line="17" column="0" />
@@ -190,19 +194,20 @@
       <jump line="1" column="0" filename="E:/LLLL/anduo.git/js/grunt_minify/src/app.js" />
       <jump line="31" column="28" filename="E:/LLLL/anduo.git/js/gulp_test/gulpfile.js" />
       <jump line="1" column="0" filename="E:/LLLL/anduo.git/js/gulp_test/gulpfile.js" />
+      <jump line="21" column="32" filename="E:/LLLL/anduo.git/js/angular_karma/app/js/test/unit/testingAngularUnitSpec.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>cwLondon</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>cwLondon</text>
       </register>
       <register name="/" type="4">
-        <text>minify</text>
+        <text encoding="base64">XDx0b0JlRGVmaW5lZFw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBicm93c2VyczogWydQaGFudG9tSlMnLCAnQ2hyb21lJ10sCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZXhwZWN0KHNjb3BlLmRlc3Rpb25hdGlvbnNbMF0pLmNpdHkudG9CZSgnTG9uZG9uJyk7Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICJhbmd1bGFyLW1vY2tzIjogIl4xLjYuNCIK</text>
@@ -233,9 +238,9 @@
       </register>
     </registers>
     <search>
-      <last-search>minify</last-search>
+      <last-search encoding="base64">XDx0b0JlRGVmaW5lZFw+</last-search>
       <last-offset />
-      <last-pattern>minify</last-pattern>
+      <last-pattern encoding="base64">XDx0b0JlRGVmaW5lZFw+</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxwYXJzZVN0clw+</last-substitute>
       <last-dir>1</last-dir>
@@ -247,6 +252,7 @@
         <entry encoding="base64">XDxjdXN0b21MYXVuY2hlcnNcPg==</entry>
         <entry>loadNpm</entry>
         <entry>minify</entry>
+        <entry encoding="base64">XDx0b0JlRGVmaW5lZFw+</entry>
       </history-search>
       <history-cmd />
       <history-expr />

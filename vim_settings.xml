@@ -12,12 +12,12 @@
       <file name="E:/LLLL/anduo.git/js/gulp_test/gulpfile.js" timestamp="1495525705448">
         <mark key="'" line="1" column="0" />
       </file>
-      <file name="E:/LLLL/anduo.git/js/angular_karma/app/js/test/unit/testingAngularUnitSpec.js" timestamp="1495533802391">
+      <file name="E:/LLLL/anduo.git/js/angular_karma/app/js/test/unit/testingAngularUnitSpec.js" timestamp="1495537847771">
         <mark key="'" line="21" column="32" />
-        <mark key="[" line="27" column="48" />
-        <mark key="]" line="27" column="48" />
-        <mark key="^" line="27" column="48" />
-        <mark key="." line="27" column="48" />
+        <mark key="[" line="45" column="0" />
+        <mark key="]" line="46" column="67" />
+        <mark key="^" line="35" column="44" />
+        <mark key="." line="45" column="0" />
       </file>
       <file name="E:/LLLL/anduo.git/js/grunt_minify/src/app.js" timestamp="1495437588968">
         <mark key="'" line="3" column="0" />
@@ -197,44 +197,44 @@
       <jump line="21" column="32" filename="E:/LLLL/anduo.git/js/angular_karma/app/js/test/unit/testingAngularUnitSpec.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>cwLondon</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgZXhwZWN0KHNjb3BlLmRlc3Rpb25hdGlvbnNbMF0uY2l0eSkudG9CZSgnTG9uZG9uJyk7CiAgICAgICAgICAgIGV4cGVjdChzY29wZS5kZXN0aW9uYXRpb25zWzBdLmNvdW50cnkpLnRvQmUoJ0VuZ2xhbmQnKTsK</text>
       </register>
       <register name="-" type="4">
-        <text>cwLondon</text>
+        <text>England</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx0b0JlRGVmaW5lZFw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZXhwZWN0KHNjb3BlLmRlc3Rpb25hdGlvbnNbMF0pLmNpdHkudG9CZSgnTG9uZG9uJyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZXhwZWN0KHNjb3BlLmRlc3Rpb25hdGlvbnNbMF0uY2l0eSkudG9CZSgnTG9uZG9uJyk7CiAgICAgICAgICAgIGV4cGVjdChzY29wZS5kZXN0aW9uYXRpb25zWzBdLmNvdW50cnkpLnRvQmUoJ0VuZ2xhbmQnKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICJhbmd1bGFyLW1vY2tzIjogIl4xLjYuNCIK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICJhbmd1bGFyIjogIjEuNS4zIiwK</text>
+        <text encoding="base64">ICAgICJhbmd1bGFyLW1vY2tzIjogIl4xLjYuNCIK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICJhbmd1bGFyIjogIjEuNS4zIiwK</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIGN0cmw7Cg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIHNjb3BlID0ge307Cg==</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgdmFyIGN0cmw7Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgdmFyIHNjb3BlID0ge307Cg==</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaW5qZWN0KGZ1bmN0aW9uKCRjb250cm9sbGVyKSB7CiAgICAgICAgICAgICAgICBjdHJsID0gJGNvbnRyb2xsZXIoJ3Rlc3RpbmdBbmd1bGFyQ3RybCcsIHskc2NvcGU6IHNjb3BlfSk7CiAgICAgICAgICAgIH0pOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaW5qZWN0KGZ1bmN0aW9uKCRjb250cm9sbGVyKSB7CiAgICAgICAgICAgICAgICBjdHJsID0gJGNvbnRyb2xsZXIoJ3Rlc3RpbmdBbmd1bGFyQ3RybCcsIHskc2NvcGU6IHNjb3BlfSk7CiAgICAgICAgICAgIH0pOwo=</text>
       </register>
     </registers>
     <search>

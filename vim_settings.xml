@@ -12,9 +12,6 @@
       <file name="E:/WWWW/epsd.git/plugins/tab/Gruntfile.js" timestamp="1495180376663">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="/fragment.js" timestamp="1494989103495">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="E:/WWWW/epsd.git/plugins/tab/tab.js" timestamp="1495420744166">
         <mark key="'" line="0" column="4" />
       </file>
@@ -55,14 +52,14 @@
         <mark key="^" line="1" column="35" />
         <mark key="." line="1" column="35" />
       </file>
+      <file name="E:/LLLL/anduo.git/js/angular_karma/app/js/app.js" timestamp="1495527319453">
+        <mark key="[" line="3" column="0" />
+      </file>
       <file name="E:/LLLL/anduo.git/js/grunt_minify/gruntfile.js" timestamp="1495438708890">
         <mark key="[" line="35" column="9" />
         <mark key="]" line="4" column="42" />
         <mark key="." line="4" column="42" />
         <mark key="^" line="4" column="42" />
-      </file>
-      <file name="/JavaScript Console" timestamp="1494989496577">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="E:/LLLL/youtube-channel-source-code/angular-1/02-Controllers and Scope/02-using scope.htm" timestamp="1494936155880">
         <mark key="[" line="13" column="7" />
@@ -80,12 +77,6 @@
         <mark key="^" line="21" column="0" />
         <mark key="." line="21" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1495422997810">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="E:/LLLL/anduo.git/js/grunt_minify/app.js" timestamp="1495435091926">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="E:/LLLL/anduo.git/js/grunt_gulp_minify/gulpfile.js" timestamp="1495441383356">
         <mark key="[" line="14" column="26" />
         <mark key="]" line="14" column="26" />
@@ -102,9 +93,6 @@
         <mark key="^" line="2" column="30" />
         <mark key="." line="2" column="31" />
       </file>
-      <file name="/" timestamp="1494989021458">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="E:/LLLL/anduo.git/js/grunt_minify/src/t/two.js" timestamp="1495437386436">
         <mark key="[" line="3" column="1" />
         <mark key="]" line="1" column="12" />
@@ -116,6 +104,17 @@
         <mark key="]" line="31" column="21" />
         <mark key="^" line="31" column="21" />
         <mark key="." line="31" column="21" />
+      </file>
+      <file name="E:/LLLL/anduo.git/js/angular_karma/index.html" timestamp="1495527001749">
+        <mark key="[" line="4" column="11" />
+        <mark key="]" line="4" column="11" />
+        <mark key="." line="4" column="11" />
+      </file>
+      <file name="E:/LLLL/anduo.git/js/angular_karma/app/index.html" timestamp="1495527334458">
+        <mark key="[" line="8" column="6" />
+        <mark key="]" line="8" column="6" />
+        <mark key="^" line="1" column="41" />
+        <mark key="." line="8" column="6" />
       </file>
       <file name="E:/LLLL/anduo.git/js/grunt_minify/01.html" timestamp="1495436719549">
         <mark key="[" line="4" column="45" />
@@ -177,10 +176,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">c2FtcGxlIA==</text>
+        <text encoding="base64">bmctYXBwPSJ0ZXN0aW5nQW5ndWxhckFwcCIg</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">c2FtcGxlIA==</text>
+        <text encoding="base64">bmctYXBwPSJ0ZXN0aW5nQW5ndWxhckFwcCIg</text>
       </register>
       <register name="/" type="4">
         <text>minify</text>

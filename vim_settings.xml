@@ -133,6 +133,12 @@
         <mark key="^" line="40" column="43" />
         <mark key="." line="114" column="0" />
       </file>
+      <file name="E:/LLLL/anduo.git/js/angular_karma/app/js/test/karma.conf.js" timestamp="1495529229013">
+        <mark key="[" line="18" column="65" />
+        <mark key="]" line="18" column="58" />
+        <mark key="^" line="18" column="58" />
+        <mark key="." line="18" column="58" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="45" column="56" filename="E:/WWWW/epsd.git/editor/src/js/base/core/dom.js" />
@@ -181,16 +187,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">bmctYXBwPSJ0ZXN0aW5nQW5ndWxhckFwcCIg</text>
+        <text>angular</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">bmctYXBwPSJ0ZXN0aW5nQW5ndWxhckFwcCIg</text>
+        <text>angular</text>
       </register>
       <register name="/" type="4">
         <text>minify</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">Z3VscC50YXNrKCd0MScsIGZ1bmN0aW9uKCkgewogICAgcmV0dXJuIGd1bHAuc3JjKCdzcmMvKiovKi5qcycpCiAgICAgICAgLnBpcGUoY29uY2F0KCdhbGwubWluLmpzJykpCiAgICAgICAgLnBpcGUodWdsaWZ5KCkpCiAgICAgICAgLnBpcGUoZ3VscC5kZXN0KCdkZXN0LycpKTsKfSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAnLi4vLi4vYm93ZXJfY29tcG9uZW50cy9hbmd1bGFyL2FuZ3VsYXIuanMnLCAK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAucGlwZSh1Z2xpZnkoKSkK</text>

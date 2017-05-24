@@ -9,6 +9,9 @@
       <file name="E:/WWWW/epsd.git/plugins/tab/Gruntfile.js" timestamp="1495180376663">
         <mark key="'" line="0" column="0" />
       </file>
+      <file name="/fragment.js" timestamp="1494989103495">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="E:/WWWW/epsd.git/plugins/tab/tab.js" timestamp="1495420744166">
         <mark key="'" line="0" column="4" />
       </file>
@@ -30,38 +33,18 @@
         <mark key="]" line="12" column="0" />
         <mark key="." line="12" column="0" />
       </file>
-      <file name="E:/LLLL/anduo.git/js/grunt_minify/t/two.js" timestamp="1495435149827">
-        <mark key="[" line="2" column="11" />
-        <mark key="]" line="2" column="16" />
-        <mark key="." line="2" column="16" />
-        <mark key="^" line="2" column="16" />
-      </file>
-      <file name="E:/LLLL/anduo.git/js/grunt_minify/src/one.js" timestamp="1495436361871">
-        <mark key="[" line="2" column="1" />
-        <mark key="]" line="1" column="35" />
-        <mark key="^" line="1" column="35" />
-        <mark key="." line="1" column="35" />
-      </file>
       <file name="E:/LLLL/anduo.git/js/angular_karma/app/js/app.js" timestamp="1495532950943">
         <mark key="[" line="11" column="10" />
         <mark key="]" line="11" column="10" />
         <mark key="^" line="12" column="25" />
         <mark key="." line="11" column="10" />
       </file>
-      <file name="E:/LLLL/anduo.git/js/grunt_minify/gruntfile.js" timestamp="1495438708890">
-        <mark key="[" line="35" column="9" />
-        <mark key="]" line="4" column="42" />
-        <mark key="." line="4" column="42" />
-        <mark key="^" line="4" column="42" />
+      <file name="E:/WWWW/epsd.git/editor/.jscsrc" timestamp="1495610959541" />
+      <file name="/JavaScript Console" timestamp="1494989496577">
+        <mark key="[" line="0" column="0" />
       </file>
-      <file name="E:/LLLL/youtube-channel-source-code/angular-1/02-Controllers and Scope/02-using scope.htm" timestamp="1494936155880">
-        <mark key="[" line="13" column="7" />
-        <mark key="]" line="1" column="11" />
-        <mark key="^" line="1" column="11" />
-        <mark key="." line="1" column="11" />
-      </file>
-      <file name="E:/WWWW/epsd.git/editor/Gruntfile.js" timestamp="1495522107982">
-        <mark key="'" line="15" column="30" />
+      <file name="E:/WWWW/epsd.git/editor/Gruntfile.js" timestamp="1495612012623">
+        <mark key="'" line="0" column="0" />
       </file>
       <file name="E:/LLLL/anduo.git/js/yeoman_tutorial/app/scripts/app.js" timestamp="1495598124281" />
       <file name="E:/LLLL/anduo.git/js/yeoman_tutorial/test/spec/controllers/main.js" timestamp="1495606631275">
@@ -69,14 +52,20 @@
         <mark key="]" line="20" column="48" />
         <mark key="." line="20" column="48" />
       </file>
+      <file name="E:/WWWW/epsd.git/.jshintrc" timestamp="1495612279221">
+        <mark key="[" line="29" column="26" />
+        <mark key="]" line="23" column="0" />
+        <mark key="." line="23" column="0" />
+        <mark key="^" line="28" column="21" />
+      </file>
       <file name="E:/LLLL/anduo.git/js/yeoman_tutorial/Gruntfile.js" timestamp="1495606808737">
         <mark key="'" line="446" column="21" />
       </file>
-      <file name="E:/LLLL/anduo.git/js/grunt_gulp_minify/gulpfile.js" timestamp="1495441383356">
-        <mark key="[" line="14" column="26" />
-        <mark key="]" line="14" column="26" />
-        <mark key="." line="14" column="26" />
-        <mark key="^" line="17" column="0" />
+      <file name="/Dummy.txt" timestamp="1495609623875">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="E:/LLLL/anduo.git/js/grunt_minify/app.js" timestamp="1495435091926">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="E:/LLLL/anduo.git/js/angular_karma/package.json" timestamp="1495530535109">
         <mark key="[" line="18" column="0" />
@@ -84,32 +73,19 @@
         <mark key="^" line="20" column="0" />
         <mark key="." line="18" column="0" />
       </file>
-      <file name="E:/LLLL/anduo.git/js/grunt_gulp_test/gruntfile.js" timestamp="1495439190752">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="7" column="28" />
+      <file name="E:/WWWW/epsd.git/editor/test/unit/bs3/ui.spec.js" timestamp="1495611924661">
+        <mark key="'" line="13" column="0" />
       </file>
-      <file name="E:/LLLL/anduo.git/js/grunt_gulp_minify/src/t/two.js" timestamp="1495441195710">
-        <mark key="[" line="2" column="31" />
-        <mark key="]" line="2" column="31" />
-        <mark key="^" line="2" column="30" />
-        <mark key="." line="2" column="31" />
-      </file>
-      <file name="E:/LLLL/anduo.git/js/grunt_minify/src/t/two.js" timestamp="1495437386436">
-        <mark key="[" line="3" column="1" />
-        <mark key="]" line="1" column="12" />
-        <mark key="^" line="1" column="12" />
-        <mark key="." line="1" column="12" />
-      </file>
-      <file name="E:/LLLL/anduo.git/js/grunt_minify/.jshintrc" timestamp="1495437699778">
-        <mark key="[" line="30" column="8" />
-        <mark key="]" line="31" column="21" />
-        <mark key="^" line="31" column="21" />
-        <mark key="." line="31" column="21" />
+      <file name="/" timestamp="1494989021458">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="E:/LLLL/anduo.git/js/angular_karma/index.html" timestamp="1495527001749">
         <mark key="[" line="4" column="11" />
         <mark key="]" line="4" column="11" />
         <mark key="." line="4" column="11" />
+      </file>
+      <file name="E:/WWWW/epsd.git/editor/grunts/grunt-build.js" timestamp="1495610322601">
+        <mark key="'" line="14" column="27" />
       </file>
       <file name="E:/LLLL/anduo.git/js/angular_karma/app/index.html" timestamp="1495533211790">
         <mark key="[" line="13" column="51" />
@@ -122,17 +98,12 @@
         <mark key="]" line="17" column="0" />
         <mark key="." line="17" column="0" />
       </file>
-      <file name="E:/LLLL/anduo.git/js/grunt_minify/01.html" timestamp="1495436719549">
-        <mark key="[" line="4" column="45" />
-        <mark key="]" line="4" column="51" />
-        <mark key="." line="4" column="51" />
-        <mark key="^" line="4" column="51" />
-      </file>
-      <file name="E:/WWWW/epsd.git/editor/README.md" timestamp="1495177818199">
-        <mark key="[" line="114" column="0" />
-        <mark key="]" line="114" column="0" />
-        <mark key="^" line="40" column="43" />
-        <mark key="." line="114" column="0" />
+      <file name="E:/WWWW/epsd.git/.jscsrc" timestamp="1495611048714">
+        <mark key="'" line="20" column="8" />
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="24" column="0" />
+        <mark key="^" line="23" column="4" />
+        <mark key="." line="24" column="0" />
       </file>
       <file name="E:/LLLL/anduo.git/js/angular_karma/app/js/test/karma.conf.js" timestamp="1495597483982">
         <mark key="[" line="59" column="30" />
@@ -204,52 +175,58 @@
       <jump line="429" column="22" filename="E:/LLLL/anduo.git/js/yeoman_tutorial/Gruntfile.js" />
       <jump line="448" column="0" filename="E:/LLLL/anduo.git/js/yeoman_tutorial/Gruntfile.js" />
       <jump line="446" column="21" filename="E:/LLLL/anduo.git/js/yeoman_tutorial/Gruntfile.js" />
+      <jump line="14" column="27" filename="E:/WWWW/epsd.git/editor/grunts/grunt-build.js" />
+      <jump line="20" column="8" filename="E:/WWWW/epsd.git/.jscsrc" />
+      <jump line="13" column="0" filename="E:/WWWW/epsd.git/editor/test/unit/bs3/ui.spec.js" />
+      <jump line="219" column="13" filename="E:/WWWW/epsd.git/editor/Gruntfile.js" />
+      <jump line="0" column="0" filename="E:/WWWW/epsd.git/editor/Gruntfile.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZXhwZWN0KHNjb3BlLmRlc3Rpb25hdGlvbnNbMF0uY2l0eSkudG9CZSgnTG9uZG9uJyk7CiAgICAgICAgICAgIGV4cGVjdChzY29wZS5kZXN0aW9uYXRpb25zWzBdLmNvdW50cnkpLnRvQmUoJ0VuZ2xhbmQnKTsK</text>
+        <text encoding="base64">ICAgICJtb2NoYSI6IHRydWUsCg==</text>
       </register>
       <register name="-" type="4">
-        <text>England</text>
+        <text>false</text>
       </register>
       <register name="/" type="4">
-        <text>serve:</text>
+        <text>jshint</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZXhwZWN0KHNjb3BlLmRlc3Rpb25hdGlvbnNbMF0uY2l0eSkudG9CZSgnTG9uZG9uJyk7CiAgICAgICAgICAgIGV4cGVjdChzY29wZS5kZXN0aW9uYXRpb25zWzBdLmNvdW50cnkpLnRvQmUoJ0VuZ2xhbmQnKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICJtb2NoYSI6IHRydWUsCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICJhbmd1bGFyLW1vY2tzIjogIl4xLjYuNCIK</text>
+        <text encoding="base64">ICAgICAgICAiZGVzY3JpYmUiLAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICJhbmd1bGFyIjogIjEuNS4zIiwK</text>
+        <text encoding="base64">ICAgICJtb2NoYSI6IHRydWUsCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Lypqc2hpbnQgbm9kZTp0cnVlLCBtb2NoYTp0cnVlICovCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIH0sCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIGN0cmw7Cg==</text>
+        <text encoding="base64">ICAgICJvcHRpb25zIjogewo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIHNjb3BlID0ge307Cg==</text>
+        <text encoding="base64">ICAgIF0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICJleGNsdWRlRmlsZXMiOiBbCg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaW5qZWN0KGZ1bmN0aW9uKCRjb250cm9sbGVyKSB7CiAgICAgICAgICAgICAgICBjdHJsID0gJGNvbnRyb2xsZXIoJ3Rlc3RpbmdBbmd1bGFyQ3RybCcsIHskc2NvcGU6IHNjb3BlfSk7CiAgICAgICAgICAgIH0pOwo=</text>
+      <register name="9" type="4">
+        <text>,
+    &quot;</text>
       </register>
     </registers>
     <search>
-      <last-search>serve:</last-search>
+      <last-search>jshint</last-search>
       <last-offset />
-      <last-pattern>serve:</last-pattern>
+      <last-pattern>jshint</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxwYXJzZVN0clw+</last-substitute>
       <last-dir>1</last-dir>
@@ -266,6 +243,7 @@
         <entry>ng-</entry>
         <entry>serve</entry>
         <entry>serve:</entry>
+        <entry>jshint</entry>
       </history-search>
       <history-cmd />
       <history-expr />

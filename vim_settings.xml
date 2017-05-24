@@ -121,11 +121,11 @@
         <mark key="]" line="17" column="0" />
         <mark key="." line="17" column="0" />
       </file>
-      <file name="E:/WWWW/epsd.git/.jscsrc" timestamp="1495619723309">
-        <mark key="[" line="21" column="9" />
-        <mark key="]" line="22" column="0" />
-        <mark key="^" line="18" column="32" />
-        <mark key="." line="22" column="0" />
+      <file name="E:/WWWW/epsd.git/.jscsrc" timestamp="1495620060415">
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="20" column="26" />
+        <mark key="^" line="17" column="15" />
+        <mark key="." line="19" column="0" />
       </file>
       <file name="E:/WWWW/epsd.git/editor/meteor/package.js" timestamp="1495618041301">
         <mark key="[" line="6" column="44" />
@@ -218,7 +218,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAibm9kZV9tb2R1bGVzLyoqLyouanMiLAo=</text>
+        <text encoding="base64">ICAgICAgICAic3JjL2pzL2ludHJvLmpzIiwKICAgICAgICAic3JjL2pzL291dHJvLmpzIiwK</text>
       </register>
       <register name="-" type="4">
         <text>/</text>
@@ -227,7 +227,7 @@
         <text>lang</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAibm9kZV9tb2R1bGVzLyoqLyouanMiLAo=</text>
+        <text encoding="base64">ICAgICAgICAic3JjL2pzL2ludHJvLmpzIiwKICAgICAgICAic3JjL2pzL291dHJvLmpzIiwK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAibm9kZV9tb2R1bGVzLyoqLyouanMiLAo=</text>

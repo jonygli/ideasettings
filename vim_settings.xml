@@ -22,20 +22,6 @@
         <mark key="^" line="35" column="44" />
         <mark key="." line="45" column="0" />
       </file>
-      <file name="E:/LLLL/anduo.git/js/grunt_minify/src/app.js" timestamp="1495437588968">
-        <mark key="'" line="3" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="^" line="3" column="0" />
-        <mark key="." line="3" column="0" />
-      </file>
-      <file name="E:/LLLL/anduo.git/js/grunt_minify/one.js" timestamp="1495435135203">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="^" line="1" column="23" />
-        <mark key="." line="1" column="23" />
-      </file>
       <file name="E:/WWWW/epsd.git/plugins/tab/converter.js" timestamp="1495422683249">
         <mark key="'" line="25" column="0" />
       </file>
@@ -78,15 +64,13 @@
         <mark key="'" line="15" column="30" />
       </file>
       <file name="E:/LLLL/anduo.git/js/yeoman_tutorial/app/scripts/app.js" timestamp="1495598124281" />
-      <file name="E:/WWWW/epsd.git/editor/src/js/app.js" timestamp="1494988911642">
-        <mark key="'" line="62" column="0" />
-        <mark key="[" line="20" column="3" />
-        <mark key="]" line="21" column="0" />
-        <mark key="^" line="21" column="0" />
-        <mark key="." line="21" column="0" />
+      <file name="E:/LLLL/anduo.git/js/yeoman_tutorial/test/spec/controllers/main.js" timestamp="1495606631275">
+        <mark key="[" line="20" column="47" />
+        <mark key="]" line="20" column="48" />
+        <mark key="." line="20" column="48" />
       </file>
-      <file name="E:/LLLL/anduo.git/js/yeoman_tutorial/Gruntfile.js" timestamp="1495597524471">
-        <mark key="'" line="482" column="1" />
+      <file name="E:/LLLL/anduo.git/js/yeoman_tutorial/Gruntfile.js" timestamp="1495606808737">
+        <mark key="'" line="446" column="21" />
       </file>
       <file name="E:/LLLL/anduo.git/js/grunt_gulp_minify/gulpfile.js" timestamp="1495441383356">
         <mark key="[" line="14" column="26" />
@@ -210,6 +194,16 @@
       <jump line="17" column="8" filename="E:/LLLL/anduo.git/js/yeoman_tutorial/app/index.html" />
       <jump line="42" column="21" filename="E:/LLLL/anduo.git/js/yeoman_tutorial/app/index.html" />
       <jump line="43" column="21" filename="E:/LLLL/anduo.git/js/yeoman_tutorial/app/index.html" />
+      <jump line="372" column="8" filename="E:/LLLL/anduo.git/js/yeoman_tutorial/Gruntfile.js" />
+      <jump line="0" column="0" filename="E:/LLLL/anduo.git/js/yeoman_tutorial/Gruntfile.js" />
+      <jump line="69" column="24" filename="E:/LLLL/anduo.git/js/yeoman_tutorial/Gruntfile.js" />
+      <jump line="73" column="50" filename="E:/LLLL/anduo.git/js/yeoman_tutorial/Gruntfile.js" />
+      <jump line="169" column="6" filename="E:/LLLL/anduo.git/js/yeoman_tutorial/Gruntfile.js" />
+      <jump line="179" column="6" filename="E:/LLLL/anduo.git/js/yeoman_tutorial/Gruntfile.js" />
+      <jump line="406" column="6" filename="E:/LLLL/anduo.git/js/yeoman_tutorial/Gruntfile.js" />
+      <jump line="429" column="22" filename="E:/LLLL/anduo.git/js/yeoman_tutorial/Gruntfile.js" />
+      <jump line="448" column="0" filename="E:/LLLL/anduo.git/js/yeoman_tutorial/Gruntfile.js" />
+      <jump line="446" column="21" filename="E:/LLLL/anduo.git/js/yeoman_tutorial/Gruntfile.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -219,7 +213,7 @@
         <text>England</text>
       </register>
       <register name="/" type="4">
-        <text>ng-</text>
+        <text>serve:</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZXhwZWN0KHNjb3BlLmRlc3Rpb25hdGlvbnNbMF0uY2l0eSkudG9CZSgnTG9uZG9uJyk7CiAgICAgICAgICAgIGV4cGVjdChzY29wZS5kZXN0aW9uYXRpb25zWzBdLmNvdW50cnkpLnRvQmUoJ0VuZ2xhbmQnKTsK</text>
@@ -253,9 +247,9 @@
       </register>
     </registers>
     <search>
-      <last-search>ng-</last-search>
+      <last-search>serve:</last-search>
       <last-offset />
-      <last-pattern>ng-</last-pattern>
+      <last-pattern>serve:</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxwYXJzZVN0clw+</last-substitute>
       <last-dir>1</last-dir>
@@ -270,6 +264,8 @@
         <entry encoding="base64">XDx0b0JlRGVmaW5lZFw+</entry>
         <entry>ng</entry>
         <entry>ng-</entry>
+        <entry>serve</entry>
+        <entry>serve:</entry>
       </history-search>
       <history-cmd />
       <history-expr />

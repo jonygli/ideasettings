@@ -3,6 +3,9 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="E:/LLLL/anduo.git/js/yeoman_tutorial/app/index.html" timestamp="1495597763186">
+        <mark key="'" line="43" column="21" />
+      </file>
       <file name="E:/WWWW/epsd.git/plugins/tab/Gruntfile.js" timestamp="1495180376663">
         <mark key="'" line="0" column="0" />
       </file>
@@ -74,12 +77,16 @@
       <file name="E:/WWWW/epsd.git/editor/Gruntfile.js" timestamp="1495522107982">
         <mark key="'" line="15" column="30" />
       </file>
+      <file name="E:/LLLL/anduo.git/js/yeoman_tutorial/app/scripts/app.js" timestamp="1495598124281" />
       <file name="E:/WWWW/epsd.git/editor/src/js/app.js" timestamp="1494988911642">
         <mark key="'" line="62" column="0" />
         <mark key="[" line="20" column="3" />
         <mark key="]" line="21" column="0" />
         <mark key="^" line="21" column="0" />
         <mark key="." line="21" column="0" />
+      </file>
+      <file name="E:/LLLL/anduo.git/js/yeoman_tutorial/Gruntfile.js" timestamp="1495597524471">
+        <mark key="'" line="482" column="1" />
       </file>
       <file name="E:/LLLL/anduo.git/js/grunt_gulp_minify/gulpfile.js" timestamp="1495441383356">
         <mark key="[" line="14" column="26" />
@@ -143,7 +150,7 @@
         <mark key="^" line="40" column="43" />
         <mark key="." line="114" column="0" />
       </file>
-      <file name="E:/LLLL/anduo.git/js/angular_karma/app/js/test/karma.conf.js" timestamp="1495596768351">
+      <file name="E:/LLLL/anduo.git/js/angular_karma/app/js/test/karma.conf.js" timestamp="1495597483982">
         <mark key="[" line="59" column="30" />
         <mark key="]" line="59" column="30" />
         <mark key="^" line="58" column="31" />
@@ -195,6 +202,14 @@
       <jump line="31" column="28" filename="E:/LLLL/anduo.git/js/gulp_test/gulpfile.js" />
       <jump line="1" column="0" filename="E:/LLLL/anduo.git/js/gulp_test/gulpfile.js" />
       <jump line="21" column="32" filename="E:/LLLL/anduo.git/js/angular_karma/app/js/test/unit/testingAngularUnitSpec.js" />
+      <jump line="21" column="42" filename="E:/LLLL/anduo.git/js/yeoman_tutorial/Gruntfile.js" />
+      <jump line="27" column="0" filename="E:/LLLL/anduo.git/js/yeoman_tutorial/Gruntfile.js" />
+      <jump line="482" column="1" filename="E:/LLLL/anduo.git/js/yeoman_tutorial/Gruntfile.js" />
+      <jump line="3" column="25" filename="E:/LLLL/anduo.git/js/yeoman_tutorial/app/index.html" />
+      <jump line="8" column="4" filename="E:/LLLL/anduo.git/js/yeoman_tutorial/app/index.html" />
+      <jump line="17" column="8" filename="E:/LLLL/anduo.git/js/yeoman_tutorial/app/index.html" />
+      <jump line="42" column="21" filename="E:/LLLL/anduo.git/js/yeoman_tutorial/app/index.html" />
+      <jump line="43" column="21" filename="E:/LLLL/anduo.git/js/yeoman_tutorial/app/index.html" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -204,7 +219,7 @@
         <text>England</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDx0b0JlRGVmaW5lZFw+</text>
+        <text>ng-</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZXhwZWN0KHNjb3BlLmRlc3Rpb25hdGlvbnNbMF0uY2l0eSkudG9CZSgnTG9uZG9uJyk7CiAgICAgICAgICAgIGV4cGVjdChzY29wZS5kZXN0aW9uYXRpb25zWzBdLmNvdW50cnkpLnRvQmUoJ0VuZ2xhbmQnKTsK</text>
@@ -238,9 +253,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDx0b0JlRGVmaW5lZFw+</last-search>
+      <last-search>ng-</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDx0b0JlRGVmaW5lZFw+</last-pattern>
+      <last-pattern>ng-</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxwYXJzZVN0clw+</last-substitute>
       <last-dir>1</last-dir>
@@ -253,6 +268,8 @@
         <entry>loadNpm</entry>
         <entry>minify</entry>
         <entry encoding="base64">XDx0b0JlRGVmaW5lZFw+</entry>
+        <entry>ng</entry>
+        <entry>ng-</entry>
       </history-search>
       <history-cmd />
       <history-expr />

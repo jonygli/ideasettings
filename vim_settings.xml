@@ -48,6 +48,9 @@
         <mark key="]" line="6" column="45" />
         <mark key="." line="6" column="45" />
       </file>
+      <file name="E:/WWWW/epsd.git/editor/.jscsrc" timestamp="1495623779392">
+        <mark key="[" line="18" column="26" />
+      </file>
       <file name="/JavaScript Console" timestamp="1494989496577">
         <mark key="[" line="0" column="0" />
       </file>
@@ -102,6 +105,11 @@
         <mark key="]" line="4" column="11" />
         <mark key="." line="4" column="11" />
       </file>
+      <file name="E:/WWWW/epsd.git/editor/.jshintignore" timestamp="1495623523092">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+      </file>
       <file name="E:/WWWW/epsd.git/editor/grunts/grunt-build.js" timestamp="1495610322601">
         <mark key="'" line="14" column="27" />
       </file>
@@ -121,11 +129,11 @@
         <mark key="]" line="17" column="0" />
         <mark key="." line="17" column="0" />
       </file>
-      <file name="E:/WWWW/epsd.git/.jscsrc" timestamp="1495620060415">
-        <mark key="[" line="19" column="0" />
-        <mark key="]" line="20" column="26" />
+      <file name="E:/WWWW/epsd.git/.jscsrc" timestamp="1495623083646">
+        <mark key="[" line="21" column="9" />
+        <mark key="]" line="21" column="9" />
         <mark key="^" line="17" column="15" />
-        <mark key="." line="19" column="0" />
+        <mark key="." line="21" column="9" />
       </file>
       <file name="E:/WWWW/epsd.git/editor/meteor/package.js" timestamp="1495618041301">
         <mark key="[" line="6" column="44" />
@@ -217,8 +225,8 @@
       <jump line="163" column="2" filename="E:/WWWW/epsd.git/editor/src/js/app.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAic3JjL2pzL2ludHJvLmpzIiwKICAgICAgICAic3JjL2pzL291dHJvLmpzIiwK</text>
+      <register name="&quot;" type="4">
+        <text>/</text>
       </register>
       <register name="-" type="4">
         <text>/</text>

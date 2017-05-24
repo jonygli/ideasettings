@@ -9,6 +9,7 @@
       <file name="E:/WWWW/epsd.git/plugins/tab/Gruntfile.js" timestamp="1495180376663">
         <mark key="'" line="0" column="0" />
       </file>
+      <file name="E:/WWWW/epsd.git/editor/.jshintrc" timestamp="1495624632056" />
       <file name="/fragment.js" timestamp="1494989103495">
         <mark key="[" line="0" column="0" />
       </file>
@@ -24,10 +25,6 @@
         <mark key="]" line="46" column="67" />
         <mark key="^" line="35" column="44" />
         <mark key="." line="45" column="0" />
-      </file>
-      <file name="E:/WWWW/epsd.git/editor/src/js/bs3/settings.js" timestamp="1495617662964">
-        <mark key="'" line="4" column="29" />
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="E:/WWWW/epsd.git/plugins/tab/converter.js" timestamp="1495422683249">
         <mark key="'" line="25" column="0" />
@@ -48,9 +45,7 @@
         <mark key="]" line="6" column="45" />
         <mark key="." line="6" column="45" />
       </file>
-      <file name="E:/WWWW/epsd.git/editor/.jscsrc" timestamp="1495623779392">
-        <mark key="[" line="18" column="26" />
-      </file>
+      <file name="E:/WWWW/epsd.git/editor/.jscsrc" timestamp="1495623779392" />
       <file name="/JavaScript Console" timestamp="1494989496577">
         <mark key="[" line="0" column="0" />
       </file>

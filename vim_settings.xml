@@ -132,11 +132,11 @@
         <mark key="]" line="220" column="0" />
         <mark key="." line="220" column="0" />
       </file>
-      <file name="E:/WWWW/epsd.git/Gruntfile.js" timestamp="1495681829440">
+      <file name="E:/WWWW/epsd.git/Gruntfile.js" timestamp="1495686021798">
         <mark key="'" line="12" column="30" />
-        <mark key="[" line="75" column="21" />
-        <mark key="]" line="75" column="22" />
-        <mark key="." line="75" column="22" />
+        <mark key="[" line="76" column="21" />
+        <mark key="]" line="76" column="22" />
+        <mark key="." line="76" column="22" />
       </file>
       <file name="E:/WWWW/epsd.git/app/views/about.html" timestamp="1495682431624">
         <mark key="[" line="1" column="10" />
@@ -262,8 +262,8 @@
       <jump line="15" column="18" filename="E:/WWWW/epsd.git/app/index.html" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>,</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBsaXZlcmVsb2FkOiAzNTcyOQo=</text>
       </register>
       <register name="-" type="4">
         <text>,</text>
@@ -272,7 +272,7 @@
         <text>Home</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgIDxsaSBjbGFzcz0iYWN0aXZlIj48YSBocmVmPSIjLyI+SG9tZTwvYT48L2xpPgo=</text>
+        <text encoding="base64">ICAgICAgICBsaXZlcmVsb2FkOiAzNTcyOQo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICJhbmd1bGFyLXRvdWNoIjogIl4xLjQuMCIK</text>

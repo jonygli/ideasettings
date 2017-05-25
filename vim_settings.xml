@@ -3,25 +3,8 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="E:/LLLL/anduo.git/js/yeoman_tutorial/app/index.html" timestamp="1495597763186">
-        <mark key="'" line="43" column="21" />
-      </file>
-      <file name="E:/WWWW/epsd.git/plugins/tab/Gruntfile.js" timestamp="1495180376663">
-        <mark key="'" line="0" column="0" />
-      </file>
-      <file name="E:/WWWW/epsd.git/editor/.jshintrc" timestamp="1495624632056" />
-      <file name="E:/WWWW/epsd.git/app/index.html" timestamp="1495684614936">
-        <mark key="'" line="15" column="18" />
-        <mark key="[" line="42" column="39" />
-        <mark key="]" line="43" column="0" />
-        <mark key="." line="43" column="0" />
-        <mark key="^" line="42" column="54" />
-      </file>
-      <file name="E:/WWWW/epsd.git/plugins/tab/tab.js" timestamp="1495420744166">
-        <mark key="'" line="0" column="4" />
-      </file>
-      <file name="E:/LLLL/anduo.git/js/gulp_test/gulpfile.js" timestamp="1495525705448">
-        <mark key="'" line="1" column="0" />
+      <file name="/fragment.js" timestamp="1494989103495">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="E:/LLLL/anduo.git/js/angular_karma/app/js/test/unit/testingAngularUnitSpec.js" timestamp="1495596538485">
         <mark key="'" line="21" column="32" />
@@ -30,48 +13,13 @@
         <mark key="^" line="35" column="44" />
         <mark key="." line="45" column="0" />
       </file>
-      <file name="E:/WWWW/epsd.git/plugins/tab/converter.js" timestamp="1495422683249">
-        <mark key="'" line="25" column="0" />
+      <file name="E:/WWWW/epsd.git/editor/.jscsrc" timestamp="1495691674266">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="0" />
+        <mark key="." line="17" column="0" />
       </file>
-      <file name="E:/LLLL/anduo.git/js/grunt_gulp_minify/gruntfile.js" timestamp="1495444175853">
-        <mark key="[" line="15" column="9" />
-        <mark key="]" line="12" column="0" />
-        <mark key="." line="12" column="0" />
-      </file>
-      <file name="E:/LLLL/anduo.git/js/angular_karma/app/js/app.js" timestamp="1495532950943">
-        <mark key="[" line="11" column="10" />
-        <mark key="]" line="11" column="10" />
-        <mark key="^" line="12" column="25" />
-        <mark key="." line="11" column="10" />
-      </file>
-      <file name="E:/WWWW/epsd.git/editor/meteor/package-standalone.js" timestamp="1495679418422">
-        <mark key="[" line="6" column="44" />
-        <mark key="]" line="6" column="45" />
-        <mark key="." line="6" column="45" />
-      </file>
-      <file name="E:/WWWW/epsd.git/app/scripts/controllers/main.js" timestamp="1495683965209">
-        <mark key="[" line="10" column="15" />
-        <mark key="]" line="10" column="15" />
-        <mark key="." line="10" column="15" />
-        <mark key="^" line="10" column="14" />
-      </file>
-      <file name="E:/WWWW/epsd.git/editor/test/coverage/Chrome 58.0.3029 (Windows 7 0.0.0)/lcov-report/sorter.js" timestamp="1495618253529">
-        <mark key="[" line="1" column="15" />
-        <mark key="]" line="1" column="16" />
-        <mark key="." line="1" column="16" />
-      </file>
-      <file name="E:/WWWW/epsd.git/editor/Gruntfile.js" timestamp="1495679793816">
-        <mark key="'" line="0" column="0" />
-      </file>
-      <file name="E:/LLLL/anduo.git/js/yeoman_tutorial/test/spec/controllers/main.js" timestamp="1495606631275">
-        <mark key="[" line="20" column="47" />
-        <mark key="]" line="20" column="48" />
-        <mark key="." line="20" column="48" />
-      </file>
-      <file name="E:/WWWW/epsd.git/editor/test/.jshintrc" timestamp="1495612714720">
-        <mark key="[" line="30" column="25" />
-        <mark key="]" line="24" column="0" />
-        <mark key="." line="24" column="0" />
+      <file name="E:/WWWW/epsd.git/editor/Gruntfile.js" timestamp="1495693862006">
+        <mark key="'" line="199" column="37" />
       </file>
       <file name="E:/WWWW/epsd.git/app/scripts/controllers/text.js" timestamp="1495682872857">
         <mark key="[" line="10" column="15" />
@@ -79,21 +27,11 @@
         <mark key="." line="11" column="15" />
         <mark key="^" line="11" column="15" />
       </file>
-      <file name="E:/LLLL/anduo.git/js/yeoman_tutorial/Gruntfile.js" timestamp="1495606808737">
-        <mark key="'" line="446" column="21" />
-      </file>
-      <file name="E:/WWWW/epsd.git/editor/src/js/app.js" timestamp="1495619083054">
-        <mark key="'" line="163" column="2" />
-      </file>
+      <file name="E:/WWWW/epsd.git/app/styles/main.css" timestamp="1495695082978" />
       <file name="E:/WWWW/epsd.git/README.md" timestamp="1495681582673">
         <mark key="[" line="0" column="9" />
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
-      </file>
-      <file name="E:/WWWW/epsd.git/app/views/main.html" timestamp="1495683952381">
-        <mark key="[" line="1" column="10" />
-        <mark key="]" line="1" column="10" />
-        <mark key="." line="1" column="10" />
       </file>
       <file name="E:/LLLL/anduo.git/js/angular_karma/package.json" timestamp="1495530535109">
         <mark key="[" line="18" column="0" />
@@ -101,36 +39,13 @@
         <mark key="^" line="20" column="0" />
         <mark key="." line="18" column="0" />
       </file>
-      <file name="E:/WWWW/epsd.git/editor/test/unit/bs3/ui.spec.js" timestamp="1495612908743">
-        <mark key="'" line="13" column="0" />
-        <mark key="[" line="16" column="20" />
-        <mark key="]" line="16" column="21" />
-        <mark key="^" line="16" column="21" />
-        <mark key="." line="16" column="21" />
+      <file name="/" timestamp="1494989021458">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="E:/LLLL/anduo.git/js/angular_karma/index.html" timestamp="1495527001749">
         <mark key="[" line="4" column="11" />
         <mark key="]" line="4" column="11" />
         <mark key="." line="4" column="11" />
-      </file>
-      <file name="E:/WWWW/epsd.git/editor/.jshintignore" timestamp="1495679650451">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
-      </file>
-      <file name="E:/WWWW/epsd.git/editor/grunts/grunt-build.js" timestamp="1495610322601">
-        <mark key="'" line="14" column="27" />
-      </file>
-      <file name="E:/LLLL/anduo.git/js/angular_karma/app/index.html" timestamp="1495533211790">
-        <mark key="[" line="13" column="51" />
-        <mark key="]" line="13" column="51" />
-        <mark key="^" line="13" column="50" />
-        <mark key="." line="13" column="51" />
-      </file>
-      <file name="E:/WWWW/epsd.git/editor/test/unit/base/module/Editor.spec.js" timestamp="1495617373785">
-        <mark key="[" line="4" column="3" />
-        <mark key="]" line="220" column="0" />
-        <mark key="." line="220" column="0" />
       </file>
       <file name="E:/WWWW/epsd.git/Gruntfile.js" timestamp="1495686021798">
         <mark key="'" line="12" column="30" />
@@ -144,6 +59,109 @@
         <mark key="^" line="2" column="6" />
         <mark key="." line="1" column="10" />
       </file>
+      <file name="E:/WWWW/epsd.git/editor/meteor/package.js" timestamp="1495618041301">
+        <mark key="[" line="6" column="44" />
+        <mark key="]" line="6" column="45" />
+        <mark key="." line="6" column="45" />
+      </file>
+      <file name="E:/WWWW/epsd.git/app/scripts/app.js" timestamp="1495692188570">
+        <mark key="'" line="17" column="29" />
+        <mark key="[" line="32" column="0" />
+        <mark key="]" line="32" column="0" />
+        <mark key="." line="32" column="0" />
+        <mark key="^" line="21" column="41" />
+      </file>
+      <file name="E:/WWWW/epsd.git/editor/.jshintrc" timestamp="1495624632056" />
+      <file name="E:/LLLL/anduo.git/js/grunt_gulp_minify/gruntfile.js" timestamp="1495444175853">
+        <mark key="[" line="15" column="9" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
+      </file>
+      <file name="E:/WWWW/epsd.git/.editorconfig" timestamp="1495691658492">
+        <mark key="[" line="11" column="14" />
+        <mark key="]" line="11" column="15" />
+        <mark key="." line="11" column="15" />
+      </file>
+      <file name="E:/LLLL/anduo.git/js/angular_karma/app/js/app.js" timestamp="1495532950943">
+        <mark key="[" line="11" column="10" />
+        <mark key="]" line="11" column="10" />
+        <mark key="^" line="12" column="25" />
+        <mark key="." line="11" column="10" />
+      </file>
+      <file name="E:/WWWW/epsd.git/app/scripts/controllers/main.js" timestamp="1495683965209">
+        <mark key="[" line="10" column="15" />
+        <mark key="]" line="10" column="15" />
+        <mark key="." line="10" column="15" />
+        <mark key="^" line="10" column="14" />
+      </file>
+      <file name="/JavaScript Console" timestamp="1494989496577">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="E:/WWWW/epsd.git/editor/test/coverage/Chrome 58.0.3029 (Windows 7 0.0.0)/lcov-report/sorter.js" timestamp="1495618253529">
+        <mark key="[" line="1" column="15" />
+        <mark key="]" line="1" column="16" />
+        <mark key="." line="1" column="16" />
+      </file>
+      <file name="E:/LLLL/anduo.git/js/yeoman_tutorial/test/spec/controllers/main.js" timestamp="1495606631275">
+        <mark key="[" line="20" column="47" />
+        <mark key="]" line="20" column="48" />
+        <mark key="." line="20" column="48" />
+      </file>
+      <file name="E:/WWWW/epsd.git/editor/test/.jshintrc" timestamp="1495612714720">
+        <mark key="[" line="30" column="25" />
+        <mark key="]" line="24" column="0" />
+        <mark key="." line="24" column="0" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1495694662425">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="E:/LLLL/anduo.git/js/grunt_minify/app.js" timestamp="1495435091926">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="E:/WWWW/epsd.git/app/views/main.html" timestamp="1495692307332">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="E:/WWWW/epsd.git/editor/test/unit/bs3/ui.spec.js" timestamp="1495612908743">
+        <mark key="'" line="13" column="0" />
+        <mark key="[" line="16" column="20" />
+        <mark key="]" line="16" column="21" />
+        <mark key="^" line="16" column="21" />
+        <mark key="." line="16" column="21" />
+      </file>
+      <file name="E:/WWWW/epsd.git/editor/index.html" timestamp="1495694281996">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="56" />
+      </file>
+      <file name="E:/WWWW/epsd.git/editor/.jshintignore" timestamp="1495679650451">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+      </file>
+      <file name="E:/WWWW/epsd.git/app/scripts/controllers/visual.js" timestamp="1495692882726">
+        <mark key="[" line="10" column="42" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
+      </file>
+      <file name="E:/LLLL/anduo.git/js/angular_karma/app/index.html" timestamp="1495533211790">
+        <mark key="[" line="13" column="51" />
+        <mark key="]" line="13" column="51" />
+        <mark key="^" line="13" column="50" />
+        <mark key="." line="13" column="51" />
+      </file>
+      <file name="E:/WWWW/epsd.git/editor/test/unit/base/module/Editor.spec.js" timestamp="1495617373785">
+        <mark key="[" line="4" column="3" />
+        <mark key="]" line="220" column="0" />
+        <mark key="." line="220" column="0" />
+      </file>
+      <file name="E:/WWWW/epsd.git/app/views/visual.html" timestamp="1495693291955">
+        <mark key="'" line="2" column="0" />
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="^" line="0" column="40" />
+        <mark key="." line="2" column="0" />
+      </file>
       <file name="E:/LLLL/anduo.git/js/angular_karma/app/bower.json" timestamp="1495531405426">
         <mark key="[" line="17" column="0" />
         <mark key="]" line="17" column="0" />
@@ -154,23 +172,10 @@
         <mark key="]" line="6" column="29" />
         <mark key="." line="6" column="29" />
       </file>
-      <file name="E:/WWWW/epsd.git/.jscsrc" timestamp="1495623083646">
-        <mark key="[" line="21" column="9" />
-        <mark key="]" line="21" column="9" />
-        <mark key="^" line="17" column="15" />
-        <mark key="." line="21" column="9" />
-      </file>
-      <file name="E:/WWWW/epsd.git/editor/meteor/package.js" timestamp="1495618041301">
-        <mark key="[" line="6" column="44" />
-        <mark key="]" line="6" column="45" />
-        <mark key="." line="6" column="45" />
-      </file>
-      <file name="E:/WWWW/epsd.git/app/scripts/app.js" timestamp="1495685178652">
-        <mark key="'" line="17" column="29" />
-        <mark key="[" line="12" column="13" />
-        <mark key="]" line="12" column="13" />
-        <mark key="^" line="27" column="39" />
-        <mark key="." line="12" column="13" />
+      <file name="E:/WWWW/epsd.git/.jscsrc" timestamp="1495691623240">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
       </file>
       <file name="E:/LLLL/anduo.git/js/angular_karma/app/js/test/karma.conf.js" timestamp="1495597483982">
         <mark key="[" line="59" column="30" />
@@ -257,55 +262,67 @@
       <jump line="0" column="0" filename="E:/WWWW/epsd.git/editor/Gruntfile.js" />
       <jump line="12" column="30" filename="E:/WWWW/epsd.git/Gruntfile.js" />
       <jump line="8" column="42" filename="E:/WWWW/epsd.git/app/index.html" />
-      <jump line="17" column="16" filename="E:/WWWW/epsd.git/app/index.html" />
       <jump line="24" column="29" filename="E:/WWWW/epsd.git/app/scripts/app.js" />
-      <jump line="15" column="18" filename="E:/WWWW/epsd.git/app/index.html" />
+      <jump line="6" column="54" filename="E:/WWWW/epsd.git/app/index.html" />
+      <jump line="17" column="14" filename="E:/WWWW/epsd.git/app/index.html" />
+      <jump line="20" column="0" filename="E:/WWWW/epsd.git/app/views/main.html" />
+      <jump line="21" column="0" filename="E:/WWWW/epsd.git/app/views/main.html" />
+      <jump line="0" column="0" filename="E:/WWWW/epsd.git/app/views/main.html" />
+      <jump line="3" column="0" filename="E:/WWWW/epsd.git/app/views/visual.html" />
+      <jump line="228" column="31" filename="E:/WWWW/epsd.git/editor/Gruntfile.js" />
+      <jump line="281" column="8" filename="E:/WWWW/epsd.git/editor/Gruntfile.js" />
+      <jump line="282" column="19" filename="E:/WWWW/epsd.git/editor/Gruntfile.js" />
+      <jump line="318" column="29" filename="E:/WWWW/epsd.git/editor/Gruntfile.js" />
+      <jump line="199" column="37" filename="E:/WWWW/epsd.git/editor/Gruntfile.js" />
+      <jump line="15" column="15" filename="E:/WWWW/epsd.git/app/index.html" />
+      <jump line="95" column="11" filename="E:/WWWW/epsd.git/app/index.html" />
+      <jump line="10" column="15" filename="E:/WWWW/epsd.git/app/index.html" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBsaXZlcmVsb2FkOiAzNTcyOQo=</text>
+      <register name="&quot;" type="4">
+        <text>/dist</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>/dist</text>
       </register>
       <register name="/" type="4">
-        <text>Home</text>
+        <text encoding="base64">XDxzdHlsZXNoZWV0XD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBsaXZlcmVsb2FkOiAzNTcyOQo=</text>
+        <text encoding="base64">ICAgIDxsaW5rIHJlbD0ic3R5bGVzaGVldCIgaHJlZj0iLi4vZGlzdC9lcHNlZGl0b3IuY3NzIj4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICJhbmd1bGFyLXRvdWNoIjogIl4xLjQuMCIK</text>
+        <text encoding="base64">PHNjcmlwdCBzcmM9ImVzcGVkaXRvci9lcHNlZGl0b3IuY3NzIj48L3NjcmlwdD4K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICJhbmd1bGFyLXNhbml0aXplIjogIl4xLjQuMCIsCg==</text>
+        <text encoding="base64">PHNjcmlwdCBzcmM9Ii4uLy4uL2VkdGlvci9kaXN0L2Vwc2VkaXRvci5taW4uanMiPjwvc2NyaXB0Pgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICJhbmd1bGFyLXJlc291cmNlIjogIl4xLjQuMCIsCg==</text>
+        <text encoding="base64">PHNjcmlwdCBzcmM9Ii4uLy4uL2VkdGlvci9kaXN0L2Vwc2VkaXRvci5taW4uanMiPjwvc2NyaXB0Pgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICJhbmd1bGFyLW1lc3NhZ2VzIjogIl4xLjQuMCIsCg==</text>
+        <text encoding="base64">PHNjcmlwdCBzcmM9InNjcmlwdHMvY29udHJvbGxlcnMvYWJvdXQuanMiPjwvc2NyaXB0Pgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICJhbmd1bGFyLWNvb2tpZXMiOiAiXjEuNC4wIiwK</text>
+        <text encoding="base64">ICAgICAgICA8CiAgICAgICAgZGl2IGlkID0gImVwc2VkaXRvciIgPiBIZWxsbwogICAgICAgIEVwc2VkaXRvciA8IC8gZGl2ID4K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICJhbmd1bGFyLWFyaWEiOiAiXjEuNC4wIiwK</text>
+        <text encoding="base64">ICAgIF07Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICJhbmd1bGFyLWFuaW1hdGUiOiAiXjEuNC4wIiwK</text>
+        <text encoding="base64">ICAgICAgJ0thcm1hJwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICduZ1RvdWNoJwo=</text>
+        <text encoding="base64">ICAgICAgJ0FuZ3VsYXJKUycsCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICduZ1Nhbml0aXplJywK</text>
+        <text encoding="base64">ICAgICAgJ0hUTUw1IEJvaWxlcnBsYXRlJywK</text>
       </register>
     </registers>
     <search>
-      <last-search>Home</last-search>
+      <last-search encoding="base64">XDxzdHlsZXNoZWV0XD4=</last-search>
       <last-offset />
-      <last-pattern>Home</last-pattern>
+      <last-pattern encoding="base64">XDxzdHlsZXNoZWV0XD4=</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxwYXJzZVN0clw+</last-substitute>
       <last-dir>1</last-dir>
@@ -326,9 +343,12 @@
         <entry>lang</entry>
         <entry>karma</entry>
         <entry>35729</entry>
-        <entry>epsdgit</entry>
         <entry encoding="base64">XDxtYWluXD4=</entry>
         <entry>Home</entry>
+        <entry>epsdgit</entry>
+        <entry>webfont</entry>
+        <entry encoding="base64">XDxsaW50XD4=</entry>
+        <entry encoding="base64">XDxzdHlsZXNoZWV0XD4=</entry>
       </history-search>
       <history-cmd />
       <history-expr />
@@ -344,7 +364,7 @@
       <shortcut-conflict owner="ide">
         <text>ctrl pressed V</text>
       </shortcut-conflict>
-      <shortcut-conflict owner="vim">
+      <shortcut-conflict owner="ide">
         <text>ctrl pressed U</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
@@ -353,7 +373,7 @@
       <shortcut-conflict owner="ide">
         <text>ctrl pressed S</text>
       </shortcut-conflict>
-      <shortcut-conflict owner="vim">
+      <shortcut-conflict owner="ide">
         <text>ctrl pressed W</text>
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
@@ -368,7 +388,7 @@
       <shortcut-conflict owner="ide">
         <text>ctrl pressed H</text>
       </shortcut-conflict>
-      <shortcut-conflict owner="vim">
+      <shortcut-conflict owner="ide">
         <text>ctrl pressed T</text>
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
@@ -379,6 +399,15 @@
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed Y</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed M</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed G</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed I</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>

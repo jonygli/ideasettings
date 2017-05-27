@@ -122,8 +122,8 @@
         <mark key="." line="1" column="0" />
         <mark key="^" line="0" column="4" />
       </file>
-      <file name="E:/WWWW/epsd.git/Gruntfile.js" timestamp="1495784571681">
-        <mark key="'" line="378" column="12" />
+      <file name="E:/WWWW/epsd.git/Gruntfile.js" timestamp="1495875231676">
+        <mark key="'" line="490" column="9" />
         <mark key="[" line="463" column="0" />
         <mark key="]" line="464" column="29" />
         <mark key="." line="463" column="0" />
@@ -182,12 +182,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="31" column="28" filename="E:/LLLL/anduo.git/js/gulp_test/gulpfile.js" />
-      <jump line="1" column="0" filename="E:/LLLL/anduo.git/js/gulp_test/gulpfile.js" />
-      <jump line="21" column="32" filename="E:/LLLL/anduo.git/js/angular_karma/app/js/test/unit/testingAngularUnitSpec.js" />
-      <jump line="21" column="42" filename="E:/LLLL/anduo.git/js/yeoman_tutorial/Gruntfile.js" />
-      <jump line="27" column="0" filename="E:/LLLL/anduo.git/js/yeoman_tutorial/Gruntfile.js" />
-      <jump line="482" column="1" filename="E:/LLLL/anduo.git/js/yeoman_tutorial/Gruntfile.js" />
       <jump line="3" column="25" filename="E:/LLLL/anduo.git/js/yeoman_tutorial/app/index.html" />
       <jump line="8" column="4" filename="E:/LLLL/anduo.git/js/yeoman_tutorial/app/index.html" />
       <jump line="17" column="8" filename="E:/LLLL/anduo.git/js/yeoman_tutorial/app/index.html" />
@@ -282,6 +276,12 @@
       <jump line="466" column="13" filename="E:/WWWW/epsd.git/Gruntfile.js" />
       <jump line="378" column="12" filename="E:/WWWW/epsd.git/Gruntfile.js" />
       <jump line="18" column="43" filename="E:/WWWW/epsd.git/editor/README.md" />
+      <jump line="346" column="48" filename="E:/WWWW/epsd.git/Gruntfile.js" />
+      <jump line="400" column="20" filename="E:/WWWW/epsd.git/Gruntfile.js" />
+      <jump line="430" column="8" filename="E:/WWWW/epsd.git/Gruntfile.js" />
+      <jump line="465" column="13" filename="E:/WWWW/epsd.git/Gruntfile.js" />
+      <jump line="480" column="9" filename="E:/WWWW/epsd.git/Gruntfile.js" />
+      <jump line="490" column="9" filename="E:/WWWW/epsd.git/Gruntfile.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -291,7 +291,7 @@
         <text>#</text>
       </register>
       <register name="/" type="4">
-        <text>qunit</text>
+        <text>concurrent</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZGVidWdNb2RlICA6IHRydWUsCg==</text>
@@ -327,9 +327,9 @@
       </register>
     </registers>
     <search>
-      <last-search>qunit</last-search>
+      <last-search>concurrent</last-search>
       <last-offset />
-      <last-pattern>qunit</last-pattern>
+      <last-pattern>concurrent</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxwYXJzZVN0clw+</last-substitute>
       <last-dir>1</last-dir>
@@ -337,7 +337,6 @@
     </search>
     <history>
       <history-search>
-        <entry>css</entry>
         <entry encoding="base64">XDxjb25jYXRcPg==</entry>
         <entry>concat</entry>
         <entry>epseditor</entry>
@@ -357,6 +356,7 @@
         <entry>package</entry>
         <entry>quint</entry>
         <entry>qunit</entry>
+        <entry>concurrent</entry>
       </history-search>
       <history-cmd />
       <history-expr />

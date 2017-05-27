@@ -284,7 +284,7 @@
         <text>,</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxlZGl0b3JkaXN0XD4=</text>
+        <text>package</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZGVidWdNb2RlICA6IHRydWUsCg==</text>
@@ -320,9 +320,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxlZGl0b3JkaXN0XD4=</last-search>
+      <last-search>package</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxlZGl0b3JkaXN0XD4=</last-pattern>
+      <last-pattern>package</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxwYXJzZVN0clw+</last-substitute>
       <last-dir>1</last-dir>
@@ -330,7 +330,6 @@
     </search>
     <history>
       <history-search>
-        <entry>webfont</entry>
         <entry encoding="base64">XDxsaW50XD4=</entry>
         <entry encoding="base64">XDxzdHlsZXNoZWV0XD4=</entry>
         <entry>css</entry>
@@ -350,6 +349,7 @@
         <entry encoding="base64">XDxlcHNlZGl0b3JcPg==</entry>
         <entry encoding="base64">XDxzdWJncnVudFw+</entry>
         <entry encoding="base64">XDxlZGl0b3JkaXN0XD4=</entry>
+        <entry>package</entry>
       </history-search>
       <history-cmd />
       <history-expr />

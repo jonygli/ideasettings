@@ -291,7 +291,7 @@
         <text>#</text>
       </register>
       <register name="/" type="4">
-        <text>package</text>
+        <text>qunit</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZGVidWdNb2RlICA6IHRydWUsCg==</text>
@@ -327,9 +327,9 @@
       </register>
     </registers>
     <search>
-      <last-search>package</last-search>
+      <last-search>qunit</last-search>
       <last-offset />
-      <last-pattern>package</last-pattern>
+      <last-pattern>qunit</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxwYXJzZVN0clw+</last-substitute>
       <last-dir>1</last-dir>
@@ -337,8 +337,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxsaW50XD4=</entry>
-        <entry encoding="base64">XDxzdHlsZXNoZWV0XD4=</entry>
         <entry>css</entry>
         <entry encoding="base64">XDxjb25jYXRcPg==</entry>
         <entry>concat</entry>
@@ -357,6 +355,8 @@
         <entry encoding="base64">XDxzdWJncnVudFw+</entry>
         <entry encoding="base64">XDxlZGl0b3JkaXN0XD4=</entry>
         <entry>package</entry>
+        <entry>quint</entry>
+        <entry>qunit</entry>
       </history-search>
       <history-cmd />
       <history-expr />

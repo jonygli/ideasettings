@@ -3,11 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="E:/WWWW/ace.git/lib/ace/layer/text.js" timestamp="1496202872325">
-        <mark key="[" line="132" column="50" />
-        <mark key="]" line="316" column="11" />
+      <file name="E:/WWWW/ace.git/lib/ace/layer/text.js" timestamp="1496211722284">
+        <mark key="[" line="319" column="55" />
+        <mark key="]" line="319" column="55" />
         <mark key="^" line="316" column="11" />
-        <mark key="." line="316" column="11" />
+        <mark key="." line="319" column="55" />
       </file>
       <file name="E:/WWWW/epsd.git/app/index.html" timestamp="1495703286903">
         <mark key="'" line="55" column="13" />
@@ -283,16 +283,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">dmFyIGJsb2NrSW5uZXJIVE1MIA==</text>
+        <text>;</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">dmFyIGJsb2NrSW5uZXJIVE1MIA==</text>
+        <text>;</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxyZXF1aXJlXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBodG1sLnB1c2goIjwvZGl2PiIpOwo=</text>
+        <text encoding="base64">CQkJCQlibG9jay5wdXNoKCI8ZGl2IHN0eWxlPSdjb2xvcjogcmVkO2JvcmRlcjogMXB4IHJlZCBzb2xpZDsiLCBjb25maWcubGluZUhlaWdodCAqIHRoaXMuc2Vzc2lvbi5nZXRSb3dMZW5ndGgocm93KSwgInB4Jz4iKQo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIHZhciBjbG9zZUJsb2NrID0gZmFsc2U7Cg==</text>

@@ -61,10 +61,11 @@
         <mark key="]" line="14" column="0" />
         <mark key="." line="14" column="0" />
       </file>
-      <file name="E:/WWWW/epsd.git/.jshintignore" timestamp="1495698392993">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+      <file name="E:/WWWW/epsd.git/.jshintignore" timestamp="1496229261272">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+        <mark key="^" line="2" column="23" />
       </file>
       <file name="E:/WWWW/epsd.git/.jshintrc" timestamp="1495698324359">
         <mark key="[" line="13" column="20" />
@@ -161,11 +162,12 @@
         <mark key="]" line="6" column="45" />
         <mark key="." line="6" column="45" />
       </file>
-      <file name="E:/WWWW/epsd.git/.jscsrc" timestamp="1496224847530">
+      <file name="E:/WWWW/epsd.git/.jscsrc" timestamp="1496229252068">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="13" column="25" />
-        <mark key="]" line="13" column="26" />
-        <mark key="." line="13" column="26" />
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="20" column="28" />
+        <mark key="." line="20" column="19" />
+        <mark key="^" line="20" column="17" />
       </file>
       <file name="E:/WWWW/epsd.git/test/karma.conf.js" timestamp="1495705445265">
         <mark key="[" line="34" column="0" />
@@ -283,16 +285,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>&quot;'&quot;,</text>
+        <text>,</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;'&quot;,</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx5ZW9tYW5cPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBibG9jayA9IGJsb2Nrc1tibG9ja3MubGVuZ3RoIC0gMV07CiAgICAgICAgICAgICAgICAgICAgcGFyZW50QmxvY2sgPSBibG9ja3NbYmxvY2tzLmxlbmd0aCAtIDJdOwo=</text>
+        <text encoding="base64">ICAgICAgICAiYWNlZWRpdG9yLyoqLyouanMiLAo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ewogICAgICAgICJhbGxFeGNlcHQiOiBbCiAgICAgICAgICAgICJ1bmRlZmluZWQiCiAgICAgICAgXQogICAgfSwK</text>

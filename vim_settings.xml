@@ -151,6 +151,9 @@
         <mark key="^" line="19" column="21" />
         <mark key="." line="11" column="26" />
       </file>
+      <file name="E:/WWWW/epsd.git/aceeditor/static.js" timestamp="1496232895795">
+        <mark key="'" line="143" column="0" />
+      </file>
       <file name="E:/WWWW/epsd.git/editor/README.md" timestamp="1495852230099">
         <mark key="'" line="18" column="43" />
         <mark key="[" line="74" column="0" />
@@ -182,8 +185,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="246" column="48" filename="E:/WWWW/epsd.git/editor/Gruntfile.js" />
-      <jump line="0" column="0" filename="E:/WWWW/epsd.git/editor/Gruntfile.js" />
       <jump line="24" column="29" filename="E:/WWWW/epsd.git/app/scripts/app.js" />
       <jump line="6" column="54" filename="E:/WWWW/epsd.git/app/index.html" />
       <jump line="17" column="14" filename="E:/WWWW/epsd.git/app/index.html" />
@@ -282,6 +283,8 @@
       <jump line="234" column="25" filename="E:/WWWW/epsd.git/Gruntfile.js" />
       <jump line="0" column="0" filename="E:/WWWW/epsd.git/Gruntfile.js" />
       <jump line="31" column="8" filename="E:/WWWW/epsd.git/Gruntfile.js" />
+      <jump line="126" column="23" filename="E:/WWWW/epsd.git/aceeditor/static.js" />
+      <jump line="143" column="0" filename="E:/WWWW/epsd.git/aceeditor/static.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">

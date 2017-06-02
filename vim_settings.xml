@@ -120,11 +120,10 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="E:/WWWW/epsd.git/app/scripts/controllers/visual.js" timestamp="1496389645320">
-        <mark key="[" line="15" column="15" />
-        <mark key="]" line="15" column="15" />
-        <mark key="." line="15" column="15" />
-        <mark key="^" line="15" column="24" />
+      <file name="E:/WWWW/epsd.git/app/scripts/controllers/visual.js" timestamp="1496393460379">
+        <mark key="[" line="31" column="0" />
+        <mark key="]" line="31" column="0" />
+        <mark key="." line="31" column="0" />
       </file>
       <file name="E:/WWWW/epsd.git/app/views/text.html" timestamp="1495702592697">
         <mark key="[" line="1" column="0" />
@@ -143,12 +142,12 @@
         <mark key="]" line="220" column="0" />
         <mark key="." line="220" column="0" />
       </file>
-      <file name="E:/WWWW/epsd.git/app/views/visual.html" timestamp="1496389653126">
-        <mark key="'" line="7" column="0" />
-        <mark key="[" line="0" column="72" />
-        <mark key="]" line="5" column="0" />
-        <mark key="^" line="5" column="0" />
-        <mark key="." line="5" column="0" />
+      <file name="E:/WWWW/epsd.git/app/views/visual.html" timestamp="1496394419471">
+        <mark key="'" line="15" column="0" />
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="6" />
+        <mark key="." line="9" column="0" />
+        <mark key="^" line="8" column="5" />
       </file>
       <file name="E:/LLLL/anduo.git/js/angular_karma/app/bower.json" timestamp="1495531405426">
         <mark key="[" line="17" column="0" />
@@ -296,44 +295,44 @@
       <jump line="4997" column="25" filename="E:/WWWW/epsd.git/app/epseditor/dist/epseditor.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>uploadFile</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">PC9kaXY+Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>uploadFile</text>
+        <text>col-xs-6</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxuZWVkS2V5ZG93bkhvb2tcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAiYWNlZWRpdG9yLyoqLyouanMiLAo=</text>
+        <text encoding="base64">PC9kaXY+Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB9Owo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAnbmdUb3VjaCcK</text>
+        <text encoding="base64">ICAgIDxpbnB1dCB5cGU9ImZpbGUiPgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAnbmdTYW5pdGl6ZScsCg==</text>
+        <text encoding="base64">PGlucHV0IHR5cGU9ImZpbGUiIGZpbGVyZWFkPSJmaWxlQ2hhbmdlZCI+Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAnbmdSZXNvdXJjZScsCg==</text>
+        <text encoding="base64">ICAgICAgICAkc2NvcGUucmVuZGVyU2NyaXB0VG9Eb20gPSBmdW5jdGlvbigpIHsKCiAgICAgICAgfTsKCiAgICAgICAgJHNjb3BlLnBhcnNlRG9tVG9TY3JpcHQgPSBmdW5jdGlvbigpIHsKCiAgICAgICAgfTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAnbmdDb29raWVzJywK</text>
+        <text encoding="base64">ICAgICAgICB9Owo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAnbmdBbmltYXRlJywK</text>
+        <text encoding="base64">ICAgICAgICAnbmdUb3VjaCcK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAiYW5ndWxhci10b3VjaCI6ICIxLjUuMyIK</text>
+        <text encoding="base64">ICAgICAgICAnbmdTYW5pdGl6ZScsCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAiYW5ndWxhci1zYW5pdGl6ZSI6ICIxLjUuMyIsCg==</text>
+        <text encoding="base64">ICAgICAgICAnbmdSZXNvdXJjZScsCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAiYW5ndWxhci1yZXNvdXJjZSI6ICIxLjUuMyIsCg==</text>
+        <text encoding="base64">ICAgICAgICAnbmdDb29raWVzJywK</text>
       </register>
     </registers>
     <search>

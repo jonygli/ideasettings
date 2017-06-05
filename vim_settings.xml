@@ -58,8 +58,11 @@
         <mark key="]" line="24" column="0" />
         <mark key="." line="24" column="0" />
       </file>
-      <file name="E:/WWWW/epsd.git/package.json" timestamp="1496222757858">
+      <file name="E:/WWWW/epsd.git/package.json" timestamp="1496661511743">
         <mark key="'" line="6" column="6" />
+        <mark key="[" line="2" column="18" />
+        <mark key="]" line="2" column="19" />
+        <mark key="." line="2" column="19" />
       </file>
       <file name="E:/WWWW/epsd.git/app/scripts/controllers/text.js" timestamp="1495702884134">
         <mark key="[" line="14" column="0" />
@@ -120,11 +123,11 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="E:/WWWW/epsd.git/app/scripts/controllers/visual.js" timestamp="1496660770097">
-        <mark key="[" line="22" column="0" />
-        <mark key="]" line="22" column="0" />
-        <mark key="." line="22" column="0" />
-        <mark key="^" line="40" column="49" />
+      <file name="E:/WWWW/epsd.git/app/scripts/controllers/visual.js" timestamp="1496661901955">
+        <mark key="[" line="11" column="34" />
+        <mark key="]" line="24" column="0" />
+        <mark key="." line="24" column="0" />
+        <mark key="^" line="42" column="49" />
       </file>
       <file name="E:/WWWW/epsd.git/app/views/text.html" timestamp="1495702592697">
         <mark key="[" line="1" column="0" />
@@ -187,6 +190,11 @@
         <mark key="[" line="12" column="17" />
         <mark key="]" line="12" column="17" />
         <mark key="." line="12" column="17" />
+      </file>
+      <file name="E:/WWWW/epsd.git/editor/package.json" timestamp="1496661496061">
+        <mark key="[" line="3" column="18" />
+        <mark key="]" line="3" column="19" />
+        <mark key="." line="3" column="19" />
       </file>
     </filemarks>
     <jumps>

@@ -120,8 +120,11 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="E:/WWWW/epsd.git/app/scripts/controllers/visual.js" timestamp="1496627046894">
-        <mark key="[" line="38" column="10" />
+      <file name="E:/WWWW/epsd.git/app/scripts/controllers/visual.js" timestamp="1496627914992">
+        <mark key="[" line="41" column="26" />
+        <mark key="]" line="41" column="26" />
+        <mark key="." line="41" column="26" />
+        <mark key="^" line="41" column="22" />
       </file>
       <file name="E:/WWWW/epsd.git/app/views/text.html" timestamp="1495702592697">
         <mark key="[" line="1" column="0" />
@@ -140,11 +143,12 @@
         <mark key="]" line="220" column="0" />
         <mark key="." line="220" column="0" />
       </file>
-      <file name="E:/WWWW/epsd.git/app/views/visual.html" timestamp="1496627042975">
-        <mark key="'" line="10" column="0" />
-        <mark key="[" line="3" column="34" />
-        <mark key="]" line="3" column="34" />
-        <mark key="." line="3" column="34" />
+      <file name="E:/WWWW/epsd.git/app/views/visual.html" timestamp="1496628132037">
+        <mark key="'" line="10" column="3" />
+        <mark key="[" line="0" column="21" />
+        <mark key="]" line="0" column="21" />
+        <mark key="." line="0" column="21" />
+        <mark key="^" line="0" column="44" />
       </file>
       <file name="E:/LLLL/anduo.git/js/angular_karma/app/bower.json" timestamp="1495531405426">
         <mark key="[" line="17" column="0" />
@@ -190,7 +194,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="21" column="0" filename="E:/WWWW/epsd.git/app/views/main.html" />
       <jump line="0" column="0" filename="E:/WWWW/epsd.git/app/views/main.html" />
       <jump line="3" column="0" filename="E:/WWWW/epsd.git/app/views/visual.html" />
       <jump line="228" column="31" filename="E:/WWWW/epsd.git/editor/Gruntfile.js" />
@@ -290,46 +293,47 @@
       <jump line="5018" column="21" filename="E:/WWWW/epsd.git/app/epseditor/dist/epseditor.js" />
       <jump line="5035" column="21" filename="E:/WWWW/epsd.git/app/epseditor/dist/epseditor.js" />
       <jump line="4997" column="25" filename="E:/WWWW/epsd.git/app/epseditor/dist/epseditor.js" />
+      <jump line="6" column="3" filename="E:/WWWW/epsd.git/app/views/visual.html" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IGNvbC14cy0y</text>
+        <text encoding="base64">IHZpc2libGUtc20taW5saW5lLWJsb2Nr</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IGNvbC14cy0y</text>
+        <text encoding="base64">IHZpc2libGUtc20taW5saW5lLWJsb2Nr</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxuZWVkS2V5ZG93bkhvb2tcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">PC9kaXY+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb25zb2xlLmVycm9yKCdjb3VsZCBub3QgcmVhZDonICsgZmlsZVBhdGgpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIDwvZGl2Pgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICA8L2Rpdj4K</text>
+        <text encoding="base64">PGRpdiBjbGFzcz0iY29udGFpbmVyIj4KICAgIDxoMj5CdXR0b24gU3R5bGVzPC9oMj4KICAgIDxidXR0b24gdHlwZT0iYnV0dG9uIiBjbGFzcz0iYnRuIj5CYXNpYzwvYnV0dG9uPgogICAgPGJ1dHRvbiB0eXBlPSJidXR0b24iIGNsYXNzPSJidG4gYnRuLWRlZmF1bHQiPkRlZmF1bHQ8L2J1dHRvbj4KICAgIDxidXR0b24gdHlwZT0iYnV0dG9uIiBjbGFzcz0iYnRuIGJ0bi1wcmltYXJ5Ij5QcmltYXJ5PC9idXR0b24+CiAgICA8YnV0dG9uIHR5cGU9ImJ1dHRvbiIgY2xhc3M9ImJ0biBidG4tc3VjY2VzcyI+U3VjY2VzczwvYnV0dG9uPgogICAgPGJ1dHRvbiB0eXBlPSJidXR0b24iIGNsYXNzPSJidG4gYnRuLWluZm8iPkluZm88L2J1dHRvbj4KICAgIDxidXR0b24gdHlwZT0iYnV0dG9uIiBjbGFzcz0iYnRuIGJ0bi13YXJuaW5nIj5XYXJuaW5nPC9idXR0b24+CiAgICA8YnV0dG9uIHR5cGU9ImJ1dHRvbiIgY2xhc3M9ImJ0biBidG4tZGFuZ2VyIj5EYW5nZXI8L2J1dHRvbj4KICAgIDxidXR0b24gdHlwZT0iYnV0dG9uIiBjbGFzcz0iYnRuIGJ0bi1saW5rIj5MaW5rPC9idXR0b24+CjwvZGl2PgoK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICA8ZGl2IGNsYXNzPSJjb2wteHMtMiI+Cg==</text>
+        <text encoding="base64">ICAgIDwvZGl2Pgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIDxkaXYgY2xhc3M9InJvdyI+Cg==</text>
+        <text encoding="base64">ICAgICAgICA8L2Rpdj4K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">PCEtLTxidXR0b24gbmctY2xpY2s9InJlbmRlclNjcmlwdFRvRG9tKCkiPkNvbnZlcnQgdG8gVmlzdWFsPC9idXR0b24+LS0+Cg==</text>
+        <text encoding="base64">ICAgICAgICA8ZGl2IGNsYXNzPSJjb2wteHMtMiI+Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAiYWxsRXhjZXB0IjogWwogICAgICAgICAgICAidW5kZWZpbmVkIgogICAgICAgIF0KICAgIH0sCg==</text>
+        <text encoding="base64">ICAgIDxkaXYgY2xhc3M9InJvdyI+Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICd1c2Ugc3RyaWN0JzsK</text>
+        <text encoding="base64">PCEtLTxidXR0b24gbmctY2xpY2s9InJlbmRlclNjcmlwdFRvRG9tKCkiPkNvbnZlcnQgdG8gVmlzdWFsPC9idXR0b24+LS0+Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">J3VzZSBzdHJpY3QnOwo=</text>
+        <text encoding="base64">ICAgICAgICAiYWxsRXhjZXB0IjogWwogICAgICAgICAgICAidW5kZWZpbmVkIgogICAgICAgIF0KICAgIH0sCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICd1c2Ugc3RyaWN0JzsK</text>
       </register>
     </registers>
     <search>

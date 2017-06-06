@@ -129,11 +129,11 @@
         <mark key="." line="18" column="0" />
         <mark key="^" line="11" column="10" />
       </file>
-      <file name="E:/WWWW/epsd.git/app/views/text.html" timestamp="1496739124441">
-        <mark key="[" line="9" column="14" />
-        <mark key="]" line="2" column="74" />
+      <file name="E:/WWWW/epsd.git/app/views/text.html" timestamp="1496741696276">
+        <mark key="[" line="9" column="23" />
+        <mark key="]" line="9" column="23" />
         <mark key="^" line="2" column="73" />
-        <mark key="." line="2" column="74" />
+        <mark key="." line="9" column="23" />
       </file>
       <file name="E:/WWWW/epsd.git/Gruntfile.js" timestamp="1496224442052">
         <mark key="'" line="31" column="8" />
@@ -303,10 +303,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>donacode</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>donacode</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxuZWVkS2V5ZG93bkhvb2tcPg==</text>

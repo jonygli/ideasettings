@@ -64,7 +64,7 @@
         <mark key="]" line="2" column="19" />
         <mark key="." line="2" column="19" />
       </file>
-      <file name="E:/WWWW/epsd.git/app/scripts/controllers/text.js" timestamp="1495702884134">
+      <file name="E:/WWWW/epsd.git/app/scripts/controllers/text.js" timestamp="1496730635507">
         <mark key="[" line="14" column="0" />
         <mark key="]" line="14" column="0" />
         <mark key="." line="14" column="0" />
@@ -78,15 +78,15 @@
       <file name="E:/WWWW/epsd.git/.jshintrc" timestamp="1495698324359">
         <mark key="[" line="13" column="20" />
       </file>
-      <file name="/Dummy.txt" timestamp="1496652403155">
+      <file name="/Dummy.txt" timestamp="1496731657226">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="E:/WWWW/epsd.git/app/styles/main.css" timestamp="1496629795093">
+      <file name="E:/WWWW/epsd.git/app/styles/main.css" timestamp="1496731792696">
         <mark key="'" line="107" column="0" />
-        <mark key="[" line="62" column="1" />
-        <mark key="]" line="77" column="0" />
-        <mark key="^" line="77" column="0" />
-        <mark key="." line="77" column="0" />
+        <mark key="[" line="81" column="21" />
+        <mark key="]" line="66" column="0" />
+        <mark key="^" line="76" column="0" />
+        <mark key="." line="66" column="0" />
       </file>
       <file name="E:/WWWW/epsd.git/README.md" timestamp="1495681582673">
         <mark key="[" line="0" column="9" />
@@ -123,17 +123,18 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="E:/WWWW/epsd.git/app/scripts/controllers/visual.js" timestamp="1496729672314">
-        <mark key="[" line="40" column="0" />
-        <mark key="]" line="40" column="4" />
-        <mark key="." line="40" column="4" />
-        <mark key="^" line="26" column="29" />
+      <file name="E:/WWWW/epsd.git/app/scripts/controllers/visual.js" timestamp="1496731493434">
+        <mark key="'" line="16" column="38" />
+        <mark key="[" line="13" column="9" />
+        <mark key="]" line="18" column="0" />
+        <mark key="." line="18" column="0" />
+        <mark key="^" line="11" column="10" />
       </file>
-      <file name="E:/WWWW/epsd.git/app/views/text.html" timestamp="1495702592697">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="." line="1" column="0" />
-        <mark key="^" line="0" column="4" />
+      <file name="E:/WWWW/epsd.git/app/views/text.html" timestamp="1496731938177">
+        <mark key="[" line="2" column="74" />
+        <mark key="]" line="2" column="74" />
+        <mark key="^" line="2" column="73" />
+        <mark key="." line="2" column="74" />
       </file>
       <file name="E:/WWWW/epsd.git/Gruntfile.js" timestamp="1496224442052">
         <mark key="'" line="31" column="8" />
@@ -146,8 +147,10 @@
         <mark key="]" line="220" column="0" />
         <mark key="." line="220" column="0" />
       </file>
-      <file name="E:/WWWW/epsd.git/app/views/visual.html" timestamp="1496653699775">
+      <file name="E:/WWWW/epsd.git/app/views/visual.html" timestamp="1496731873997">
         <mark key="'" line="4" column="3" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="9" column="3" />
       </file>
       <file name="E:/LLLL/anduo.git/js/angular_karma/app/bower.json" timestamp="1495531405426">
         <mark key="[" line="17" column="0" />
@@ -198,7 +201,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="E:/WWWW/epsd.git/app/views/main.html" />
       <jump line="3" column="0" filename="E:/WWWW/epsd.git/app/views/visual.html" />
       <jump line="228" column="31" filename="E:/WWWW/epsd.git/editor/Gruntfile.js" />
       <jump line="281" column="8" filename="E:/WWWW/epsd.git/editor/Gruntfile.js" />
@@ -298,46 +300,47 @@
       <jump line="5035" column="21" filename="E:/WWWW/epsd.git/app/epseditor/dist/epseditor.js" />
       <jump line="4997" column="25" filename="E:/WWWW/epsd.git/app/epseditor/dist/epseditor.js" />
       <jump line="6" column="3" filename="E:/WWWW/epsd.git/app/views/visual.html" />
+      <jump line="16" column="38" filename="E:/WWWW/epsd.git/app/scripts/controllers/visual.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICA8c2NyaXB0IHNyYz0ic2NyaXB0cy9jb250cm9sbGVycy9tYWluLmpzIj48L3NjcmlwdD4K</text>
+      <register name="&quot;" type="4">
+        <text>donacode</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>donacode</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxuZWVkS2V5ZG93bkhvb2tcPg==</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gY29uc29sZS5sb2coJ3BhcnNlRG9tVG9TY3JpcHQnKTsK</text>
+      <register name="0" type="4">
+        <text encoding="base64">PGRpdiBjbGFzcz0iY29udGFpbmVyIj4KICAgIDxkaXY+CiAgICAgICAgPGxhYmVsIGZvcj0iZmlsZXMiIGNsYXNzPSJidG4gYnRuLXByaW1hcnkiPkxvYWQgZG9uYWNvZGU8L2xhYmVsPgogICAgICAgIDxpbnB1dCB0eXBlPSJmaWxlIiBjbGFzcz0iYnRuIGJ0bi1wcmltYXJ5IiBmaWxlcmVhZD0iZmlsZUNoYW5nZWQiIGlkPSJmaWxlcyIgc3R5bGU9InZpc2liaWxpdHk6aGlkZGVuOyBkaXNwbGF5OiBub25lOyI+CgogICAgICAgIDxidXR0b24gbmctc2hvdz0iZG9uYWNvZGVEYXRhIiB0eXBlPSJidXR0b24iIGNsYXNzPSJidG4gYnRuLXN1Y2Nlc3MiIG5nLWNsaWNrPSJwYXJzZURvbVRvU2NyaXB0KCkiPlNhdmUgZG9uYWNvZGU8L2J1dHRvbj4KICAgIDwvZGl2Pgo8L2Rpdj4KCjxocj4=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICA8c2NyaXB0IHNyYz0ic2NyaXB0cy9jb250cm9sbGVycy9tYWluLmpzIj48L3NjcmlwdD4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gLndoZW4oJy92aXN1YWwnLCB7CiAgICAgICAgICAgIC8vICAgICB0ZW1wbGF0ZVVybCA6ICd2aWV3cy92aXN1YWwuaHRtbCcsCiAgICAgICAgICAgIC8vICAgICBjb250cm9sbGVyICA6ICdWaXN1YWxDdHJsJywKICAgICAgICAgICAgLy8gICAgIGNvbnRyb2xsZXJBczogJ3Zpc3VhbCcKICAgICAgICAgICAgLy8gfSkK</text>
+        <text encoding="base64">ICAgICAgICA8aW5wdXQgdHlwZT0iZmlsZSIgY2xhc3M9ImJ0biBidG4tcHJpbWFyeSIgZmlsZXJlYWQ9ImZpbGVDaGFuZ2VkIiBpZD0iZmlsZXMiIHN0eWxlPSJ2aXNpYmlsaXR5OmhpZGRlbjsgZGlzcGxheTogbm9uZTsiPgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIGNvbnRyb2xsZXJBczogJ21haW4nCg==</text>
+        <text encoding="base64">ICAgICAgICA8bGFiZWwgZm9yPSJmaWxlcyIgY2xhc3M9ImJ0biBidG4tcHJpbWFyeSI+TG9hZCBkb25hY29kZTwvbGFiZWw+Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIGNvbnRyb2xsZXIgIDogJ01haW5DdHJsJywK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIHRlbXBsYXRlVXJsIDogJ3ZpZXdzL21haW4uaHRtbCcsCg==</text>
+        <text encoding="base64">ICAgIGRpcmVjdGlvbjogcnRsOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG1ldGhvZDogJ0dFVCcK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gYWxlcnQoZmlsZSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAkKCcjZXBzZWRpdG9yJykuZXBzZWRpdG9yKHsKICAgICAgICAgICAgZGVidWdNb2RlOiB0cnVlCiAgICAgICAgfSk7Cgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAvLyBjb25zb2xlLmxvZyhkYXRhKTsK</text>
+        <text encoding="base64">ICAgICAgICAkcm9vdFNjb3BlLmRvbmFjb2RlTG9hZGVkID0gZmFsc2U7Cg==</text>
       </register>
     </registers>
     <search>
@@ -433,6 +436,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed R</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed O</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>

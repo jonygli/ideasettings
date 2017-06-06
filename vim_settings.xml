@@ -10,12 +10,12 @@
         <mark key="^" line="357" column="7" />
         <mark key="." line="349" column="0" />
       </file>
-      <file name="E:/WWWW/epsd.git/app/index.html" timestamp="1495703286903">
+      <file name="E:/WWWW/epsd.git/app/index.html" timestamp="1496729456129">
         <mark key="'" line="55" column="13" />
-        <mark key="[" line="95" column="31" />
-        <mark key="]" line="95" column="35" />
-        <mark key="." line="95" column="35" />
-        <mark key="^" line="95" column="35" />
+        <mark key="[" line="93" column="0" />
+        <mark key="]" line="93" column="0" />
+        <mark key="." line="93" column="0" />
+        <mark key="^" line="94" column="35" />
       </file>
       <file name="/fragment.js" timestamp="1494989103495">
         <mark key="[" line="0" column="0" />
@@ -123,10 +123,10 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="E:/WWWW/epsd.git/app/scripts/controllers/visual.js" timestamp="1496720521784">
-        <mark key="[" line="27" column="31" />
-        <mark key="]" line="26" column="29" />
-        <mark key="." line="26" column="29" />
+      <file name="E:/WWWW/epsd.git/app/scripts/controllers/visual.js" timestamp="1496729672314">
+        <mark key="[" line="40" column="0" />
+        <mark key="]" line="40" column="4" />
+        <mark key="." line="40" column="4" />
         <mark key="^" line="26" column="29" />
       </file>
       <file name="E:/WWWW/epsd.git/app/views/text.html" timestamp="1495702592697">
@@ -186,10 +186,10 @@
         <mark key="]" line="34" column="0" />
         <mark key="." line="34" column="0" />
       </file>
-      <file name="E:/WWWW/epsd.git/app/scripts/app.js" timestamp="1496386261272">
-        <mark key="[" line="12" column="17" />
-        <mark key="]" line="12" column="17" />
-        <mark key="." line="12" column="17" />
+      <file name="E:/WWWW/epsd.git/app/scripts/app.js" timestamp="1496729398431">
+        <mark key="[" line="27" column="0" />
+        <mark key="]" line="27" column="0" />
+        <mark key="." line="27" column="0" />
       </file>
       <file name="E:/WWWW/epsd.git/editor/package.json" timestamp="1496661496061">
         <mark key="[" line="3" column="18" />
@@ -300,8 +300,8 @@
       <jump line="6" column="3" filename="E:/WWWW/epsd.git/app/views/visual.html" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>,</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICA8c2NyaXB0IHNyYz0ic2NyaXB0cy9jb250cm9sbGVycy9tYWluLmpzIj48L3NjcmlwdD4K</text>
       </register>
       <register name="-" type="4">
         <text>,</text>
@@ -313,31 +313,31 @@
         <text encoding="base64">ICAgICAgICAgICAgLy8gY29uc29sZS5sb2coJ3BhcnNlRG9tVG9TY3JpcHQnKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG1ldGhvZDogJ0dFVCcK</text>
+        <text encoding="base64">ICAgICAgICA8c2NyaXB0IHNyYz0ic2NyaXB0cy9jb250cm9sbGVycy9tYWluLmpzIj48L3NjcmlwdD4K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8gLndoZW4oJy92aXN1YWwnLCB7CiAgICAgICAgICAgIC8vICAgICB0ZW1wbGF0ZVVybCA6ICd2aWV3cy92aXN1YWwuaHRtbCcsCiAgICAgICAgICAgIC8vICAgICBjb250cm9sbGVyICA6ICdWaXN1YWxDdHJsJywKICAgICAgICAgICAgLy8gICAgIGNvbnRyb2xsZXJBczogJ3Zpc3VhbCcKICAgICAgICAgICAgLy8gfSkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gYWxlcnQoZmlsZSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIGNvbnRyb2xsZXJBczogJ21haW4nCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAvLyBjb25zb2xlLmxvZyhkYXRhKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIGNvbnRyb2xsZXIgIDogJ01haW5DdHJsJywK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgKi8K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIHRlbXBsYXRlVXJsIDogJ3ZpZXdzL21haW4uaHRtbCcsCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgKiAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG1ldGhvZDogJ0dFVCcK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAvLyBjb25zb2xlLmxvZyhlcHNFZGl0b3IpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8gYWxlcnQoZmlsZSk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAvLyBjb25zb2xlLmxvZyhkYXRhKTsK</text>
       </register>
     </registers>
     <search>

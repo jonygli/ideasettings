@@ -137,8 +137,8 @@
         <mark key="^" line="2" column="73" />
         <mark key="." line="9" column="23" />
       </file>
-      <file name="E:/WWWW/epsd.git/Gruntfile.js" timestamp="1496916721518">
-        <mark key="'" line="48" column="57" />
+      <file name="E:/WWWW/epsd.git/Gruntfile.js" timestamp="1496921218162">
+        <mark key="'" line="119" column="45" />
         <mark key="[" line="508" column="15" />
         <mark key="]" line="506" column="20" />
         <mark key="." line="463" column="0" />
@@ -158,10 +158,9 @@
         <mark key="]" line="17" column="0" />
         <mark key="." line="17" column="0" />
       </file>
-      <file name="E:/WWWW/epsd.git/bower.json" timestamp="1496916630077">
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="0" />
-        <mark key="^" line="13" column="21" />
+      <file name="E:/WWWW/epsd.git/bower.json" timestamp="1496921452099">
+        <mark key="[" line="9" column="40" />
+        <mark key="]" line="9" column="40" />
         <mark key="." line="9" column="0" />
       </file>
       <file name="E:/WWWW/epsd.git/aceeditor/static.js" timestamp="1496232895795">
@@ -202,7 +201,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="318" column="29" filename="E:/WWWW/epsd.git/editor/Gruntfile.js" />
       <jump line="199" column="37" filename="E:/WWWW/epsd.git/editor/Gruntfile.js" />
       <jump line="15" column="15" filename="E:/WWWW/epsd.git/app/index.html" />
       <jump line="13" column="68" filename="E:/WWWW/epsd.git/editor/index.html" />
@@ -302,46 +300,47 @@
       <jump line="7" column="4" filename="E:/WWWW/epsd.git/Gruntfile.js" />
       <jump line="47" column="25" filename="E:/WWWW/epsd.git/Gruntfile.js" />
       <jump line="48" column="57" filename="E:/WWWW/epsd.git/Gruntfile.js" />
+      <jump line="119" column="45" filename="E:/WWWW/epsd.git/Gruntfile.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAvLyAgICAgICAgImFuZ3VsYXItbW9ja3MiOiAiXjEuNS4zIgo=</text>
+        <text encoding="base64">ICAgICAgICAiYW5ndWxhci1hbmltYXRlLW1vY2tzIjogIjEuNS4zIgo=</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>route</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx0ZXN0XD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAiYW5ndWxhciI6ICIxLjUuMyIK</text>
+        <text encoding="base64">ICAgICAgICAiYW5ndWxhci1yb3V0ZSI6ICIxLjUuMyIK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAvLyAgICAgICAgImFuZ3VsYXItbW9ja3MiOiAiXjEuNS4zIgo=</text>
+        <text encoding="base64">ICAgICAgICAiYW5ndWxhci1hbmltYXRlLW1vY2tzIjogIjEuNS4zIgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAiYW5ndWxhci1tb2NrcyI6ICJeMS41LjMiCg==</text>
+        <text encoding="base64">ICAgICAgICAiYW5ndWxhci1hbmltYXRlLW1vY2tzIjogIl4xLjUuMyIK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAiYW5ndWxhci1tb2NrcyI6ICIxLjUuMyIK</text>
+        <text encoding="base64">ICAgICAgICAvLyAgICAgICAgImFuZ3VsYXItbW9ja3MiOiAiXjEuNS4zIgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAiYW5ndWxhci1tb2NrcyI6ICJeMS41LjMiCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">WW91IG5lZWQgdG8gY2hlY2sgYGVkdGlvci9SRUFETUUubWRgIGFuZCBkbyB0aGUgaW5zdGFsbC4K</text>
+        <text encoding="base64">ICAgICAgICAiYW5ndWxhci1tb2NrcyI6ICIxLjUuMyIK</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICA8aW5wdXQgdHlwZT0iZmlsZSIgY2xhc3M9ImJ0biBidG4tcHJpbWFyeSIgZmlsZXJlYWQ9ImZpbGVDaGFuZ2VkIiBpZD0iZmlsZXMiIHN0eWxlPSJ2aXNpYmlsaXR5OmhpZGRlbjsgZGlzcGxheTogbm9uZTsiPgo=</text>
+        <text encoding="base64">WW91IG5lZWQgdG8gY2hlY2sgYGVkdGlvci9SRUFETUUubWRgIGFuZCBkbyB0aGUgaW5zdGFsbC4K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICA8bGFiZWwgZm9yPSJmaWxlcyIgY2xhc3M9ImJ0biBidG4tcHJpbWFyeSI+TG9hZCBkb25hY29kZTwvbGFiZWw+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICA8aW5wdXQgdHlwZT0iZmlsZSIgY2xhc3M9ImJ0biBidG4tcHJpbWFyeSIgZmlsZXJlYWQ9ImZpbGVDaGFuZ2VkIiBpZD0iZmlsZXMiIHN0eWxlPSJ2aXNpYmlsaXR5OmhpZGRlbjsgZGlzcGxheTogbm9uZTsiPgo=</text>
       </register>
     </registers>
     <search>

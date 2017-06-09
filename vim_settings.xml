@@ -78,7 +78,7 @@
       <file name="E:/WWWW/epsd.git/.jshintrc" timestamp="1495698324359">
         <mark key="[" line="13" column="20" />
       </file>
-      <file name="/Dummy.txt" timestamp="1496902659593">
+      <file name="/Dummy.txt" timestamp="1496975723096">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="E:/WWWW/epsd.git/app/styles/main.css" timestamp="1496731792696">
@@ -102,8 +102,8 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="E:/WWWW/epsd.git/editor/src/js/bs3/module/ChoiceHandle.js" timestamp="1496974929742">
-        <mark key="'" line="16" column="16" />
+      <file name="E:/WWWW/epsd.git/editor/src/js/bs3/module/ChoiceHandle.js" timestamp="1496976481502">
+        <mark key="'" line="235" column="16" />
       </file>
       <file name="E:/WWWW/epsd.git/app/epseditor/dist/epseditor.js" timestamp="1496384287593">
         <mark key="'" line="4997" column="25" />
@@ -203,14 +203,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="30" column="56" filename="E:/WWWW/epsd.git/app/index.html" />
-      <jump line="96" column="49" filename="E:/WWWW/epsd.git/app/index.html" />
-      <jump line="0" column="0" filename="E:/WWWW/epsd.git/app/index.html" />
-      <jump line="14" column="49" filename="E:/WWWW/epsd.git/app/index.html" />
-      <jump line="95" column="49" filename="E:/WWWW/epsd.git/app/index.html" />
-      <jump line="8" column="36" filename="E:/WWWW/epsd.git/app/index.html" />
-      <jump line="9" column="15" filename="E:/WWWW/epsd.git/app/index.html" />
-      <jump line="10" column="79" filename="E:/WWWW/epsd.git/app/index.html" />
       <jump line="13" column="37" filename="E:/WWWW/epsd.git/app/index.html" />
       <jump line="9" column="19" filename="E:/WWWW/epsd.git/package.json" />
       <jump line="139" column="12" filename="E:/WWWW/epsd.git/editor/Gruntfile.js" />
@@ -298,11 +290,19 @@
       <jump line="47" column="25" filename="E:/WWWW/epsd.git/Gruntfile.js" />
       <jump line="48" column="57" filename="E:/WWWW/epsd.git/Gruntfile.js" />
       <jump line="119" column="45" filename="E:/WWWW/epsd.git/Gruntfile.js" />
-      <jump line="248" column="34" filename="E:/WWWW/epsd.git/editor/src/js/bs3/module/ChoiceHandle.js" />
-      <jump line="251" column="34" filename="E:/WWWW/epsd.git/editor/src/js/bs3/module/ChoiceHandle.js" />
-      <jump line="254" column="27" filename="E:/WWWW/epsd.git/editor/src/js/bs3/module/ChoiceHandle.js" />
       <jump line="309" column="13" filename="E:/WWWW/epsd.git/editor/src/js/bs3/module/ChoiceHandle.js" />
       <jump line="16" column="16" filename="E:/WWWW/epsd.git/editor/src/js/bs3/module/ChoiceHandle.js" />
+      <jump line="237" column="66" filename="E:/WWWW/epsd.git/editor/src/js/bs3/module/ChoiceHandle.js" />
+      <jump line="241" column="42" filename="E:/WWWW/epsd.git/editor/src/js/bs3/module/ChoiceHandle.js" />
+      <jump line="245" column="27" filename="E:/WWWW/epsd.git/editor/src/js/bs3/module/ChoiceHandle.js" />
+      <jump line="248" column="27" filename="E:/WWWW/epsd.git/editor/src/js/bs3/module/ChoiceHandle.js" />
+      <jump line="251" column="27" filename="E:/WWWW/epsd.git/editor/src/js/bs3/module/ChoiceHandle.js" />
+      <jump line="254" column="20" filename="E:/WWWW/epsd.git/editor/src/js/bs3/module/ChoiceHandle.js" />
+      <jump line="261" column="15" filename="E:/WWWW/epsd.git/editor/src/js/bs3/module/ChoiceHandle.js" />
+      <jump line="271" column="16" filename="E:/WWWW/epsd.git/editor/src/js/bs3/module/ChoiceHandle.js" />
+      <jump line="18" column="16" filename="E:/WWWW/epsd.git/editor/src/js/bs3/module/ChoiceHandle.js" />
+      <jump line="234" column="16" filename="E:/WWWW/epsd.git/editor/src/js/bs3/module/ChoiceHandle.js" />
+      <jump line="235" column="16" filename="E:/WWWW/epsd.git/editor/src/js/bs3/module/ChoiceHandle.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -312,7 +312,7 @@
         <text>route</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxpbmRleEdyb3VwXD4=</text>
+        <text encoding="base64">XDxtZW1vcnlcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAiYW5ndWxhci1yb3V0ZSI6ICIxLjUuMyIK</text>
@@ -346,9 +346,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxpbmRleEdyb3VwXD4=</last-search>
+      <last-search encoding="base64">XDxtZW1vcnlcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxpbmRleEdyb3VwXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxtZW1vcnlcPg==</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxyZXF1aXJlXD4=</last-substitute>
       <last-dir>1</last-dir>
@@ -356,7 +356,6 @@
     </search>
     <history>
       <history-search>
-        <entry>run-</entry>
         <entry encoding="base64">XDxlcHNlZGl0b3JcPg==</entry>
         <entry encoding="base64">XDxzdWJncnVudFw+</entry>
         <entry encoding="base64">XDxlZGl0b3JkaXN0XD4=</entry>
@@ -376,6 +375,7 @@
         <entry encoding="base64">XDx1Z2xpZnlcPg==</entry>
         <entry encoding="base64">XDx0ZXN0XD4=</entry>
         <entry encoding="base64">XDxpbmRleEdyb3VwXD4=</entry>
+        <entry encoding="base64">XDxtZW1vcnlcPg==</entry>
       </history-search>
       <history-cmd />
       <history-expr />

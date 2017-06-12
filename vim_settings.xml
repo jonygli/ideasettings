@@ -74,7 +74,7 @@
         <mark key="]" line="2" column="19" />
         <mark key="." line="2" column="19" />
       </file>
-      <file name="E:/WWWW/epsd.git/editor/src/js/base/core/parser.js" timestamp="1497251181039" />
+      <file name="E:/WWWW/epsd.git/editor/src/js/base/core/parser.js" timestamp="1497251868289" />
       <file name="E:/WWWW/epsd.git/app/scripts/controllers/text.js" timestamp="1496911654931">
         <mark key="[" line="17" column="9" />
         <mark key="]" line="18" column="0" />
@@ -164,7 +164,7 @@
         <mark key="]" line="220" column="0" />
         <mark key="." line="220" column="0" />
       </file>
-      <file name="E:/WWWW/epsd.git/app/views/visual.html" timestamp="1497251236948">
+      <file name="E:/WWWW/epsd.git/app/views/visual.html" timestamp="1497252511302">
         <mark key="'" line="4" column="3" />
         <mark key="[" line="10" column="20" />
         <mark key="]" line="10" column="20" />
@@ -322,10 +322,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">SGVsbG8gVmlzdWFsIEVkaXRvcjw=</text>
+        <text>Hello Visual Editor</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">SGVsbG8gVmlzdWFsIEVkaXRvcjw=</text>
+        <text>Hello Visual Editor</text>
       </register>
       <register name="/" type="4">
         <text>subgrunt</text>

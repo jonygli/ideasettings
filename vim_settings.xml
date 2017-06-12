@@ -11,12 +11,12 @@
         <mark key="." line="349" column="0" />
       </file>
       <file name="E:/WWWW/epsd.git/tools/ci/server.js" timestamp="1497003664288" />
-      <file name="E:/WWWW/epsd.git/app/index.html" timestamp="1496729456129">
+      <file name="E:/WWWW/epsd.git/app/index.html" timestamp="1497249738076">
         <mark key="'" line="55" column="13" />
-        <mark key="[" line="93" column="0" />
-        <mark key="]" line="93" column="0" />
-        <mark key="." line="93" column="0" />
-        <mark key="^" line="94" column="35" />
+        <mark key="[" line="90" column="46" />
+        <mark key="]" line="90" column="46" />
+        <mark key="." line="90" column="46" />
+        <mark key="^" line="95" column="35" />
       </file>
       <file name="/fragment.js" timestamp="1494989103495">
         <mark key="[" line="0" column="0" />
@@ -88,7 +88,7 @@
       <file name="E:/WWWW/epsd.git/.jshintrc" timestamp="1495698324359">
         <mark key="[" line="13" column="20" />
       </file>
-      <file name="/Dummy.txt" timestamp="1497241068738">
+      <file name="/Dummy.txt" timestamp="1497249676882">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="E:/WWWW/epsd.git/app/styles/main.css" timestamp="1496731792696">
@@ -318,17 +318,17 @@
       <jump line="79" column="9" filename="E:/WWWW/epsd.git/editor/src/js/base/core/dom.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHRhc2tzOiBbJycsICdwb3N0Y3NzJ10K</text>
+      <register name="&quot;" type="4">
+        <text>.</text>
       </register>
       <register name="-" type="4">
-        <text>newer:copy:styles</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
         <text>subgrunt</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ3N1YmdydW50OmVkaXRvcmRpc3QnLAogICAgICAgICAgICAnY29weTplcHNlZGl0b3InLAo=</text>
+        <text encoding="base64">ICAgICAgICA8c2NyaXB0IHNyYz0iZXBzZWRpdG9yL2Rpc3QvZXBzZWRpdG9yLm1pbi5qcyI+PC9zY3JpcHQ+Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIHRhc2tzOiBbJycsICdwb3N0Y3NzJ10K</text>

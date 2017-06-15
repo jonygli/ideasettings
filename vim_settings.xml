@@ -26,9 +26,11 @@
       <file name="/fragment.js" timestamp="1494989103495">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="E:/WWWW/epsd.git/editor/src/js/base/core/dom.js" timestamp="1496990240176">
+      <file name="E:/WWWW/epsd.git/editor/src/js/base/core/dom.js" timestamp="1497494108970">
         <mark key="'" line="79" column="9" />
-        <mark key="[" line="883" column="13" />
+        <mark key="[" line="148" column="0" />
+        <mark key="]" line="148" column="0" />
+        <mark key="." line="148" column="0" />
       </file>
       <file name="E:/WWWW/epsd.git/app/scripts/directives/fileread.js" timestamp="1496389602641">
         <mark key="[" line="16" column="9" />
@@ -79,6 +81,9 @@
         <mark key="]" line="2" column="19" />
         <mark key="." line="2" column="19" />
       </file>
+      <file name="E:/WWWW/epsd.git/editor/src/js/base/core/parser.js" timestamp="1497493575355">
+        <mark key="[" line="115" column="41" />
+      </file>
       <file name="E:/WWWW/epsd.git/app/scripts/controllers/text.js" timestamp="1496911654931">
         <mark key="[" line="17" column="9" />
         <mark key="]" line="18" column="0" />
@@ -93,7 +98,7 @@
       <file name="E:/WWWW/epsd.git/.jshintrc" timestamp="1495698324359">
         <mark key="[" line="13" column="20" />
       </file>
-      <file name="/Dummy.txt" timestamp="1497409491431">
+      <file name="/Dummy.txt" timestamp="1497493968277">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="E:/WWWW/epsd.git/app/styles/main.css" timestamp="1496731792696">
@@ -138,7 +143,7 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="E:/WWWW/epsd.git/app/scripts/controllers/visual.js" timestamp="1497492049424">
+      <file name="E:/WWWW/epsd.git/app/scripts/controllers/visual.js" timestamp="1497495575436">
         <mark key="'" line="15" column="38" />
         <mark key="[" line="13" column="10" />
         <mark key="]" line="13" column="9" />
@@ -154,11 +159,11 @@
         <mark key="^" line="2" column="73" />
         <mark key="." line="9" column="23" />
       </file>
-      <file name="E:/WWWW/epsd.git/Gruntfile.js" timestamp="1497490825270">
-        <mark key="'" line="515" column="9" />
-        <mark key="]" line="431" column="47" />
-        <mark key="^" line="431" column="47" />
-        <mark key="." line="431" column="47" />
+      <file name="E:/WWWW/epsd.git/Gruntfile.js" timestamp="1497495427319">
+        <mark key="'" line="511" column="9" />
+        <mark key="[" line="409" column="0" />
+        <mark key="]" line="409" column="0" />
+        <mark key="." line="409" column="0" />
       </file>
       <file name="E:/WWWW/epsd.git/editor/test/unit/base/module/Editor.spec.js" timestamp="1495617373785">
         <mark key="[" line="4" column="3" />
@@ -322,8 +327,8 @@
       <jump line="497" column="9" filename="E:/WWWW/epsd.git/Gruntfile.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>font</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgJ2RhdGEvKicsCiAgICAgICAgICAgICAgICAgICAgICAgICdlcHNlZGl0b3IvZGlzdC9mb250LyouKicsCiAgICAgICAgICAgICAgICAgICAgICAgICdlcHNlZGl0b3IvZGlzdC9sYW5nLyouKicsCiAgICAgICAgICAgICAgICAgICAgICAgICdlcHNlZGl0b3IvZGlzdC9wbHVnaW4veywqL30qLionCg==</text>
       </register>
       <register name="-" type="4">
         <text>font</text>
@@ -332,34 +337,34 @@
         <text encoding="base64">XDxjb25jdXJyZW50XD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgJ2Vwc2VkaXRvci9kaXN0L2ZvbnQvKicsIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgJ2Vwc2VkaXRvci9kaXN0L2ZvbnQvKi4qJywK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgJ2Vwc2VkaXRvci9kaXN0L3BsdWdpbi8qJwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgJ2RhdGEvKicsCiAgICAgICAgICAgICAgICAgICAgICAgICdlcHNlZGl0b3IvZGlzdC9mb250LyouKicsCiAgICAgICAgICAgICAgICAgICAgICAgICdlcHNlZGl0b3IvZGlzdC9sYW5nLyouKicsCiAgICAgICAgICAgICAgICAgICAgICAgICdlcHNlZGl0b3IvZGlzdC9wbHVnaW4veywqL30qLionCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgJ2Vwc2VkaXRvci9kaXN0L2xhbmcvKicsCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgJ3BsdWdpbi97LCovfSouKicK</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">ewogICAgICAgICAgICAgICAgICAgIGV4cGFuZDogdHJ1ZSwKICAgICAgICAgICAgICAgICAgICBjd2QgICA6ICdhcHAvZGF0YScsCiAgICAgICAgICAgICAgICAgICAgc3JjICAgOiAnZGF0YS8qJywKICAgICAgICAgICAgICAgICAgICBkZXN0ICA6ICc8JT0geWVvbWFuLmRpc3QgJT4nCiAgICAgICAgICAgICAgICB9</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgJ2xhbmcvKicsCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGNzcwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiBmYWxzZTsKICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICA8bGluayByZWw9InN0eWxlc2hlZXQiIGhyZWY9ImVwc2VkaXRvci9kaXN0L2Vwc2VkaXRvci5jc3MiPgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgfSBlbHNlIHsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICA8c2NyaXB0IHNyYz0iZXBzZWRpdG9yL2Rpc3QvZXBzZWRpdG9yLm1pbi5qcyI+PC9zY3JpcHQ+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgJ2Vwc2VkaXRvci9kaXN0L3BsdWdpbi8qJwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICA8bGluayByZWw9InN0eWxlc2hlZXQiIGhyZWY9ImVwc2VkaXRvci9kaXN0L2Vwc2VkaXRvci5jc3MiPgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgJ2Vwc2VkaXRvci9kaXN0L2xhbmcvKicsCg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICA8c2NyaXB0IHNyYz0iZXBzZWRpdG9yL2Rpc3QvZXBzZWRpdG9yLm1pbi5qcyI+PC9zY3JpcHQ+Cg==</text>
+      <register name="8" type="4">
+        <text encoding="base64">ewogICAgICAgICAgICAgICAgICAgIGV4cGFuZDogdHJ1ZSwKICAgICAgICAgICAgICAgICAgICBjd2QgICA6ICdhcHAvZGF0YScsCiAgICAgICAgICAgICAgICAgICAgc3JjICAgOiAnZGF0YS8qJywKICAgICAgICAgICAgICAgICAgICBkZXN0ICA6ICc8JT0geWVvbWFuLmRpc3QgJT4nCiAgICAgICAgICAgICAgICB9</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICA8bGluayByZWw9InN0eWxlc2hlZXQiIGhyZWY9ImVwc2VkaXRvci9kaXN0L2Vwc2VkaXRvci5jc3MiPgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGNzcwo=</text>
       </register>
     </registers>
     <search>
@@ -458,6 +463,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed O</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed P</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>

@@ -103,8 +103,8 @@
         <mark key="^" line="76" column="0" />
         <mark key="." line="66" column="0" />
       </file>
-      <file name="E:/WWWW/epsd.git/README.md" timestamp="1496908363699">
-        <mark key="[" line="4" column="0" />
+      <file name="E:/WWWW/epsd.git/README.md" timestamp="1497491324178">
+        <mark key="[" line="19" column="0" />
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
         <mark key="^" line="4" column="0" />
@@ -138,10 +138,12 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="E:/WWWW/epsd.git/app/scripts/controllers/visual.js" timestamp="1497409876224">
+      <file name="E:/WWWW/epsd.git/app/scripts/controllers/visual.js" timestamp="1497492049424">
         <mark key="'" line="15" column="38" />
-        <mark key="[" line="34" column="61" />
-        <mark key="^" line="11" column="10" />
+        <mark key="[" line="13" column="10" />
+        <mark key="]" line="13" column="9" />
+        <mark key="^" line="13" column="9" />
+        <mark key="." line="13" column="9" />
       </file>
       <file name="E:/WWWW/epsd.git/editor/test/unit/base/Context.spec.js" timestamp="1496989679497">
         <mark key="'" line="0" column="0" />
@@ -152,7 +154,7 @@
         <mark key="^" line="2" column="73" />
         <mark key="." line="9" column="23" />
       </file>
-      <file name="E:/WWWW/epsd.git/Gruntfile.js" timestamp="1497443110000">
+      <file name="E:/WWWW/epsd.git/Gruntfile.js" timestamp="1497490825270">
         <mark key="'" line="515" column="9" />
         <mark key="]" line="431" column="47" />
         <mark key="^" line="431" column="47" />

@@ -17,6 +17,9 @@
         <mark key="." line="12" column="0" />
         <mark key="^" line="12" column="2" />
       </file>
+      <file name="/fragment.js" timestamp="1494989103495">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="E:/WWWW/epsd.git/editor/.jscsrc" timestamp="1497959005776">
         <mark key="'" line="29" column="18" />
         <mark key="[" line="11" column="46" />
@@ -54,11 +57,12 @@
         <mark key="." line="66" column="0" />
       </file>
       <file name="E:/WWWW/epsd.git/editor/test/unit/bs3/module/Toolbar.spec.js" timestamp="1497957076668" />
-      <file name="E:/WWWW/epsd.git/editor/test/unit/bs3/module/Buttons.spec.js" timestamp="1497958250317">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="21" column="0" />
-        <mark key="]" line="21" column="0" />
-        <mark key="." line="21" column="0" />
+      <file name="E:/WWWW/epsd.git/editor/test/unit/bs3/module/Buttons.spec.js" timestamp="1497960357105">
+        <mark key="'" line="23" column="3" />
+        <mark key="[" line="20" column="5" />
+        <mark key="]" line="20" column="3" />
+        <mark key="." line="20" column="3" />
+        <mark key="^" line="20" column="3" />
       </file>
       <file name="E:/WWWW/epsd.git/editor/src/js/bs3/module/ChoiceHandle.js" timestamp="1497610669846">
         <mark key="'" line="24" column="81" />
@@ -69,6 +73,9 @@
       </file>
       <file name="E:/WWWW/epsd.git/editor/src/js/bs3/module/HoverCursor.js" timestamp="1497952658617">
         <mark key="'" line="0" column="0" />
+      </file>
+      <file name="/" timestamp="1494989021458">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="E:/WWWW/epsd.git/editor/src/js/base/module/Editor.js" timestamp="1497959342860">
         <mark key="'" line="394" column="35" />
@@ -102,11 +109,23 @@
         <mark key="." line="438" column="22" />
         <mark key="^" line="438" column="22" />
       </file>
+      <file name="/JavaScript Console" timestamp="1495865542265">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="E:/WWWW/epsd.git/.jshintrc" timestamp="1495698324359">
+        <mark key="[" line="13" column="20" />
+      </file>
       <file name="E:/WWWW/epsd.git/editor/test/unit/base/core/range.spec.js" timestamp="1497951239718">
         <mark key="'" line="0" column="0" />
       </file>
       <file name="E:/WWWW/epsd.git/editor/src/js/app.js" timestamp="1497959261049">
         <mark key="'" line="14" column="5" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1497960109433">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="E:/LLLL/anduo.git/js/grunt_minify/app.js" timestamp="1495435091926">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="E:/WWWW/epsd.git/editor/src/js/base/editing/Style.js" timestamp="1497957601665">
         <mark key="'" line="0" column="0" />
@@ -146,7 +165,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="14" column="16" filename="E:/WWWW/epsd.git/editor/src/js/base/core/dom.js" />
       <jump line="79" column="9" filename="E:/WWWW/epsd.git/editor/src/js/base/core/dom.js" />
       <jump line="15" column="38" filename="E:/WWWW/epsd.git/tools/ci/server.js" />
       <jump line="57" column="24" filename="E:/WWWW/epsd.git/Gruntfile.js" />
@@ -246,10 +264,11 @@
       <jump line="394" column="35" filename="E:/WWWW/epsd.git/editor/src/js/base/module/Editor.js" />
       <jump line="0" column="0" filename="E:/WWWW/epsd.git/editor/test/unit/bs3/module/Buttons.spec.js" />
       <jump line="14" column="5" filename="E:/WWWW/epsd.git/editor/src/js/app.js" />
+      <jump line="23" column="3" filename="E:/WWWW/epsd.git/editor/test/unit/bs3/module/Buttons.spec.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBFbmZvcmNlIGFsbCB2YXJpYWJsZXMgYmVpbmcgY2FtZWwgY2FzZQo=</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="-" type="4">
         <text>true</text>
@@ -261,36 +280,36 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICdzcmMvanMvYXBwLmpzJywK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBFbmZvcmNlIGFsbCB2YXJpYWJsZXMgYmVpbmcgY2FtZWwgY2FzZQo=</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBFbmZvcmNlIHNpbmdsZSBxdW90ZXMK</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm47Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAiY2FtZWxjYXNlIjogWyJlcnJvciIsIHsgInByb3BlcnRpZXMiOiAiYWx3YXlzIiB9XSwK</text>
+        <text encoding="base64">ICAgIGlmICh0cnVlKSB7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAvIEVuZm9yY2UgYWxsIHZhcmlhYmxlcyBiZWluZyBjYW1lbCBjYXNlCg==</text>
+        <text encoding="base64">ICAgICAgICAvLyBFbmZvcmNlIGFsbCB2YXJpYWJsZXMgYmVpbmcgY2FtZWwgY2FzZQo=</text>
       </register>
       <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAvLyBFbmZvcmNlIHNpbmdsZSBxdW90ZXMK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAiY2FtZWxjYXNlIjogWyJlcnJvciIsIHsgInByb3BlcnRpZXMiOiAiYWx3YXlzIiB9XSwK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAvIEVuZm9yY2UgYWxsIHZhcmlhYmxlcyBiZWluZyBjYW1lbCBjYXNlCg==</text>
+      </register>
+      <register name="8" type="2">
         <text encoding="base64">ICAgIGlmICh0cnVlKSB7CiAgICAgICAgLy9UT0RPOiBza2lwIGFsbCBidXR0b24gdW5pdCB0ZXN0cwogICAgICAgIHJldHVybjsKICAgIH0K</text>
       </register>
-      <register name="6" type="4">
+      <register name="9" type="4">
         <text>src/js/**/intro.js
 src/js/**/outro.js
 test/libs/**/*
 test/coverage/**/*
 test/unit/**/*
 dist/**/*.js</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAiY29uc29sZSI6IHRydWUK</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAibm8taWdub3JlIjogMAo=</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICJleHRlbmRzIjogImVzbGludDpyZWNvbW1lbmRlZCIsCg==</text>
       </register>
     </registers>
     <search>

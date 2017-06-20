@@ -17,26 +17,28 @@
         <mark key="." line="12" column="0" />
         <mark key="^" line="12" column="2" />
       </file>
-      <file name="/fragment.js" timestamp="1494989103495">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="E:/WWWW/epsd.git/app/scripts/directives/fileread.js" timestamp="1496389602641">
         <mark key="[" line="16" column="9" />
         <mark key="]" line="16" column="0" />
         <mark key="." line="16" column="0" />
       </file>
-      <file name="E:/WWWW/epsd.git/editor/.jscsrc" timestamp="1497944082044">
-        <mark key="'" line="25" column="18" />
-        <mark key="[" line="7" column="31" />
-        <mark key="]" line="7" column="31" />
-        <mark key="." line="7" column="31" />
+      <file name="E:/WWWW/epsd.git/editor/.jscsrc" timestamp="1497950249938">
+        <mark key="'" line="29" column="18" />
+        <mark key="[" line="11" column="46" />
+        <mark key="]" line="11" column="46" />
+        <mark key="." line="11" column="46" />
+        <mark key="^" line="11" column="44" />
       </file>
-      <file name="/.jscsrc" timestamp="1497943851565">
+      <file name="/.jscsrc" timestamp="1497949746972">
         <mark key="[" line="14" column="0" />
         <mark key="]" line="14" column="19" />
       </file>
-      <file name="E:/WWWW/epsd.git/editor/Gruntfile.js" timestamp="1497943300026">
-        <mark key="'" line="309" column="43" />
+      <file name="E:/WWWW/epsd.git/editor/Gruntfile.js" timestamp="1497951304406">
+        <mark key="'" line="316" column="43" />
+        <mark key="[" line="96" column="0" />
+        <mark key="]" line="96" column="0" />
+        <mark key="." line="96" column="0" />
+        <mark key="^" line="91" column="26" />
       </file>
       <file name="E:/WWWW/epsd.git/editor/src/js/base/module/Caret.js" timestamp="1497943327409">
         <mark key="[" line="553" column="26" />
@@ -54,16 +56,16 @@
         <mark key="[" line="15" column="0" />
         <mark key="]" line="15" column="62" />
       </file>
+      <file name="E:/WWWW/epsd.git/editor/.eslintrc" timestamp="1497952777856">
+        <mark key="'" line="20" column="1" />
+        <mark key="[" line="17" column="28" />
+        <mark key="]" line="13" column="0" />
+        <mark key="." line="13" column="0" />
+      </file>
       <file name="E:/WWWW/epsd.git/app/scripts/controllers/text.js" timestamp="1496911654931">
         <mark key="[" line="17" column="9" />
         <mark key="]" line="18" column="0" />
         <mark key="." line="18" column="0" />
-      </file>
-      <file name="E:/WWWW/epsd.git/.jshintignore" timestamp="1496229261272">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
-        <mark key="^" line="2" column="23" />
       </file>
       <file name="E:/WWWW/epsd.git/app/styles/main.css" timestamp="1496731792696">
         <mark key="'" line="107" column="0" />
@@ -72,12 +74,6 @@
         <mark key="^" line="76" column="0" />
         <mark key="." line="66" column="0" />
       </file>
-      <file name="E:/WWWW/epsd.git/README.md" timestamp="1497491324178">
-        <mark key="[" line="19" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
-        <mark key="^" line="4" column="0" />
-      </file>
       <file name="E:/WWWW/epsd.git/editor/src/js/bs3/module/ChoiceHandle.js" timestamp="1497610669846">
         <mark key="'" line="24" column="81" />
         <mark key="[" line="133" column="24" />
@@ -85,31 +81,25 @@
         <mark key="." line="133" column="26" />
         <mark key="^" line="133" column="26" />
       </file>
-      <file name="/" timestamp="1494989021458">
-        <mark key="[" line="0" column="0" />
+      <file name="E:/WWWW/epsd.git/editor/src/js/bs3/module/HoverCursor.js" timestamp="1497952658617">
+        <mark key="'" line="0" column="0" />
       </file>
       <file name="E:/LLLL/anduo.git/js/angular_karma/index.html" timestamp="1495527001749">
         <mark key="[" line="4" column="11" />
         <mark key="]" line="4" column="11" />
         <mark key="." line="4" column="11" />
       </file>
-      <file name="E:/WWWW/epsd.git/editor/src/js/base/module/Editor.js" timestamp="1497944013396">
-        <mark key="'" line="699" column="0" />
-        <mark key="[" line="506" column="25" />
-        <mark key="]" line="506" column="26" />
-        <mark key="^" line="510" column="18" />
-        <mark key="." line="506" column="26" />
+      <file name="E:/WWWW/epsd.git/editor/src/js/base/module/Editor.js" timestamp="1497952817475">
+        <mark key="'" line="859" column="27" />
+        <mark key="[" line="506" column="20" />
+        <mark key="]" line="506" column="21" />
+        <mark key="^" line="505" column="49" />
+        <mark key="." line="506" column="21" />
       </file>
-      <file name="E:/WWWW/epsd.git/app/views/text.html" timestamp="1497515894006">
-        <mark key="[" line="2" column="74" />
-        <mark key="]" line="9" column="23" />
-        <mark key="^" line="2" column="73" />
-        <mark key="." line="9" column="23" />
-      </file>
-      <file name="E:/WWWW/epsd.git/Gruntfile.js" timestamp="1497943265234">
+      <file name="E:/WWWW/epsd.git/Gruntfile.js" timestamp="1497946351452">
         <mark key="'" line="48" column="52" />
         <mark key="[" line="147" column="0" />
-        <mark key="]" line="150" column="13" />
+        <mark key="]" line="156" column="13" />
         <mark key="." line="59" column="66" />
         <mark key="^" line="59" column="42" />
       </file>
@@ -122,6 +112,11 @@
         <mark key="[" line="34" column="0" />
         <mark key="]" line="34" column="0" />
         <mark key="." line="34" column="0" />
+      </file>
+      <file name="E:/WWWW/epsd.git/editor/.eslintignore" timestamp="1497951331027">
+        <mark key="[" line="3" column="5" />
+        <mark key="]" line="3" column="5" />
+        <mark key="." line="3" column="5" />
       </file>
       <file name="E:/WWWW/epsd.git/app/scripts/app.js" timestamp="1497512940929">
         <mark key="[" line="18" column="38" />
@@ -151,9 +146,6 @@
         <mark key="]" line="11" column="15" />
         <mark key="." line="11" column="15" />
       </file>
-      <file name="/JavaScript Console" timestamp="1495865542265">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="E:/WWWW/epsd.git/editor/test/coverage/Chrome 58.0.3029 (Windows 7 0.0.0)/lcov-report/sorter.js" timestamp="1495618253529">
         <mark key="[" line="1" column="15" />
         <mark key="]" line="1" column="16" />
@@ -175,14 +167,8 @@
         <mark key="]" line="66" column="54" />
         <mark key="." line="66" column="54" />
       </file>
-      <file name="E:/WWWW/epsd.git/.jshintrc" timestamp="1495698324359">
-        <mark key="[" line="13" column="20" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1497609954818">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="E:/LLLL/anduo.git/js/grunt_minify/app.js" timestamp="1495435091926">
-        <mark key="[" line="0" column="0" />
+      <file name="E:/WWWW/epsd.git/editor/test/unit/base/core/range.spec.js" timestamp="1497951239718">
+        <mark key="'" line="0" column="0" />
       </file>
       <file name="E:/WWWW/epsd.git/app/views/main.html" timestamp="1495692307332">
         <mark key="[" line="0" column="0" />
@@ -200,17 +186,17 @@
         <mark key="]" line="17" column="31" />
         <mark key="." line="17" column="31" />
       </file>
-      <file name="E:/WWWW/epsd.git/editor/.jshintignore" timestamp="1495697970976">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
+      <file name="E:/WWWW/epsd.git/editor/.jshintignore" timestamp="1497950970901">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="3" column="11" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="E:/WWWW/epsd.git/app/scripts/controllers/visual.js" timestamp="1497500770124">
+      <file name="E:/WWWW/epsd.git/app/scripts/controllers/visual.js" timestamp="1497947268830">
         <mark key="'" line="15" column="38" />
-        <mark key="[" line="13" column="10" />
-        <mark key="]" line="13" column="9" />
+        <mark key="[" line="26" column="16" />
+        <mark key="]" line="26" column="17" />
         <mark key="^" line="13" column="9" />
-        <mark key="." line="13" column="9" />
+        <mark key="." line="26" column="17" />
       </file>
       <file name="E:/WWWW/epsd.git/editor/test/unit/base/module/Editor.spec.js" timestamp="1495617373785">
         <mark key="[" line="4" column="3" />
@@ -246,27 +232,22 @@
         <mark key="]" line="76" column="0" />
         <mark key="." line="70" column="0" />
       </file>
-      <file name="E:/WWWW/epsd.git/.jscsrc" timestamp="1497943620152">
+      <file name="E:/WWWW/epsd.git/.jscsrc" timestamp="1497948435015">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="16" column="5" />
-        <mark key="." line="17" column="0" />
-        <mark key="^" line="22" column="0" />
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="11" column="5" />
+        <mark key="." line="9" column="21" />
+        <mark key="^" line="9" column="21" />
       </file>
-      <file name="E:/WWWW/epsd.git/editor/package.json" timestamp="1497610937573">
-        <mark key="[" line="3" column="18" />
-        <mark key="]" line="3" column="19" />
-        <mark key="." line="3" column="19" />
+      <file name="E:/WWWW/epsd.git/editor/package.json" timestamp="1497950471346">
+        <mark key="'" line="28" column="19" />
+        <mark key="[" line="34" column="19" />
+        <mark key="]" line="32" column="26" />
+        <mark key="." line="32" column="26" />
+        <mark key="^" line="32" column="26" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="309" column="13" filename="E:/WWWW/epsd.git/editor/src/js/bs3/module/ChoiceHandle.js" />
-      <jump line="16" column="16" filename="E:/WWWW/epsd.git/editor/src/js/bs3/module/ChoiceHandle.js" />
-      <jump line="237" column="66" filename="E:/WWWW/epsd.git/editor/src/js/bs3/module/ChoiceHandle.js" />
-      <jump line="241" column="42" filename="E:/WWWW/epsd.git/editor/src/js/bs3/module/ChoiceHandle.js" />
-      <jump line="245" column="27" filename="E:/WWWW/epsd.git/editor/src/js/bs3/module/ChoiceHandle.js" />
-      <jump line="248" column="27" filename="E:/WWWW/epsd.git/editor/src/js/bs3/module/ChoiceHandle.js" />
-      <jump line="251" column="27" filename="E:/WWWW/epsd.git/editor/src/js/bs3/module/ChoiceHandle.js" />
       <jump line="254" column="20" filename="E:/WWWW/epsd.git/editor/src/js/bs3/module/ChoiceHandle.js" />
       <jump line="261" column="15" filename="E:/WWWW/epsd.git/editor/src/js/bs3/module/ChoiceHandle.js" />
       <jump line="271" column="16" filename="E:/WWWW/epsd.git/editor/src/js/bs3/module/ChoiceHandle.js" />
@@ -360,34 +341,41 @@
       <jump line="23" column="18" filename="E:/WWWW/epsd.git/editor/.jscsrc" />
       <jump line="666" column="12" filename="E:/WWWW/epsd.git/editor/src/js/base/core/dom.js" />
       <jump line="699" column="0" filename="E:/WWWW/epsd.git/editor/src/js/base/module/Editor.js" />
+      <jump line="859" column="27" filename="E:/WWWW/epsd.git/editor/src/js/base/module/Editor.js" />
+      <jump line="13" column="14" filename="E:/WWWW/epsd.git/editor/package.json" />
+      <jump line="28" column="19" filename="E:/WWWW/epsd.git/editor/package.json" />
+      <jump line="15" column="2" filename="E:/WWWW/epsd.git/editor/.eslintrc" />
+      <jump line="11" column="1" filename="E:/WWWW/epsd.git/editor/.eslintrc" />
+      <jump line="0" column="0" filename="E:/WWWW/epsd.git/editor/test/unit/base/core/range.spec.js" />
+      <jump line="0" column="0" filename="E:/WWWW/epsd.git/editor/src/js/bs3/module/HoverCursor.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>&quot;exceptUndefined&quot;</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAiY29uc29sZSI6IHRydWUK</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;exceptUndefined&quot;</text>
+        <text>undef</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxqc2NzXD4=</text>
+        <text>jshint</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICJqc0RvYyI6IGZhbHNlLAo=</text>
+        <text encoding="base64">ICAgICAgICBuby11bmRlZjogMSwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICJwcmVzZXQiOiAiZ29vZ2xlIiwKICAgICJkaXNhbGxvd1NwYWNlQWZ0ZXJPYmplY3RLZXlzIjogewogICAgICAgICJhbGxFeGNlcHQiOiBbCiAgICAgICAgICAgICJtdWx0aWxpbmUiCiAgICAgICAgXQogICAgfSwKICAgICJkaXNhbGxvd1NwYWNlc0luRnVuY3Rpb25FeHByZXNzaW9uIjogewogICAgICAgICJiZWZvcmVPcGVuaW5nUm91bmRCcmFjZSI6IHRydWUKICAgIH0sCiAgICAiZGlzYWxsb3dQYWRkaW5nTmV3TGluZXNBZnRlckJsb2NrcyI6IGZhbHNlLAogICAgImRpc2FsbG93TXVsdGlwbGVMaW5lQnJlYWtzIjogdHJ1ZSwKICAgICJ2YWxpZGF0ZUluZGVudGF0aW9uIjogNCwKICAgICJtYXhpbXVtTGluZUxlbmd0aCI6IDMwMCwKICAgICJqc0RvYyI6IGZhbHNlLAogICAgImRpc2FsbG93TXVsdGlwbGVWYXJEZWNsIjogZmFsc2UsCg==</text>
+        <text encoding="base64">ICAgICAgICAiY29uc29sZSI6IHRydWUK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICJwcmVzZXQiOiAiZ29vZ2xlIiwKICAgICJkaXNhbGxvd1NwYWNlQWZ0ZXJPYmplY3RLZXlzIjogImlnbm9yZU11bHRpTGluZSIsCiAgICAiZGlzYWxsb3dTcGFjZXNJbkZ1bmN0aW9uRXhwcmVzc2lvbiI6IHsKICAgICAgICAiYmVmb3JlT3BlbmluZ1JvdW5kQnJhY2UiOiB0cnVlCiAgICB9LAogICAgImRpc2FsbG93TXVsdGlwbGVMaW5lQnJlYWtzIjogdHJ1ZSwKICAgICJkaXNhbGxvd011bHRpcGxlVmFyRGVjbCI6ICJleGNlcHRVbmRlZmluZWQiLAogICAgInZhbGlkYXRlSW5kZW50YXRpb24iOiA0LAogICAgIm1heGltdW1MaW5lTGVuZ3RoIjogMzAwLAogICAgInJlcXVpcmVDYW1lbENhc2VPclVwcGVyQ2FzZUlkZW50aWZpZXJzIjogdHJ1ZSwKICAgICJyZXF1aXJlQ2FwaXRhbGl6ZWRDb25zdHJ1Y3RvcnMiOiB0cnVlLAogICAgInJlcXVpcmVQYXJlbnRoZXNlc0Fyb3VuZElJRkUiOiB0cnVlLAogICAgInZhbGlkYXRlUXVvdGVNYXJrcyI6IHsKICAgICAgICAibWFyayI6ICInIiwKICAgICAgICAiZXNjYXBlIjogdHJ1ZQogICAgfSwK</text>
+        <text encoding="base64">ICAgICAgICAibm8taWdub3JlIjogMAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHZlcmJvc2U6IHRydWUK</text>
+        <text encoding="base64">ICAgICJleHRlbmRzIjogImVzbGludDpyZWNvbW1lbmRlZCIsCg==</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">PCB0YWJJdGVtcy5sZW5ndGg7IGl0ZW1JbmRleCsrKSB7CiAgICAgICAgICAgICAgICAgICAgICAgICQodGFiSXRlbXNbaXRlbUluZGV4XSkucmVwbGFjZVdpdGgoJCh0YWJJdGVtc1tpdGVtSW5kZXhdKS5jbG9uZSgpKTsKICAgICAgICAgICAgICAgICAgICAgICAgaWYgKHRhYkl0ZW1zW2l0ZW1JbmRleF0udGFnTmFtZSA9PT0gJ0JVVFRPTicpIHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgIHRhYkl0ZW1zW2l0ZW1JbmRleF0uYWRkRXZlbnRMaXN0ZW5lcignY2xpY2snLCBzZWxmLmFkZFRhYnNJdGVtLmJpbmQoc2VsZiwgZ3JvdXBJbmRleCwgaXRlbUluZGV4KSwgZmFsc2UpOwogICAgICAgICAgICAgICAgICAgICAgICAgICAgY29udGludWU7CiAgICAgICAgICAgICAgICAgICAgICAgIH0KCiAgICAgICAgICAgICAgICAgICAgICAgIC8vYWRkIGNsaWNrIGV2ZW50IGxpc3RlbmVyIGZvciB0YWIgaGVhZAogICAgICAgICAgICAgICAgICAgICAgICB0YWJJdGVtc1tpdGVtSW5kZXhdLmFkZEV2ZW50TGlzdGVuZXIoJ2NsaWNrJywgdGhpcy5vbkNsaWNrLmJpbmQodGhpcywgZ3JvdXBJbmRleCwgaXRlbUluZGV4KSwgZmFsc2UpOwoKICAgICAgICAgICAgICAgICAgICAgICAgLy9nZXQgdHJhc2ggYnV0dG9uIGZyb20gdGFiIGl0ZW0ncyBoZWFkCiAgICAgICAgICAgICAgICAgICAgICAgIHZhciB0cmFzaEJ0bnMgPSB0YWJJdGVtc1tpdGVtSW5kZXhdLmdldEVsZW1lbnRzQnlUYWdOYW1lKCdzcGFuJyk7CiAgICAgICAgICAgICAgICAgICAgICAgIGlmICh0cmFzaEJ0bnMubGVuZ3RoID09PSAxKSB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICB2YXIgdHJhc2hCdG4gPSB0cmFzaEJ0bnNbMF07CgogICAgICAgICAgICAgICAgICAgICAgICAgICAgLy90b29sdGlwIGZvciB0cmFzaCBidXR0b24KICAgICAgICAgICAgICAgICAgICAgICAgICAgIHRyYXNoQnRuLnNldEF0dHJpYnV0ZSgnZGF0YS10b2dnbGUnLCAndG9vbHRpcCcpOwogICAgICAgICAgICAgICAgICAgICAgICAgICAgdHJhc2hCdG4uc2V0QXR0cmlidXRlKCd0aXRsZScsICdEZWxldGUgQnJhbmNoJyk7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAkKHRyYXNoQnRuKS50b29sdGlwKCk7CgogICAgICAgICAgICAgICAgICAgICAgICAgICAgdHJhc2hCdG4uYWRkRXZlbnRMaXN0ZW5lcignY2xpY2snLCB0aGlzLnJlbW92ZVRhYnNJdGVtLmJpbmQodGhpcywgZ3JvdXBJbmRleCwgaXRlbUluZGV4KSwgZmFsc2UpOwogICAgICAgICAgICAgICAgICAgICAgICB9CgogICAgICAgICAgICAgICAgICAgICAgICBpbmRleEdyb3VwID0gZ3JvdXBJbmRleDsKICAgICAgICAgICAgICAgICAgICAgICAgaW5kZXhJdGVtID0gaXRlbUluZGV4OwoKICAgICAgICAgICAgICAgICAgICAgICAgLy9zZXQgdGFiIGl0ZW0gYm9yZGVyJ3MgY29sb3IKICAgICAgICAgICAgICAgICAgICAgICAgdmFyIHBhbmUgPSBncm91cHMucGFuZVtncm91cEluZGV4XS5jaGlsZHJlbltpdGVtSW5kZXhdOwogICAgICAgICAgICAgICAgICAgICAgICBpZiAocGFuZSkgewogICAgICAgICAgICAgICAgICAgICAgICAgICAgdmFyIHJvdyA9IHBhcnNlSW50KCgoZ3JvdXBJbmRleCArIDEpICogKGl0ZW1JbmRleCArIDEpKSAlIDE2KTsKICAgICAgICAgICAgICAgICAgICAgICAgICAgIHRhYkl0ZW1zW2l0ZW1JbmRleF0uc3R5bGUuYm9yZGVyQ29sb3IgPSBvcHRpb25zLmNvbG9yc01hcFsxNSAtIHJvd107CiAgICAgICAgICAgICAgICAgICAgICAgICAgICBwYW5lLnN0eWxlLmJvcmRlckNvbG9yID0gb3B0aW9ucy5jb2xvcnNNYXBbMTUgLSByb3ddOwogICAgICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICAgICAgICAgIC8vaWYgcmVtZW1iZXIgdGhlIHRhYiBpcyBhY3RpdmUKICAgICAgICAgICAgICAgICAgICAgICAgaWYgKHRoaXMuaGFzTWVtb3J5KGdyb3VwSW5kZXgsIGl0ZW1JbmRleCkpIHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgIHNlbGYuc2V0Tm9kZXMoZ3JvdXBJbmRleCwgaXRlbUluZGV4KTsKICAgICAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgIH0KCiAgICAgICAgICAgICAgICAvL2F1dG8gcmVzaXplIHRhYgogICAgICAgICAgICAgICAgc2VsZi5yZXNpemVUYWJzKCk7CiAgICAgICAgICAgIH07CgogICAgICAgICAgICAvKioKICAgICAgICAgICAgICogdXNlciBjbGljayBldmVudCBoYW5kbGUKICAgICAgICAgICAgICogQHBhcmFtIGdyb3VwSW5kZXgKICAgICAgICAgICAgICogQHBhcmFtIGl0ZW1JbmRleAogICAgICAgICAgICAgKi8KICAgICAgICAgICAgdGhpcy5vbkNsaWNrID0gZnVuY3Rpb24oZ3JvdXBJbmRleCwgaXRlbUluZGV4KSB7CiAgICAgICAgICAgICAgICAvL2FjdGl2ZSBjbGljayB0YWIKICAgICAgICAgICAgICAgIHRoaXMuc2V0Tm9kZXMoZ3JvdXBJbmRleCwgaXRlbUluZGV4KTsKCiAgICAgICAgICAgICAgICB0aGlzLnNldENhbGxiYWNrKGluZGV4R3JvdXAsIGluZGV4SXRlbSk7CgogICAgICAgICAgICAgICAgLy90cmlnZ2VyIHRhYmNsaWNrIGV2ZW50CiAgICAgICAgICAgICAgICBjb250ZXh0LnRyaWdnZXJFdmVudCgndGFiY2xpY2snKTsKICAgICAgICAgICAgfTsKCiAgICAgICAgICAgIC8qKgogICAgICAgICAgICAgKiBjcmVhdGUgVGFicyB0aXRsZQogICAgICAgICAgICAgKiBAcGFyYW0gaXRlbUluZGV4CiAgICAgICAgICAgICAqIEByZXR1cm5zIHtzdHJpbmd9CiAgICAgICAgICAgICAqLwogICAgICAgICAgICB0aGlzLmNyZWF0ZVRhYlRpdGxlID0gZnVuY3Rpb24oaXRlbUluZGV4LCBvcHRpb25UeXBlKSB7CiAgICAgICAgICAgICAgICB2YXIgb3B0aW9uU3RyID0gKG9wdGlvblR5cGUgPT09ICdFbHNlJykgPyAnJyA6ICgnT3B0aW9uICcgKyBpdGVtSW5kZXgpOwogICAgICAgICAgICAgICAgdmFyIGh0bWxTdHIgPSAnPGRpdiBjbGFzcz0iZXBzLWNvbmRpdGlvbi10YWIiPjxiIGNsYXNzPSJlcHMtY29uZGl0aW9uLW9wdGlvbiI+JyArIG9wdGlvblR5cGUgKyAnPC9iPjxoMz4nICsKICAgICAgICAgICAgICAgICAgICBvcHRpb25TdHIgKyAnPC9oMz48c3BhbiBjbGFzcz0iZ2x5cGhpY29uIGdseXBoaWNvbi10cmFzaCI+PC9zcGFuPjwvZGl2Pic7CiAgICAgICAgICAgICAgICByZXR1cm4gaHRtbFN0cjsKICAgICAgICAgICAgfTsKCiAgICAgICAgICAgIC8qKgogICAgICAgICAgICAgKiBjcmVhdGUgVGFicyBwYW5lbAogICAgICAgICAgICAgKgogICAgICAgICAgICAgKiBAcmV0dXJucyB7c3RyaW5nfQogICAgICAgICAgICAgKi8KICAgICAgICAgICAgdGhpcy5jcmVhdGVUYWJQYW5lbCA9IGZ1bmN0aW9uKCkgewogICAgICAgICAgICAgICAgcmV0dXJuICc8ZGl2IGNsYXNzPSJlcHMtY29uZGl0aW9uLXBhbmUiPjxwPjxicj48L3A+PC9kaXY+JzsKICAgICAgICAgICAgfTsKCiAgICAgICAgICAgIC8qKioKICAgICAgICAgICAgICogYXV0b3Jlc2l6ZSB0YWJzIHNpemUKICAgICAgICAgICAgICovCiAgICAgICAgICAgIHRoaXMucmVzaXplVGFicyA9IGZ1bmN0aW9uKCkgewogICAgICAgICAgICAgICAgZm9yICh2YXIgZ3JvdXBJbmRleCA9IDA7IGdyb3VwSW5kZXggPCBncm91cHMudGFiLmxlbmd0aDsgKytncm91cEluZGV4KSB7CiAgICAgICAgICAgICAgICAgICAgdmFyIGl0ZW1zID0gZ3JvdXBzLnRhYltncm91cEluZGV4XS5jaGlsZHJlbjsKICAgICAgICAgICAgICAgICAgICB2YXIgaXRlbSA9IG51bGw7CiAgICAgICAgICAgICAgICAgICAgdmFyIHdpZHRoID0gMDsKICAgICAgICAgICAgICAgICAgICBmb3IgKHZhciBpbmRleCA9IDA7IGluZGV4IDwgaXRlbXMubGVuZ3RoOyArK2luZGV4KSB7CiAgICAgICAgICAgICAgICAgICAgICAgIGl0ZW0gPSBpdGVtc1tpbmRleF07CiAgICAgICAgICAgICAgICAgICAgICAgIHdpZHRoICs9IGl0ZW0uZ2V0Qm91bmRpbmdDbGllbnRSZWN0KCkud2lkdGg7CiAgICAgICAgICAgICAgICAgICAgfQoKICAgICAgICAgICAgICAgICAgICB2YXIgdGFicyA9IGdyb3Vwcy50YWJzW2dyb3VwSW5kZXhdOwogICAgICAgICAgICAgICAgICAgIGlmICh3aWR0aCA+IHRhYnMuY2xpZW50V2lkdGgpIHsKICAgICAgICAgICAgICAgICAgICAgICAgdGFicy5zdHlsZS53aWR0aCA9IHdpZHRoICsgNDAgKyAncHgnOwogICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgfTsKCiAgICAgICAgICAgIC8qKgogICAgICAgICAgICAgKiBhZGQgYSB0YWIgaXRlbSBmb3IgdGFicwogICAgICAgICAgICAgKiBAcGFyYW0gZ3JvdXBJbmRleAogICAgICAgICAgICAgKiBAcGFyYW0gaXRlbUluZGV4CiAgICAgICAgICAgICAqLwogICAgICAgICAgICB0aGlzLmFkZFRhYnNJdGVtID0gZnVuY3Rpb24oZ3JvdXBJbmRleCwgaXRlbUluZGV4KSB7CiAgICAgICAgICAgICAgICBjb25zb2xlLmFzc2VydChpdGVtSW5kZXggPiAwKTsKCiAgICAgICAgICAgICAgICB2YXIgY3VycmVudEl0ZW1JbmRleCA9IGl0ZW1JbmRleDsKICAgICAgICAgICAgICAgIHZhciBsYXN0VGl0bGUgPSBncm91cHMudGFiW2dyb3VwSW5kZXhdLmNoaWxkcmVuW2l0ZW1JbmRleCAtIDFdOwogICAgICAgICAgICAgICAgdmFyIGxhc3RQYW5lID0gZ3JvdXBzLnBhbmVbZ3JvdXBJbmRleF0uY2hpbGRyZW5baXRlbUluZGV4IC0gMV07CgogICAgICAgICAgICAgICAgLy8gVGhlIG5ldyB0YWIgc2hvdWxkIGJlIGluc2VydGVkIGJlZm9yZSB0aGUgJ0Vsc2UnIHRhYi4KICAgICAgICAgICAgICAgIHZhciBjdXJyZW50T3B0aW9uID0gJ0VsaWYnOwogICAgICAgICAgICAgICAgaWYgKGxhc3RUaXRsZS5maXJzdENoaWxkLnRleHRDb250ZW50ID09PSAnRWxzZScpIHsKICAgICAgICAgICAgICAgICAgICBpZiAoaXRlbUluZGV4ID4=</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBuby1pZ25vcmU6IDEsCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhciBrU3BhY2VzID0gJyZuYnNwOyZuYnNwOyZuYnNwOyZuYnNwOyc7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICdwbHVnaW4vKiovKi5qcycK</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
@@ -396,16 +384,16 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAndXNlIHN0cmljdCc7Cg==</text>
+        <text encoding="base64">ewogICJlbnYiIDogewogICAgIm5vZGUiIDogdHJ1ZQogIH0sCiAgInJ1bGVzIiA6IHsKICAgICJzZW1pIjogWzIsICJuZXZlciJdLAogICAgInN0cmljdCI6IDAsCiAgICAicXVvdGVzIjogWzEsICJzaW5nbGUiLCAiYXZvaWQtZXNjYXBlIl0sCiAgICAibm8tdXNlLWJlZm9yZS1kZWZpbmUiOiAwLAogICAgImN1cmx5IjogMCwKICAgICJuby11bmRlcnNjb3JlLWRhbmdsZSI6IDAsCiAgICAibm8tbG9uZWx5LWlmIjogMSwKICAgICJuby11bnVzZWQtdmFycyI6IFsyLCB7InZhcnMiIDogImFsbCIsICJhcmdzIiA6ICJhZnRlci11c2VkIn1dLAogICAgIm5vLW1peGVkLXJlcXVpcmVzIjogMCwKICAgICJzcGFjZS1pbmZpeC1vcHMiOiAwCiAgfQp9Cg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="9" type="4">
+        <text encoding="base64">CiAgICAic2VtaSI6IFsyLCAibmV2ZXIiXSwKICAgICJzdHJpY3QiOiAwLAogICAgInF1b3RlcyI6IFsxLCAic2luZ2xlIiwgImF2b2lkLWVzY2FwZSJdLAogICAgIm5vLXVzZS1iZWZvcmUtZGVmaW5lIjogMCwKICAgICJjdXJseSI6IDAsCiAgICAibm8tdW5kZXJzY29yZS1kYW5nbGUiOiAwLAogICAgIm5vLWxvbmVseS1pZiI6IDEsCiAgICAibm8tdW51c2VkLXZhcnMiOiBbMiwgeyJ2YXJzIiA6ICJhbGwiLCAiYXJncyIgOiAiYWZ0ZXItdXNlZCJ9XSwKICAgICJuby1taXhlZC1yZXF1aXJlcyI6IDAsCiAgICAic3BhY2UtaW5maXgtb3BzIjogMAo=</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxqc2NzXD4=</last-search>
+      <last-search>jshint</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxqc2NzXD4=</last-pattern>
+      <last-pattern>jshint</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxyZXF1aXJlXD4=</last-substitute>
       <last-dir>1</last-dir>
@@ -431,8 +419,8 @@
         <entry>clean</entry>
         <entry encoding="base64">XDxlcHNlZGl0b3JcPg==</entry>
         <entry>jscs</entry>
-        <entry>jshint</entry>
         <entry encoding="base64">XDxqc2NzXD4=</entry>
+        <entry>jshint</entry>
       </history-search>
       <history-cmd />
       <history-expr />

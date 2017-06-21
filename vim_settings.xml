@@ -16,8 +16,10 @@
         <mark key="." line="11" column="46" />
         <mark key="^" line="11" column="44" />
       </file>
-      <file name="E:/WWWW/epsd.git/editor/Gruntfile.js" timestamp="1497958188715">
-        <mark key="'" line="338" column="43" />
+      <file name="E:/WWWW/epsd.git/editor/Gruntfile.js" timestamp="1498036680516">
+        <mark key="'" line="79" column="15" />
+        <mark key="[" line="319" column="0" />
+        <mark key="]" line="320" column="38" />
       </file>
       <file name="E:/WWWW/epsd.git/editor/src/js/base/module/Caret.js" timestamp="1498033531729">
         <mark key="'" line="64" column="66" />
@@ -50,12 +52,18 @@
       <file name="/" timestamp="1494989021458">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="E:/WWWW/epsd.git/Gruntfile.js" timestamp="1498034847509">
-        <mark key="'" line="502" column="13" />
-        <mark key="[" line="35" column="23" />
-        <mark key="]" line="64" column="50" />
-        <mark key="." line="64" column="50" />
-        <mark key="^" line="64" column="50" />
+      <file name="E:/WWWW/epsd.git/editor/src/js/base/module/Editor.js" timestamp="1498037538251">
+        <mark key="'" line="872" column="54" />
+        <mark key="[" line="875" column="6" />
+        <mark key="]" line="877" column="0" />
+        <mark key="." line="877" column="0" />
+      </file>
+      <file name="E:/WWWW/epsd.git/Gruntfile.js" timestamp="1498037458120">
+        <mark key="'" line="514" column="13" />
+        <mark key="[" line="74" column="48" />
+        <mark key="]" line="56" column="36" />
+        <mark key="." line="56" column="36" />
+        <mark key="^" line="56" column="36" />
       </file>
       <file name="E:/WWWW/epsd.git/editor/src/js/base/core/agent.js" timestamp="1497957205648">
         <mark key="'" line="0" column="0" />
@@ -127,31 +135,15 @@
         <mark key="]" line="76" column="0" />
         <mark key="." line="70" column="0" />
       </file>
-      <file name="E:/WWWW/epsd.git/.jscsrc" timestamp="1498035226353">
+      <file name="E:/WWWW/epsd.git/.jscsrc" timestamp="1498036831381">
         <mark key="'" line="7" column="31" />
-        <mark key="[" line="7" column="32" />
-        <mark key="]" line="13" column="28" />
-        <mark key="." line="13" column="28" />
-        <mark key="^" line="13" column="28" />
+        <mark key="[" line="7" column="37" />
+        <mark key="]" line="7" column="37" />
+        <mark key="." line="7" column="37" />
+        <mark key="^" line="7" column="36" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="E:/WWWW/epsd.git/editor/src/js/base/module/Clipboard.js" />
-      <jump line="507" column="0" filename="E:/WWWW/epsd.git/editor/src/js/base/module/Editor.js" />
-      <jump line="486" column="36" filename="E:/WWWW/epsd.git/editor/src/js/base/module/Editor.js" />
-      <jump line="487" column="29" filename="E:/WWWW/epsd.git/editor/src/js/base/module/Editor.js" />
-      <jump line="0" column="0" filename="E:/WWWW/epsd.git/editor/src/js/base/module/Editor.js" />
-      <jump line="283" column="60" filename="E:/WWWW/epsd.git/editor/src/js/base/module/Editor.js" />
-      <jump line="284" column="26" filename="E:/WWWW/epsd.git/editor/src/js/base/module/Editor.js" />
-      <jump line="290" column="24" filename="E:/WWWW/epsd.git/editor/src/js/base/module/Editor.js" />
-      <jump line="291" column="69" filename="E:/WWWW/epsd.git/editor/src/js/base/module/Editor.js" />
-      <jump line="394" column="35" filename="E:/WWWW/epsd.git/editor/src/js/base/module/Editor.js" />
-      <jump line="0" column="0" filename="E:/WWWW/epsd.git/editor/test/unit/bs3/module/Buttons.spec.js" />
-      <jump line="14" column="5" filename="E:/WWWW/epsd.git/editor/src/js/app.js" />
-      <jump line="23" column="3" filename="E:/WWWW/epsd.git/editor/test/unit/bs3/module/Buttons.spec.js" />
-      <jump line="272" column="38" filename="E:/WWWW/epsd.git/editor/src/js/base/core/parser.js" />
-      <jump line="199" column="20" filename="E:/WWWW/epsd.git/editor/src/js/base/core/parser.js" />
-      <jump line="509" column="17" filename="E:/WWWW/epsd.git/editor/src/js/base/core/parser.js" />
       <jump line="878" column="25" filename="E:/WWWW/epsd.git/editor/src/js/base/core/parser.js" />
       <jump line="235" column="0" filename="E:/WWWW/epsd.git/editor/src/js/base/core/parser.js" />
       <jump line="837" column="32" filename="E:/WWWW/epsd.git/editor/src/js/base/core/parser.js" />
@@ -236,32 +228,60 @@
       <jump line="400" column="37" filename="E:/WWWW/epsd.git/editor/test/unit/base/module/Editor.spec.js" />
       <jump line="465" column="37" filename="E:/WWWW/epsd.git/editor/test/unit/base/module/Editor.spec.js" />
       <jump line="540" column="37" filename="E:/WWWW/epsd.git/editor/test/unit/base/module/Editor.spec.js" />
+      <jump line="30" column="26" filename="E:/WWWW/epsd.git/Gruntfile.js" />
+      <jump line="545" column="1" filename="E:/WWWW/epsd.git/Gruntfile.js" />
+      <jump line="34" column="4" filename="E:/WWWW/epsd.git/Gruntfile.js" />
+      <jump line="79" column="15" filename="E:/WWWW/epsd.git/editor/Gruntfile.js" />
+      <jump line="489" column="24" filename="E:/WWWW/epsd.git/Gruntfile.js" />
+      <jump line="11" column="21" filename="E:/WWWW/epsd.git/Gruntfile.js" />
+      <jump line="14" column="41" filename="E:/WWWW/epsd.git/Gruntfile.js" />
+      <jump line="27" column="44" filename="E:/WWWW/epsd.git/Gruntfile.js" />
+      <jump line="38" column="46" filename="E:/WWWW/epsd.git/Gruntfile.js" />
+      <jump line="42" column="16" filename="E:/WWWW/epsd.git/Gruntfile.js" />
+      <jump line="33" column="8" filename="E:/WWWW/epsd.git/Gruntfile.js" />
+      <jump line="861" column="27" filename="E:/WWWW/epsd.git/editor/src/js/base/module/Editor.js" />
+      <jump line="73" column="26" filename="E:/WWWW/epsd.git/Gruntfile.js" />
+      <jump line="555" column="9" filename="E:/WWWW/epsd.git/Gruntfile.js" />
+      <jump line="514" column="13" filename="E:/WWWW/epsd.git/Gruntfile.js" />
+      <jump line="872" column="54" filename="E:/WWWW/epsd.git/editor/src/js/base/module/Editor.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>{
-        &quot;allExcept&quot;: [
-            &quot;undefined&quot;
-        ]
-    }</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ZWxzZSA=</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxyZW5kZXJTY3JpcHRUb0RvbVw+</text>
+        <text encoding="base64">XDx3YXRjaFw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICdzcmMvanMvYXBwLmpzJywK</text>
+        <text encoding="base64">ICAgIC8vIGxvYWQgYWxsIHRhc2tzIGZyb20gdGhlIGdydW50IHBsdWdpbnMgdXNlZCBpbiB0aGlzIGZpbGUKICAgIHJlcXVpcmUoJ2xvYWQtZ3J1bnQtdGFza3MnKShncnVudCk7Cg==</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIGRkCg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="4">
         <text>{
         &quot;allExcept&quot;: [
             &quot;undefined&quot;
         ]
     }</text>
       </register>
-      <register name="2" type="4">
+      <register name="5" type="4">
+        <text>{
+        &quot;allExcept&quot;: [
+            &quot;undefined&quot;
+        ]
+    }</text>
+      </register>
+      <register name="6" type="4">
         <text>{
                 // console.log('placeholder');
                 // if (isActivated) {
@@ -278,32 +298,20 @@
                 // this.invoke('save');
             }</text>
       </register>
-      <register name="3" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAvKioKICAgICAgICAgKiBjaGVjayBzZWxlY3QgcmFuZ2UgaXMgaW4gc2FtZSBjb25kaXRpb24vY2hvaWNlIGJsb2NrCiAgICAgICAgICogQHBhcmFtIHJuZwogICAgICAgICAqIEByZXR1cm5zIHtib29sZWFufQogICAgICAgICAqLwogICAgICAgIHRoaXMuaXNSYW5nZUluU2FtZUNob2ljZU9yQ29uZGl0aW9uID0gZnVuY3Rpb24ocm5nKSA7Cg==</text>
       </register>
-      <register name="4" type="4">
+      <register name="8" type="4">
         <text encoding="base64">ewogICAgICAgICAgICBpZiAocm5nKSB7CgogICAgICAgICAgICAgICAgdmFyIHN0YXJ0UG9pbnQgPSBybmcuc2M7CiAgICAgICAgICAgICAgICB2YXIgZW5kUG9pbnQgPSBybmcuZWM7CiAgICAgICAgICAgICAgICB2YXIgcGFyZW50UyA9IG51bGw7Ly9wYXJlbnQgb2Ygc3RhcnRQb2ludAogICAgICAgICAgICAgICAgdmFyIHBhcmVudEUgPSBudWxsOy8vcGFyZW50IG9mIGVuZFBvaW50CgogICAgICAgICAgICAgICAgcGFyZW50UyA9IGRvbS5nZXRDaG9pY2VPckNvbmRpdGlvbkluUGFyZW50cyhzdGFydFBvaW50KTsKICAgICAgICAgICAgICAgIHBhcmVudEUgPSBkb20uZ2V0Q2hvaWNlT3JDb25kaXRpb25JblBhcmVudHMoZW5kUG9pbnQpOwogICAgICAgICAgICAgICAgaWYgKHBhcmVudFMgPT09IHBhcmVudEUgJiYgcGFyZW50UyAhPT0gbnVsbCkgewogICAgICAgICAgICAgICAgICAgIC8vaWYgcGFyZW50UyBhbmQgcGFyZW50RSBhcmUgc29tZSBhbmQgbm90IGlzIGRvY3VtZW50IGJvZHkuCiAgICAgICAgICAgICAgICAgICAgLy90aGVuIHdlIGNhbiBnZXQgdGhhdCBzdGFydFBvaW50IGFuZCBlbmRQb2ludCBpbiBzYW1lIGNob2ljZS9jb25kaXRpb24gYmxvY2sKICAgICAgICAgICAgICAgICAgICByZXR1cm4gdHJ1ZTsKICAgICAgICAgICAgICAgIH0KCiAgICAgICAgICAgIH0KICAgICAgICAgICAgcmV0dXJuIGZhbHNlOwogICAgICAgIH0=</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIH0K</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm47Cg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIGlmICh0cnVlKSB7Cg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBFbmZvcmNlIGFsbCB2YXJpYWJsZXMgYmVpbmcgY2FtZWwgY2FzZQo=</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBFbmZvcmNlIHNpbmdsZSBxdW90ZXMK</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxyZW5kZXJTY3JpcHRUb0RvbVw+</last-search>
+      <last-search encoding="base64">XDx3YXRjaFw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxyZW5kZXJTY3JpcHRUb0RvbVw+</last-pattern>
+      <last-pattern encoding="base64">XDx3YXRjaFw+</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxyZXF1aXJlXD4=</last-substitute>
       <last-dir>1</last-dir>
@@ -311,10 +319,6 @@
     </search>
     <history>
       <history-search>
-        <entry>jshint</entry>
-        <entry encoding="base64">XDxpZHhcPg==</entry>
-        <entry encoding="base64">XDxlZGl0aW5nVGFyZ2V0XD4=</entry>
-        <entry encoding="base64">XDxtZW1vcnlcPg==</entry>
         <entry>$oldParent</entry>
         <entry encoding="base64">XDxtaW1pY2NhcmV0XD4=</entry>
         <entry>addRange</entry>
@@ -322,7 +326,6 @@
         <entry>watch</entry>
         <entry>loadNpmTasks</entry>
         <entry>load</entry>
-        <entry encoding="base64">XDx3YXRjaFw+</entry>
         <entry>Enter</entry>
         <entry encoding="base64">XDxzcGxpdFN0clRvTGluZXNcPg==</entry>
         <entry encoding="base64">XDxyZW5kZXJPcHRpb25zXD4=</entry>
@@ -331,6 +334,11 @@
         <entry encoding="base64">XDxlZGl0b3JcPg==</entry>
         <entry encoding="base64">XDxkb25hU3RyXD4=</entry>
         <entry encoding="base64">XDxyZW5kZXJTY3JpcHRUb0RvbVw+</entry>
+        <entry encoding="base64">XDxncnVudFw+</entry>
+        <entry encoding="base64">XDx0YXNrc1w+</entry>
+        <entry encoding="base64">XDx3YWl0XD4=</entry>
+        <entry encoding="base64">XDxzZXJ2ZVw+</entry>
+        <entry encoding="base64">XDx3YXRjaFw+</entry>
       </history-search>
       <history-cmd />
       <history-expr />

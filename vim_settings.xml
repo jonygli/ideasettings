@@ -17,11 +17,7 @@
         <mark key="^" line="11" column="44" />
       </file>
       <file name="E:/WWWW/epsd.git/editor/Gruntfile.js" timestamp="1497958188715">
-        <mark key="'" line="318" column="43" />
-        <mark key="[" line="96" column="0" />
-        <mark key="]" line="96" column="32" />
-        <mark key="." line="96" column="0" />
-        <mark key="^" line="95" column="29" />
+        <mark key="'" line="338" column="43" />
       </file>
       <file name="E:/WWWW/epsd.git/editor/src/js/base/module/Caret.js" timestamp="1498012738007">
         <mark key="'" line="0" column="0" />
@@ -99,11 +95,11 @@
       <file name="E:/LLLL/anduo.git/js/grunt_minify/app.js" timestamp="1495435091926">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="E:/WWWW/epsd.git/editor/src/js/base/Context.js" timestamp="1498011329711">
+      <file name="E:/WWWW/epsd.git/editor/src/js/base/Context.js" timestamp="1498014627049">
         <mark key="'" line="293" column="12" />
-        <mark key="[" line="301" column="19" />
-        <mark key="]" line="301" column="19" />
-        <mark key="." line="301" column="19" />
+        <mark key="[" line="159" column="14" />
+        <mark key="]" line="159" column="14" />
+        <mark key="." line="159" column="14" />
         <mark key="^" line="21" column="11" />
       </file>
       <file name="E:/WWWW/epsd.git/editor/src/js/base/editing/Style.js" timestamp="1497957601665">
@@ -220,11 +216,11 @@
       <jump line="0" column="0" filename="E:/WWWW/epsd.git/editor/src/js/base/module/Caret.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAvKioKICAgICAgICAgKiBjaGVjayBzZWxlY3QgcmFuZ2UgaXMgaW4gc2FtZSBjb25kaXRpb24vY2hvaWNlIGJsb2NrCiAgICAgICAgICogQHBhcmFtIHJuZwogICAgICAgICAqIEByZXR1cm5zIHtib29sZWFufQogICAgICAgICAqLwogICAgICAgIHRoaXMuaXNSYW5nZUluU2FtZUNob2ljZU9yQ29uZGl0aW9uID0gZnVuY3Rpb24ocm5nKSA7Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">ZWxzZSA=</text>
       </register>
       <register name="-" type="4">
-        <text>this.</text>
+        <text encoding="base64">ZWxzZSA=</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxpbkZyb250T2ZQYW5lXD4=</text>
@@ -232,32 +228,46 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICdzcmMvanMvYXBwLmpzJywK</text>
       </register>
-      <register name="1" type="2">
+      <register name="1" type="4">
+        <text>{
+                // console.log('placeholder');
+                // if (isActivated) {
+                //     this.layoutInfo.codable.val(html);
+                // } else {
+                //     domStr = editor.renderScriptToDom(html);
+                //     this.layoutInfo.editable.html(domStr);
+                // }
+                // $note.val(domStr);
+                // this.triggerEvent('tabschange');
+                // this.triggerEvent('labelschange');
+                // this.triggerEvent('change', html);
+                // //save to trigger recordUndo  action
+                // this.invoke('save');
+            }</text>
+      </register>
+      <register name="2" type="2">
         <text encoding="base64">ICAgICAgICAvKioKICAgICAgICAgKiBjaGVjayBzZWxlY3QgcmFuZ2UgaXMgaW4gc2FtZSBjb25kaXRpb24vY2hvaWNlIGJsb2NrCiAgICAgICAgICogQHBhcmFtIHJuZwogICAgICAgICAqIEByZXR1cm5zIHtib29sZWFufQogICAgICAgICAqLwogICAgICAgIHRoaXMuaXNSYW5nZUluU2FtZUNob2ljZU9yQ29uZGl0aW9uID0gZnVuY3Rpb24ocm5nKSA7Cg==</text>
       </register>
-      <register name="2" type="4">
+      <register name="3" type="4">
         <text encoding="base64">ewogICAgICAgICAgICBpZiAocm5nKSB7CgogICAgICAgICAgICAgICAgdmFyIHN0YXJ0UG9pbnQgPSBybmcuc2M7CiAgICAgICAgICAgICAgICB2YXIgZW5kUG9pbnQgPSBybmcuZWM7CiAgICAgICAgICAgICAgICB2YXIgcGFyZW50UyA9IG51bGw7Ly9wYXJlbnQgb2Ygc3RhcnRQb2ludAogICAgICAgICAgICAgICAgdmFyIHBhcmVudEUgPSBudWxsOy8vcGFyZW50IG9mIGVuZFBvaW50CgogICAgICAgICAgICAgICAgcGFyZW50UyA9IGRvbS5nZXRDaG9pY2VPckNvbmRpdGlvbkluUGFyZW50cyhzdGFydFBvaW50KTsKICAgICAgICAgICAgICAgIHBhcmVudEUgPSBkb20uZ2V0Q2hvaWNlT3JDb25kaXRpb25JblBhcmVudHMoZW5kUG9pbnQpOwogICAgICAgICAgICAgICAgaWYgKHBhcmVudFMgPT09IHBhcmVudEUgJiYgcGFyZW50UyAhPT0gbnVsbCkgewogICAgICAgICAgICAgICAgICAgIC8vaWYgcGFyZW50UyBhbmQgcGFyZW50RSBhcmUgc29tZSBhbmQgbm90IGlzIGRvY3VtZW50IGJvZHkuCiAgICAgICAgICAgICAgICAgICAgLy90aGVuIHdlIGNhbiBnZXQgdGhhdCBzdGFydFBvaW50IGFuZCBlbmRQb2ludCBpbiBzYW1lIGNob2ljZS9jb25kaXRpb24gYmxvY2sKICAgICAgICAgICAgICAgICAgICByZXR1cm4gdHJ1ZTsKICAgICAgICAgICAgICAgIH0KCiAgICAgICAgICAgIH0KICAgICAgICAgICAgcmV0dXJuIGZhbHNlOwogICAgICAgIH0=</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">ICAgIH0K</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICByZXR1cm47Cg==</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgIGlmICh0cnVlKSB7Cg==</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAvLyBFbmZvcmNlIGFsbCB2YXJpYWJsZXMgYmVpbmcgY2FtZWwgY2FzZQo=</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAvLyBFbmZvcmNlIHNpbmdsZSBxdW90ZXMK</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAiY2FtZWxjYXNlIjogWyJlcnJvciIsIHsgInByb3BlcnRpZXMiOiAiYWx3YXlzIiB9XSwK</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAvIEVuZm9yY2UgYWxsIHZhcmlhYmxlcyBiZWluZyBjYW1lbCBjYXNlCg==</text>
+        <text encoding="base64">ICAgICAgICAiY2FtZWxjYXNlIjogWyJlcnJvciIsIHsgInByb3BlcnRpZXMiOiAiYWx3YXlzIiB9XSwK</text>
       </register>
     </registers>
     <search>

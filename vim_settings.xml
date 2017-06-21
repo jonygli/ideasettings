@@ -53,12 +53,12 @@
         <mark key="^" line="503" column="0" />
         <mark key="." line="503" column="0" />
       </file>
-      <file name="E:/WWWW/epsd.git/Gruntfile.js" timestamp="1497946351452">
-        <mark key="'" line="48" column="52" />
-        <mark key="[" line="147" column="0" />
-        <mark key="]" line="156" column="13" />
-        <mark key="." line="59" column="66" />
-        <mark key="^" line="59" column="42" />
+      <file name="E:/WWWW/epsd.git/Gruntfile.js" timestamp="1498031396730">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="34" column="16" />
+        <mark key="]" line="159" column="13" />
+        <mark key="." line="62" column="66" />
+        <mark key="^" line="62" column="42" />
       </file>
       <file name="E:/WWWW/epsd.git/editor/src/js/base/core/agent.js" timestamp="1497957205648">
         <mark key="'" line="0" column="0" />
@@ -114,7 +114,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="482" column="13" filename="E:/WWWW/epsd.git/Gruntfile.js" />
       <jump line="499" column="9" filename="E:/WWWW/epsd.git/Gruntfile.js" />
       <jump line="508" column="9" filename="E:/WWWW/epsd.git/Gruntfile.js" />
       <jump line="59" column="72" filename="E:/WWWW/epsd.git/Gruntfile.js" />
@@ -126,7 +125,6 @@
       <jump line="16" column="0" filename="E:/WWWW/epsd.git/editor/src/js/epseditor.js" />
       <jump line="258" column="21" filename="E:/WWWW/epsd.git/editor/Gruntfile.js" />
       <jump line="442" column="47" filename="E:/WWWW/epsd.git/Gruntfile.js" />
-      <jump line="0" column="0" filename="E:/WWWW/epsd.git/Gruntfile.js" />
       <jump line="125" column="31" filename="E:/WWWW/epsd.git/editor/src/js/bs3/module/ChoiceHandle.js" />
       <jump line="338" column="1" filename="E:/WWWW/epsd.git/editor/src/js/bs3/module/ChoiceHandle.js" />
       <jump line="24" column="81" filename="E:/WWWW/epsd.git/editor/src/js/bs3/module/ChoiceHandle.js" />
@@ -214,6 +212,8 @@
       <jump line="427" column="13" filename="E:/WWWW/epsd.git/editor/src/js/base/module/Caret.js" />
       <jump line="477" column="0" filename="E:/WWWW/epsd.git/editor/src/js/base/module/Caret.js" />
       <jump line="0" column="0" filename="E:/WWWW/epsd.git/editor/src/js/base/module/Caret.js" />
+      <jump line="50" column="24" filename="E:/WWWW/epsd.git/Gruntfile.js" />
+      <jump line="0" column="0" filename="E:/WWWW/epsd.git/Gruntfile.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -223,7 +223,7 @@
         <text encoding="base64">ZWxzZSA=</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxpbkZyb250T2ZQYW5lXD4=</text>
+        <text>watch</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICdzcmMvanMvYXBwLmpzJywK</text>
@@ -271,9 +271,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxpbkZyb250T2ZQYW5lXD4=</last-search>
+      <last-search>watch</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxpbkZyb250T2ZQYW5lXD4=</last-pattern>
+      <last-pattern>watch</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxyZXF1aXJlXD4=</last-substitute>
       <last-dir>1</last-dir>
@@ -281,7 +281,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxzdHlsZXNcPg==</entry>
         <entry encoding="base64">XDxjb25jdXJyZW50XD4=</entry>
         <entry>exclude</entry>
         <entry encoding="base64">XDxlZGl0b3JkaXN0XD4=</entry>
@@ -301,6 +300,7 @@
         <entry encoding="base64">XDxtaW1pY2NhcmV0XD4=</entry>
         <entry>addRange</entry>
         <entry encoding="base64">XDxpbkZyb250T2ZQYW5lXD4=</entry>
+        <entry>watch</entry>
       </history-search>
       <history-cmd />
       <history-expr />

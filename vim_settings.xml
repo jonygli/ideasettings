@@ -38,10 +38,8 @@
         <mark key="." line="96" column="0" />
         <mark key="^" line="95" column="29" />
       </file>
-      <file name="E:/WWWW/epsd.git/editor/src/js/base/core/parser.js" timestamp="1497961414055">
-        <mark key="'" line="235" column="0" />
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="15" column="62" />
+      <file name="E:/WWWW/epsd.git/editor/src/js/base/core/parser.js" timestamp="1498007322536">
+        <mark key="'" line="16" column="29" />
       </file>
       <file name="E:/WWWW/epsd.git/editor/.eslintrc" timestamp="1497959390108">
         <mark key="'" line="8" column="19" />
@@ -165,9 +163,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="509" column="9" filename="E:/WWWW/epsd.git/Gruntfile.js" />
-      <jump line="11" column="58" filename="E:/WWWW/epsd.git/Gruntfile.js" />
-      <jump line="15" column="8" filename="E:/WWWW/epsd.git/app/index.html" />
       <jump line="88" column="0" filename="E:/WWWW/epsd.git/app/index.html" />
       <jump line="12" column="24" filename="E:/WWWW/epsd.git/app/index.html" />
       <jump line="420" column="47" filename="E:/WWWW/epsd.git/Gruntfile.js" />
@@ -265,6 +260,9 @@
       <jump line="509" column="17" filename="E:/WWWW/epsd.git/editor/src/js/base/core/parser.js" />
       <jump line="878" column="25" filename="E:/WWWW/epsd.git/editor/src/js/base/core/parser.js" />
       <jump line="235" column="0" filename="E:/WWWW/epsd.git/editor/src/js/base/core/parser.js" />
+      <jump line="837" column="32" filename="E:/WWWW/epsd.git/editor/src/js/base/core/parser.js" />
+      <jump line="986" column="2" filename="E:/WWWW/epsd.git/editor/src/js/base/core/parser.js" />
+      <jump line="16" column="29" filename="E:/WWWW/epsd.git/editor/src/js/base/core/parser.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">

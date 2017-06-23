@@ -21,9 +21,9 @@
         <mark key="[" line="319" column="0" />
         <mark key="]" line="320" column="38" />
       </file>
-      <file name="E:/WWWW/epsd.git/editor/src/js/base/module/Caret.js" timestamp="1498206062247">
-        <mark key="'" line="587" column="6" />
-        <mark key="[" line="590" column="1" />
+      <file name="E:/WWWW/epsd.git/editor/src/js/base/module/Caret.js" timestamp="1498216356218">
+        <mark key="'" line="607" column="6" />
+        <mark key="[" line="610" column="1" />
       </file>
       <file name="E:/WWWW/epsd.git/package.json" timestamp="1498098060113">
         <mark key="'" line="17" column="36" />
@@ -31,8 +31,11 @@
         <mark key="]" line="37" column="0" />
         <mark key="." line="37" column="0" />
       </file>
-      <file name="E:/WWWW/epsd.git/editor/src/js/base/core/parser.js" timestamp="1498211916525">
-        <mark key="'" line="759" column="36" />
+      <file name="E:/WWWW/epsd.git/editor/src/js/base/core/parser.js" timestamp="1498215337217">
+        <mark key="'" line="756" column="45" />
+        <mark key="[" line="647" column="0" />
+        <mark key="]" line="647" column="0" />
+        <mark key="." line="647" column="0" />
       </file>
       <file name="E:/WWWW/epsd.git/editor/.eslintrc" timestamp="1497959390108">
         <mark key="'" line="8" column="19" />
@@ -71,8 +74,8 @@
       <file name="E:/WWWW/epsd.git/editor/src/js/base/module/Clipboard.js" timestamp="1497957689765">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="E:/WWWW/epsd.git/app/index.html" timestamp="1497861891712">
-        <mark key="'" line="12" column="24" />
+      <file name="E:/WWWW/epsd.git/app/index.html" timestamp="1498216455791">
+        <mark key="'" line="86" column="24" />
         <mark key="[" line="92" column="46" />
         <mark key="]" line="92" column="46" />
         <mark key="." line="92" column="46" />
@@ -102,7 +105,7 @@
       <file name="E:/WWWW/epsd.git/editor/src/js/app.js" timestamp="1497959261049">
         <mark key="'" line="14" column="5" />
       </file>
-      <file name="/Dummy.txt" timestamp="1498211333938">
+      <file name="/Dummy.txt" timestamp="1498216411333">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="E:/LLLL/anduo.git/js/grunt_minify/app.js" timestamp="1495435091926">
@@ -123,6 +126,9 @@
       </file>
       <file name="E:/WWWW/epsd.git/editor/src/js/base/editing/Style.js" timestamp="1497957601665">
         <mark key="'" line="0" column="0" />
+      </file>
+      <file name="E:/WWWW/epsd.git/editor/index.html" timestamp="1498215484292">
+        <mark key="'" line="7" column="6" />
       </file>
       <file name="E:/WWWW/epsd.git/editor/test/unit/base/module/Editor.spec.js" timestamp="1498035800336">
         <mark key="'" line="540" column="37" />
@@ -151,10 +157,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="90" column="16" filename="E:/WWWW/epsd.git/editor/test/unit/base/module/Editor.spec.js" />
-      <jump line="93" column="16" filename="E:/WWWW/epsd.git/editor/test/unit/base/module/Editor.spec.js" />
-      <jump line="100" column="16" filename="E:/WWWW/epsd.git/editor/test/unit/base/module/Editor.spec.js" />
-      <jump line="103" column="16" filename="E:/WWWW/epsd.git/editor/test/unit/base/module/Editor.spec.js" />
       <jump line="106" column="16" filename="E:/WWWW/epsd.git/editor/test/unit/base/module/Editor.spec.js" />
       <jump line="115" column="20" filename="E:/WWWW/epsd.git/editor/test/unit/base/module/Editor.spec.js" />
       <jump line="0" column="0" filename="E:/WWWW/epsd.git/editor/src/js/base/core/parser.js" />
@@ -251,45 +253,45 @@
       <jump line="749" column="20" filename="E:/WWWW/epsd.git/editor/src/js/base/core/parser.js" />
       <jump line="754" column="124" filename="E:/WWWW/epsd.git/editor/src/js/base/core/parser.js" />
       <jump line="759" column="36" filename="E:/WWWW/epsd.git/editor/src/js/base/core/parser.js" />
+      <jump line="757" column="45" filename="E:/WWWW/epsd.git/editor/src/js/base/core/parser.js" />
+      <jump line="14" column="8" filename="E:/WWWW/epsd.git/editor/index.html" />
+      <jump line="7" column="6" filename="E:/WWWW/epsd.git/editor/index.html" />
+      <jump line="86" column="24" filename="E:/WWWW/epsd.git/app/index.html" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>null</text>
+        <text>.</text>
       </register>
       <register name="-" type="4">
-        <text>null</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxsaW5lSW5kZXhcPg==</text>
+        <text>root</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIC8vIGxvYWQgYWxsIHRhc2tzIGZyb20gdGhlIGdydW50IHBsdWdpbnMgdXNlZCBpbiB0aGlzIGZpbGUKICAgIHJlcXVpcmUoJ2xvYWQtZ3J1bnQtdGFza3MnKShncnVudCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICA8c2NyaXB0IHNyYz0iZXBzZWRpdG9yL2Rpc3QvZXBzZWRpdG9yLm1pbi5qcyI+PC9zY3JpcHQ+Cg==</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="2" type="4">
         <text>{
         &quot;allExcept&quot;: [
             &quot;undefined&quot;
         ]
     }</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICJsb2FkLWdydW50LXRhc2tzIjogIl4zLjUuMiIsCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICJsb2FkLWdydW50LXRhc2tzIjogIl4zLjUuMiIsCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGRkCg==</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="4">
-        <text>{
-        &quot;allExcept&quot;: [
-            &quot;undefined&quot;
-        ]
-    }</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIGRkCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="4">
         <text>{
@@ -299,6 +301,13 @@
     }</text>
       </register>
       <register name="8" type="4">
+        <text>{
+        &quot;allExcept&quot;: [
+            &quot;undefined&quot;
+        ]
+    }</text>
+      </register>
+      <register name="9" type="4">
         <text>{
                 // console.log('placeholder');
                 // if (isActivated) {
@@ -315,14 +324,11 @@
                 // this.invoke('save');
             }</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAvKioKICAgICAgICAgKiBjaGVjayBzZWxlY3QgcmFuZ2UgaXMgaW4gc2FtZSBjb25kaXRpb24vY2hvaWNlIGJsb2NrCiAgICAgICAgICogQHBhcmFtIHJuZwogICAgICAgICAqIEByZXR1cm5zIHtib29sZWFufQogICAgICAgICAqLwogICAgICAgIHRoaXMuaXNSYW5nZUluU2FtZUNob2ljZU9yQ29uZGl0aW9uID0gZnVuY3Rpb24ocm5nKSA7Cg==</text>
-      </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxsaW5lSW5kZXhcPg==</last-search>
+      <last-search>root</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxsaW5lSW5kZXhcPg==</last-pattern>
+      <last-pattern>root</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxyZXF1aXJlXD4=</last-substitute>
       <last-dir>1</last-dir>
@@ -330,7 +336,6 @@
     </search>
     <history>
       <history-search>
-        <entry>Enter</entry>
         <entry encoding="base64">XDxzcGxpdFN0clRvTGluZXNcPg==</entry>
         <entry encoding="base64">XDxyZW5kZXJPcHRpb25zXD4=</entry>
         <entry>Multip</entry>
@@ -350,6 +355,7 @@
         <entry>eps-line-number</entry>
         <entry encoding="base64">XDxyZW5kZXJTY3JpcHRcPg==</entry>
         <entry encoding="base64">XDxsaW5lSW5kZXhcPg==</entry>
+        <entry>root</entry>
       </history-search>
       <history-cmd />
       <history-expr />

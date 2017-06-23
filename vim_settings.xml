@@ -56,9 +56,8 @@
       <file name="/" timestamp="1494989021458">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="E:/WWWW/epsd.git/editor/src/js/base/module/Editor.js" timestamp="1498037538251">
-        <mark key="'" line="872" column="54" />
-        <mark key="[" line="875" column="6" />
+      <file name="E:/WWWW/epsd.git/editor/src/js/base/module/Editor.js" timestamp="1498220700375">
+        <mark key="'" line="870" column="11" />
         <mark key="]" line="877" column="0" />
         <mark key="." line="877" column="0" />
       </file>
@@ -157,7 +156,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="106" column="16" filename="E:/WWWW/epsd.git/editor/test/unit/base/module/Editor.spec.js" />
       <jump line="115" column="20" filename="E:/WWWW/epsd.git/editor/test/unit/base/module/Editor.spec.js" />
       <jump line="0" column="0" filename="E:/WWWW/epsd.git/editor/src/js/base/core/parser.js" />
       <jump line="909" column="31" filename="E:/WWWW/epsd.git/editor/src/js/base/core/parser.js" />
@@ -257,6 +255,7 @@
       <jump line="14" column="8" filename="E:/WWWW/epsd.git/editor/index.html" />
       <jump line="7" column="6" filename="E:/WWWW/epsd.git/editor/index.html" />
       <jump line="86" column="24" filename="E:/WWWW/epsd.git/app/index.html" />
+      <jump line="870" column="11" filename="E:/WWWW/epsd.git/editor/src/js/base/module/Editor.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -266,7 +265,7 @@
         <text>.</text>
       </register>
       <register name="/" type="4">
-        <text>root</text>
+        <text>insertGoto</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICA8c2NyaXB0IHNyYz0iZXBzZWRpdG9yL2Rpc3QvZXBzZWRpdG9yLm1pbi5qcyI+PC9zY3JpcHQ+Cg==</text>
@@ -326,9 +325,9 @@
       </register>
     </registers>
     <search>
-      <last-search>root</last-search>
+      <last-search>insertGoto</last-search>
       <last-offset />
-      <last-pattern>root</last-pattern>
+      <last-pattern>insertGoto</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxyZXF1aXJlXD4=</last-substitute>
       <last-dir>1</last-dir>
@@ -336,7 +335,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxzcGxpdFN0clRvTGluZXNcPg==</entry>
         <entry encoding="base64">XDxyZW5kZXJPcHRpb25zXD4=</entry>
         <entry>Multip</entry>
         <entry encoding="base64">XDxlZGl0b3JcPg==</entry>
@@ -356,6 +354,7 @@
         <entry encoding="base64">XDxyZW5kZXJTY3JpcHRcPg==</entry>
         <entry encoding="base64">XDxsaW5lSW5kZXhcPg==</entry>
         <entry>root</entry>
+        <entry>insertGoto</entry>
       </history-search>
       <history-cmd />
       <history-expr />

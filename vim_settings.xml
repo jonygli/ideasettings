@@ -21,8 +21,8 @@
         <mark key="[" line="319" column="0" />
         <mark key="]" line="320" column="38" />
       </file>
-      <file name="E:/WWWW/epsd.git/editor/src/js/base/module/Caret.js" timestamp="1498198786457">
-        <mark key="'" line="275" column="48" />
+      <file name="E:/WWWW/epsd.git/editor/src/js/base/module/Caret.js" timestamp="1498206062247">
+        <mark key="'" line="588" column="6" />
         <mark key="[" line="591" column="1" />
       </file>
       <file name="E:/WWWW/epsd.git/package.json" timestamp="1498098060113">
@@ -148,7 +148,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="21" column="12" filename="E:/WWWW/epsd.git/editor/src/js/base/Context.js" />
       <jump line="293" column="12" filename="E:/WWWW/epsd.git/editor/src/js/base/Context.js" />
       <jump line="579" column="39" filename="E:/WWWW/epsd.git/editor/src/js/base/core/parser.js" />
       <jump line="131" column="32" filename="E:/WWWW/epsd.git/editor/src/js/bs3/module/ConditionHandle.js" />
@@ -248,6 +247,7 @@
       <jump line="2002" column="46" filename="E:/WWWW/epsd.git/editor/dist/epseditor.js" />
       <jump line="275" column="48" filename="E:/WWWW/epsd.git/editor/src/js/base/module/Caret.js" />
       <jump line="839" column="37" filename="E:/WWWW/epsd.git/editor/src/js/base/core/parser.js" />
+      <jump line="588" column="6" filename="E:/WWWW/epsd.git/editor/src/js/base/module/Caret.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">

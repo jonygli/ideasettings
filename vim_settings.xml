@@ -101,7 +101,7 @@
       <file name="E:/WWWW/epsd.git/editor/src/js/base/module/Clipboard.js" timestamp="1497957689765">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="E:/WWWW/epsd.git/app/index.html" timestamp="1498216455791">
+      <file name="E:/WWWW/epsd.git/app/index.html" timestamp="1498467653530">
         <mark key="'" line="86" column="24" />
         <mark key="[" line="92" column="46" />
         <mark key="]" line="92" column="46" />
@@ -132,7 +132,7 @@
       <file name="E:/WWWW/epsd.git/editor/src/js/app.js" timestamp="1497959261049">
         <mark key="'" line="14" column="5" />
       </file>
-      <file name="/Dummy.txt" timestamp="1498216411333">
+      <file name="/Dummy.txt" timestamp="1498468450725">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="E:/LLLL/anduo.git/js/grunt_minify/app.js" timestamp="1495435091926">
@@ -317,7 +317,7 @@
         <text>insertGoto</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICA8c2NyaXB0IHNyYz0iZXBzZWRpdG9yL2Rpc3QvZXBzZWRpdG9yLm1pbi5qcyI+PC9zY3JpcHQ+Cg==</text>
+        <text encoding="base64">ICAgICAgICA8IS0tPHNjcmlwdCBzcmM9ImVwc2VkaXRvci9kaXN0L2Vwc2VkaXRvci5taW4uanMiPjwvc2NyaXB0Pi0tPgo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>

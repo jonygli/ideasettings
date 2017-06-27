@@ -86,7 +86,7 @@
       <file name="/" timestamp="1494989021458">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="E:/WWWW/epsd.git/editor/src/js/base/module/Editor.js" timestamp="1498478653705">
+      <file name="E:/WWWW/epsd.git/editor/src/js/base/module/Editor.js" timestamp="1498555184779">
         <mark key="'" line="771" column="0" />
         <mark key="]" line="877" column="0" />
         <mark key="." line="877" column="0" />
@@ -120,15 +120,19 @@
         <mark key="." line="1532" column="14" />
         <mark key="^" line="1532" column="14" />
       </file>
-      <file name="E:/WWWW/epsd.git/editor/src/js/base/editing/Tabs.js" timestamp="1498537447958" />
+      <file name="E:/WWWW/epsd.git/editor/src/js/base/editing/Tabs.js" timestamp="1498555218644">
+        <mark key="[" line="71" column="89" />
+        <mark key="]" line="71" column="89" />
+        <mark key="." line="71" column="89" />
+      </file>
       <file name="/JavaScript Console" timestamp="1495865542265">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="E:/WWWW/epsd.git/editor/src/js/bs3/module/ConditionHandle.js" timestamp="1498011484926">
+      <file name="E:/WWWW/epsd.git/editor/src/js/bs3/module/ConditionHandle.js" timestamp="1498554987524">
         <mark key="'" line="366" column="30" />
-        <mark key="[" line="66" column="54" />
-        <mark key="]" line="66" column="54" />
-        <mark key="." line="66" column="54" />
+        <mark key="[" line="136" column="65" />
+        <mark key="]" line="136" column="65" />
+        <mark key="." line="136" column="65" />
       </file>
       <file name="E:/WWWW/epsd.git/.jshintrc" timestamp="1495698324359">
         <mark key="[" line="13" column="20" />
@@ -139,7 +143,7 @@
       <file name="E:/WWWW/epsd.git/editor/src/js/app.js" timestamp="1497959261049">
         <mark key="'" line="14" column="5" />
       </file>
-      <file name="/Dummy.txt" timestamp="1498552022988">
+      <file name="/Dummy.txt" timestamp="1498555186018">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="E:/LLLL/anduo.git/js/grunt_minify/app.js" timestamp="1495435091926">
@@ -164,6 +168,11 @@
       <file name="E:/WWWW/epsd.git/editor/index.html" timestamp="1498215484292">
         <mark key="'" line="7" column="6" />
       </file>
+      <file name="E:/WWWW/epsd.git/editor/.jshintignore" timestamp="1497950970901">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="3" column="11" />
+        <mark key="." line="2" column="0" />
+      </file>
       <file name="E:/WWWW/epsd.git/app/scripts/controllers/visual.js" timestamp="1497947268830">
         <mark key="'" line="15" column="38" />
         <mark key="[" line="26" column="16" />
@@ -185,11 +194,8 @@
         <mark key="^" line="10" column="20" />
       </file>
       <file name="E:/WWWW/epsd.git/editor/src/js/bs3/module/GotoHandle.js" timestamp="1498535913477" />
-      <file name="E:/WWWW/epsd.git/editor/test/unit/bs3/module/ConditionHandle.spec.js" timestamp="1497527386396">
-        <mark key="'" line="71" column="76" />
-        <mark key="[" line="138" column="44" />
-        <mark key="]" line="138" column="44" />
-        <mark key="." line="138" column="44" />
+      <file name="E:/WWWW/epsd.git/editor/test/unit/bs3/module/ConditionHandle.spec.js" timestamp="1498555064233">
+        <mark key="'" line="0" column="0" />
       </file>
       <file name="E:/WWWW/epsd.git/editor/README.md" timestamp="1496908266891">
         <mark key="'" line="18" column="43" />
@@ -213,8 +219,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="122" column="28" filename="E:/WWWW/epsd.git/Gruntfile.js" />
-      <jump line="123" column="28" filename="E:/WWWW/epsd.git/Gruntfile.js" />
       <jump line="132" column="24" filename="E:/WWWW/epsd.git/Gruntfile.js" />
       <jump line="501" column="54" filename="E:/WWWW/epsd.git/Gruntfile.js" />
       <jump line="509" column="33" filename="E:/WWWW/epsd.git/Gruntfile.js" />
@@ -313,16 +317,18 @@
       <jump line="571" column="1" filename="E:/WWWW/epsd.git/Gruntfile.js" />
       <jump line="242" column="45" filename="E:/WWWW/epsd.git/Gruntfile.js" />
       <jump line="16" column="29" filename="E:/WWWW/epsd.git/editor/src/js/base/core/parser.js" />
+      <jump line="67" column="0" filename="E:/WWWW/epsd.git/editor/test/unit/bs3/module/ConditionHandle.spec.js" />
+      <jump line="0" column="0" filename="E:/WWWW/epsd.git/editor/test/unit/bs3/module/ConditionHandle.spec.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>in the distributed version</text>
+        <text>Option</text>
       </register>
       <register name="-" type="4">
-        <text>in the distributed version</text>
+        <text>Option</text>
       </register>
       <register name="/" type="4">
-        <text>uglify</text>
+        <text>insertConditions</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIHNyYzogIi50bXAvY29uY2F0L3NjcmlwdHMvc2NyaXB0cy5qcyIsCg==</text>
@@ -356,9 +362,9 @@
       </register>
     </registers>
     <search>
-      <last-search>uglify</last-search>
+      <last-search>insertConditions</last-search>
       <last-offset />
-      <last-pattern>uglify</last-pattern>
+      <last-pattern>insertConditions</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxyZXF1aXJlXD4=</last-substitute>
       <last-dir>1</last-dir>
@@ -366,7 +372,6 @@
     </search>
     <history>
       <history-search>
-        <entry>root</entry>
         <entry>insertGoto</entry>
         <entry encoding="base64">XDxrZWVwYWxpdmVcPg==</entry>
         <entry encoding="base64">XDxmaWxlcmV2XD4=</entry>
@@ -386,6 +391,7 @@
         <entry encoding="base64">XDx1Z2xpZnlcPg==</entry>
         <entry encoding="base64">XDxyZW1vdmVsb2dnaW5nXD4=</entry>
         <entry>uglify</entry>
+        <entry>insertConditions</entry>
       </history-search>
       <history-cmd />
       <history-expr />

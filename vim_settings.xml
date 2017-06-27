@@ -35,7 +35,7 @@
         <mark key="[" line="610" column="1" />
       </file>
       <file name="E:/WWWW/epsd.git/package.json" timestamp="1498478959129">
-        <mark key="'" line="37" column="0" />
+        <mark key="'" line="38" column="0" />
         <mark key="[" line="2" column="18" />
         <mark key="]" line="2" column="19" />
         <mark key="." line="2" column="19" />
@@ -106,11 +106,12 @@
       <file name="E:/WWWW/epsd.git/editor/dist/epseditor.js" timestamp="1498198773018">
         <mark key="'" line="2002" column="46" />
       </file>
-      <file name="E:/WWWW/epsd.git/Gruntfile.js" timestamp="1498535076623">
-        <mark key="'" line="31" column="16" />
-        <mark key="[" line="535" column="0" />
-        <mark key="]" line="536" column="25" />
-        <mark key="." line="535" column="0" />
+      <file name="E:/WWWW/epsd.git/Gruntfile.js" timestamp="1498544009334">
+        <mark key="'" line="256" column="48" />
+        <mark key="[" line="412" column="25" />
+        <mark key="]" line="412" column="26" />
+        <mark key="." line="412" column="26" />
+        <mark key="^" line="412" column="22" />
       </file>
       <file name="E:/WWWW/epsd.git/editor/src/js/base/core/agent.js" timestamp="1497957205648">
         <mark key="'" line="0" column="0" />
@@ -182,8 +183,8 @@
         <mark key="^" line="13" column="9" />
         <mark key="." line="26" column="17" />
       </file>
-      <file name="E:/WWWW/epsd.git/editor/test/unit/base/module/Editor.spec.js" timestamp="1498537514457">
-        <mark key="'" line="540" column="37" />
+      <file name="E:/WWWW/epsd.git/editor/test/unit/base/module/Editor.spec.js" timestamp="1498543287956">
+        <mark key="'" line="389" column="50" />
         <mark key="[" line="4" column="3" />
         <mark key="]" line="220" column="0" />
         <mark key="." line="220" column="0" />
@@ -224,12 +225,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="630" column="60" filename="E:/WWWW/epsd.git/editor/src/js/base/core/parser.js" />
-      <jump line="675" column="43" filename="E:/WWWW/epsd.git/editor/src/js/base/core/parser.js" />
-      <jump line="681" column="60" filename="E:/WWWW/epsd.git/editor/src/js/base/core/parser.js" />
-      <jump line="800" column="47" filename="E:/WWWW/epsd.git/editor/src/js/base/core/parser.js" />
-      <jump line="853" column="89" filename="E:/WWWW/epsd.git/editor/src/js/base/core/parser.js" />
-      <jump line="703" column="61" filename="E:/WWWW/epsd.git/editor/src/js/base/core/parser.js" />
       <jump line="730" column="113" filename="E:/WWWW/epsd.git/editor/src/js/base/core/parser.js" />
       <jump line="735" column="36" filename="E:/WWWW/epsd.git/editor/src/js/base/core/parser.js" />
       <jump line="738" column="98" filename="E:/WWWW/epsd.git/editor/src/js/base/core/parser.js" />
@@ -280,8 +275,6 @@
       <jump line="479" column="17" filename="E:/WWWW/epsd.git/Gruntfile.js" />
       <jump line="482" column="17" filename="E:/WWWW/epsd.git/Gruntfile.js" />
       <jump line="510" column="13" filename="E:/WWWW/epsd.git/Gruntfile.js" />
-      <jump line="265" column="11" filename="E:/WWWW/epsd.git/Gruntfile.js" />
-      <jump line="274" column="35" filename="E:/WWWW/epsd.git/Gruntfile.js" />
       <jump line="322" column="11" filename="E:/WWWW/epsd.git/Gruntfile.js" />
       <jump line="384" column="34" filename="E:/WWWW/epsd.git/Gruntfile.js" />
       <jump line="386" column="34" filename="E:/WWWW/epsd.git/Gruntfile.js" />
@@ -324,16 +317,24 @@
       <jump line="1064" column="0" filename="E:/WWWW/epsd.git/editor/src/js/base/core/parser.js" />
       <jump line="184" column="51" filename="E:/WWWW/epsd.git/editor/src/js/base/core/parser.js" />
       <jump line="1058" column="16" filename="E:/WWWW/epsd.git/editor/src/js/base/core/parser.js" />
+      <jump line="389" column="50" filename="E:/WWWW/epsd.git/editor/test/unit/base/module/Editor.spec.js" />
+      <jump line="141" column="16" filename="E:/WWWW/epsd.git/Gruntfile.js" />
+      <jump line="0" column="0" filename="E:/WWWW/epsd.git/Gruntfile.js" />
+      <jump line="21" column="44" filename="E:/WWWW/epsd.git/Gruntfile.js" />
+      <jump line="265" column="11" filename="E:/WWWW/epsd.git/Gruntfile.js" />
+      <jump line="274" column="35" filename="E:/WWWW/epsd.git/Gruntfile.js" />
+      <jump line="549" column="9" filename="E:/WWWW/epsd.git/Gruntfile.js" />
+      <jump line="256" column="48" filename="E:/WWWW/epsd.git/Gruntfile.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>.</text>
+        <text>app\</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>app\</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxyZW5kZXJMaW5lXD4=</text>
+        <text>removelogging</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICA8IS0tPHNjcmlwdCBzcmM9ImVwc2VkaXRvci9kaXN0L2Vwc2VkaXRvci5taW4uanMiPjwvc2NyaXB0Pi0tPgo=</text>
@@ -375,9 +376,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxyZW5kZXJMaW5lXD4=</last-search>
+      <last-search>removelogging</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxyZW5kZXJMaW5lXD4=</last-pattern>
+      <last-pattern>removelogging</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxyZXF1aXJlXD4=</last-substitute>
       <last-dir>1</last-dir>
@@ -385,10 +386,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxyZW5kZXJEaWFsb2dcPg==</entry>
-        <entry encoding="base64">XDwwXD4=</entry>
-        <entry>eps-line-number</entry>
-        <entry encoding="base64">XDxyZW5kZXJTY3JpcHRcPg==</entry>
         <entry encoding="base64">XDxsaW5lSW5kZXhcPg==</entry>
         <entry>root</entry>
         <entry>insertGoto</entry>
@@ -405,6 +402,10 @@
         <entry encoding="base64">XDxhcHBDb25maWdcPg==</entry>
         <entry>format</entry>
         <entry encoding="base64">XDxyZW5kZXJMaW5lXD4=</entry>
+        <entry>concat</entry>
+        <entry>remove</entry>
+        <entry encoding="base64">XDxyZW1vdmVsb2dnaW5nXD4=</entry>
+        <entry>removelogging</entry>
       </history-search>
       <history-cmd />
       <history-expr />

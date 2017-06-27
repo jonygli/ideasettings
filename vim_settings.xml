@@ -90,8 +90,8 @@
         <mark key="." line="133" column="26" />
         <mark key="^" line="133" column="26" />
       </file>
-      <file name="E:/WWWW/epsd.git/editor/src/js/bs3/module/HoverCursor.js" timestamp="1497952658617">
-        <mark key="'" line="0" column="0" />
+      <file name="E:/WWWW/epsd.git/editor/src/js/bs3/module/HoverCursor.js" timestamp="1498532945939">
+        <mark key="'" line="153" column="11" />
       </file>
       <file name="/" timestamp="1494989021458">
         <mark key="[" line="0" column="0" />
@@ -110,8 +110,8 @@
       <file name="E:/WWWW/epsd.git/editor/dist/epseditor.js" timestamp="1498198773018">
         <mark key="'" line="2002" column="46" />
       </file>
-      <file name="E:/WWWW/epsd.git/Gruntfile.js" timestamp="1498531508290">
-        <mark key="'" line="288" column="21" />
+      <file name="E:/WWWW/epsd.git/Gruntfile.js" timestamp="1498532250820">
+        <mark key="'" line="274" column="35" />
       </file>
       <file name="E:/WWWW/epsd.git/editor/src/js/base/core/agent.js" timestamp="1497957205648">
         <mark key="'" line="0" column="0" />
@@ -150,7 +150,7 @@
       <file name="E:/WWWW/epsd.git/editor/src/js/app.js" timestamp="1497959261049">
         <mark key="'" line="14" column="5" />
       </file>
-      <file name="/Dummy.txt" timestamp="1498477973220">
+      <file name="/Dummy.txt" timestamp="1498532672856">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="E:/LLLL/anduo.git/js/grunt_minify/app.js" timestamp="1495435091926">
@@ -223,19 +223,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="38" column="46" filename="E:/WWWW/epsd.git/Gruntfile.js" />
-      <jump line="42" column="16" filename="E:/WWWW/epsd.git/Gruntfile.js" />
-      <jump line="33" column="8" filename="E:/WWWW/epsd.git/Gruntfile.js" />
-      <jump line="861" column="27" filename="E:/WWWW/epsd.git/editor/src/js/base/module/Editor.js" />
-      <jump line="73" column="26" filename="E:/WWWW/epsd.git/Gruntfile.js" />
-      <jump line="555" column="9" filename="E:/WWWW/epsd.git/Gruntfile.js" />
-      <jump line="514" column="13" filename="E:/WWWW/epsd.git/Gruntfile.js" />
-      <jump line="872" column="54" filename="E:/WWWW/epsd.git/editor/src/js/base/module/Editor.js" />
-      <jump line="67" column="48" filename="E:/WWWW/epsd.git/Gruntfile.js" />
-      <jump line="499" column="38" filename="E:/WWWW/epsd.git/Gruntfile.js" />
-      <jump line="17" column="36" filename="E:/WWWW/epsd.git/package.json" />
-      <jump line="8" column="25" filename="E:/WWWW/epsd.git/editor/dist/epseditor.js" />
-      <jump line="907" column="46" filename="E:/WWWW/epsd.git/editor/dist/epseditor.js" />
       <jump line="1322" column="11" filename="E:/WWWW/epsd.git/editor/src/js/base/core/dom.js" />
       <jump line="2002" column="46" filename="E:/WWWW/epsd.git/editor/dist/epseditor.js" />
       <jump line="275" column="48" filename="E:/WWWW/epsd.git/editor/src/js/base/module/Caret.js" />
@@ -311,7 +298,6 @@
       <jump line="107" column="28" filename="E:/WWWW/epsd.git/Gruntfile.js" />
       <jump line="109" column="32" filename="E:/WWWW/epsd.git/Gruntfile.js" />
       <jump line="111" column="28" filename="E:/WWWW/epsd.git/Gruntfile.js" />
-      <jump line="119" column="41" filename="E:/WWWW/epsd.git/Gruntfile.js" />
       <jump line="121" column="28" filename="E:/WWWW/epsd.git/Gruntfile.js" />
       <jump line="122" column="28" filename="E:/WWWW/epsd.git/Gruntfile.js" />
       <jump line="123" column="28" filename="E:/WWWW/epsd.git/Gruntfile.js" />
@@ -323,6 +309,20 @@
       <jump line="545" column="9" filename="E:/WWWW/epsd.git/Gruntfile.js" />
       <jump line="253" column="8" filename="E:/WWWW/epsd.git/Gruntfile.js" />
       <jump line="288" column="21" filename="E:/WWWW/epsd.git/Gruntfile.js" />
+      <jump line="119" column="20" filename="E:/WWWW/epsd.git/Gruntfile.js" />
+      <jump line="313" column="11" filename="E:/WWWW/epsd.git/Gruntfile.js" />
+      <jump line="544" column="9" filename="E:/WWWW/epsd.git/Gruntfile.js" />
+      <jump line="304" column="11" filename="E:/WWWW/epsd.git/Gruntfile.js" />
+      <jump line="543" column="9" filename="E:/WWWW/epsd.git/Gruntfile.js" />
+      <jump line="275" column="35" filename="E:/WWWW/epsd.git/Gruntfile.js" />
+      <jump line="322" column="8" filename="E:/WWWW/epsd.git/Gruntfile.js" />
+      <jump line="384" column="34" filename="E:/WWWW/epsd.git/Gruntfile.js" />
+      <jump line="386" column="34" filename="E:/WWWW/epsd.git/Gruntfile.js" />
+      <jump line="539" column="9" filename="E:/WWWW/epsd.git/Gruntfile.js" />
+      <jump line="265" column="11" filename="E:/WWWW/epsd.git/Gruntfile.js" />
+      <jump line="274" column="35" filename="E:/WWWW/epsd.git/Gruntfile.js" />
+      <jump line="121" column="47" filename="E:/WWWW/epsd.git/editor/src/js/bs3/module/HoverCursor.js" />
+      <jump line="153" column="11" filename="E:/WWWW/epsd.git/editor/src/js/bs3/module/HoverCursor.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -332,7 +332,7 @@
         <text>.</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxmaWxlcmV2XD4=</text>
+        <text>update</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICA8IS0tPHNjcmlwdCBzcmM9ImVwc2VkaXRvci9kaXN0L2Vwc2VkaXRvci5taW4uanMiPjwvc2NyaXB0Pi0tPgo=</text>
@@ -392,9 +392,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxmaWxlcmV2XD4=</last-search>
+      <last-search>update</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxmaWxlcmV2XD4=</last-pattern>
+      <last-pattern>update</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxyZXF1aXJlXD4=</last-substitute>
       <last-dir>1</last-dir>
@@ -402,10 +402,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxkb25hU3RyXD4=</entry>
-        <entry encoding="base64">XDxyZW5kZXJTY3JpcHRUb0RvbVw+</entry>
-        <entry encoding="base64">XDxncnVudFw+</entry>
-        <entry encoding="base64">XDx0YXNrc1w+</entry>
         <entry encoding="base64">XDx3YWl0XD4=</entry>
         <entry encoding="base64">XDxzZXJ2ZVw+</entry>
         <entry encoding="base64">XDx3YXRjaFw+</entry>
@@ -422,6 +418,10 @@
         <entry encoding="base64">XDxjb25uZWN0XD4=</entry>
         <entry encoding="base64">XDxrZWVwYWxpdmVcPg==</entry>
         <entry encoding="base64">XDxmaWxlcmV2XD4=</entry>
+        <entry encoding="base64">XDx1Z2xpZnlcPg==</entry>
+        <entry encoding="base64">XDxjc3NtaW5cPg==</entry>
+        <entry encoding="base64">XDxjb25jYXRcPg==</entry>
+        <entry>update</entry>
       </history-search>
       <history-cmd />
       <history-expr />

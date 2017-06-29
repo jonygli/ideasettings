@@ -30,8 +30,8 @@
         <mark key="." line="11" column="46" />
         <mark key="^" line="11" column="44" />
       </file>
-      <file name="E:/WWWW/epsd.git/editor/src/js/base/module/Caret.js" timestamp="1498478431288">
-        <mark key="'" line="607" column="6" />
+      <file name="E:/WWWW/epsd.git/editor/src/js/base/module/Caret.js" timestamp="1498706935243">
+        <mark key="'" line="274" column="46" />
         <mark key="[" line="610" column="1" />
       </file>
       <file name="E:/WWWW/epsd.git/package.json" timestamp="1498547574656">
@@ -147,8 +147,8 @@
         <mark key="." line="159" column="14" />
         <mark key="^" line="21" column="11" />
       </file>
-      <file name="E:/WWWW/epsd.git/editor/src/js/base/module/ProtectedAreas.js" timestamp="1498705517994">
-        <mark key="'" line="10" column="16" />
+      <file name="E:/WWWW/epsd.git/editor/src/js/base/module/ProtectedAreas.js" timestamp="1498706674408">
+        <mark key="'" line="190" column="19" />
         <mark key="[" line="190" column="19" />
         <mark key="]" line="190" column="20" />
         <mark key="." line="190" column="20" />
@@ -211,9 +211,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="97" column="26" filename="E:/WWWW/epsd.git/editor/src/js/base/core/parser.js" />
-      <jump line="107" column="29" filename="E:/WWWW/epsd.git/editor/src/js/base/core/parser.js" />
-      <jump line="120" column="29" filename="E:/WWWW/epsd.git/editor/src/js/base/core/parser.js" />
       <jump line="129" column="70" filename="E:/WWWW/epsd.git/editor/src/js/base/core/parser.js" />
       <jump line="366" column="23" filename="E:/WWWW/epsd.git/editor/src/js/base/core/parser.js" />
       <jump line="461" column="26" filename="E:/WWWW/epsd.git/editor/src/js/base/core/parser.js" />
@@ -309,8 +306,11 @@
       <jump line="645" column="8" filename="E:/WWWW/epsd.git/editor/src/js/base/core/parser.js" />
       <jump line="0" column="0" filename="E:/WWWW/epsd.git/editor/src/js/bs3/settings.js" />
       <jump line="309" column="2" filename="E:/WWWW/epsd.git/editor/src/js/bs3/settings.js" />
-      <jump line="190" column="11" filename="E:/WWWW/epsd.git/editor/src/js/base/module/ProtectedAreas.js" />
       <jump line="10" column="16" filename="E:/WWWW/epsd.git/editor/src/js/base/module/ProtectedAreas.js" />
+      <jump line="190" column="19" filename="E:/WWWW/epsd.git/editor/src/js/base/module/ProtectedAreas.js" />
+      <jump line="291" column="38" filename="E:/WWWW/epsd.git/editor/src/js/base/module/Caret.js" />
+      <jump line="514" column="34" filename="E:/WWWW/epsd.git/editor/src/js/base/module/Caret.js" />
+      <jump line="274" column="46" filename="E:/WWWW/epsd.git/editor/src/js/base/module/Caret.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -320,7 +320,7 @@
         <text>true</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxQcm90ZWN0ZXRBcmVhc1w+</text>
+        <text encoding="base64">XDxyZXNldFNlbGVjdFJhbmdlXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIHNyYzogIi50bXAvY29uY2F0L3NjcmlwdHMvc2NyaXB0cy5qcyIsCg==</text>
@@ -354,9 +354,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxQcm90ZWN0ZXRBcmVhc1w+</last-search>
+      <last-search encoding="base64">XDxyZXNldFNlbGVjdFJhbmdlXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxQcm90ZWN0ZXRBcmVhc1w+</last-pattern>
+      <last-pattern encoding="base64">XDxyZXNldFNlbGVjdFJhbmdlXD4=</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxyZXF1aXJlXD4=</last-substitute>
       <last-dir>1</last-dir>
@@ -364,7 +364,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxyZW5kZXJMaW5lXD4=</entry>
         <entry>concat</entry>
         <entry>remove</entry>
         <entry>removelogging</entry>
@@ -384,6 +383,7 @@
         <entry>parseScript</entry>
         <entry>getLine</entry>
         <entry encoding="base64">XDxQcm90ZWN0ZXRBcmVhc1w+</entry>
+        <entry encoding="base64">XDxyZXNldFNlbGVjdFJhbmdlXD4=</entry>
       </history-search>
       <history-cmd />
       <history-expr />

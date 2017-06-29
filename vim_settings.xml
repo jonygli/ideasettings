@@ -113,6 +113,9 @@
         <mark key="." line="1532" column="14" />
         <mark key="^" line="1532" column="14" />
       </file>
+      <file name="E:/WWWW/epsd.git/editor/src/js/bs3/settings.js" timestamp="1498705243753">
+        <mark key="'" line="309" column="2" />
+      </file>
       <file name="/JavaScript Console" timestamp="1495865542265">
         <mark key="[" line="0" column="0" />
       </file>
@@ -131,7 +134,7 @@
       <file name="E:/WWWW/epsd.git/editor/src/js/app.js" timestamp="1497959261049">
         <mark key="'" line="14" column="5" />
       </file>
-      <file name="/Dummy.txt" timestamp="1498555186018">
+      <file name="/Dummy.txt" timestamp="1498705495844">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="E:/LLLL/anduo.git/js/grunt_minify/app.js" timestamp="1495435091926">
@@ -143,6 +146,12 @@
         <mark key="]" line="159" column="14" />
         <mark key="." line="159" column="14" />
         <mark key="^" line="21" column="11" />
+      </file>
+      <file name="E:/WWWW/epsd.git/editor/src/js/base/module/ProtectedAreas.js" timestamp="1498705517994">
+        <mark key="'" line="10" column="16" />
+        <mark key="[" line="190" column="19" />
+        <mark key="]" line="190" column="20" />
+        <mark key="." line="190" column="20" />
       </file>
       <file name="E:/WWWW/epsd.git/editor/src/js/epseditor.js" timestamp="1497584760901">
         <mark key="'" line="16" column="0" />
@@ -202,10 +211,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1004" column="26" filename="E:/WWWW/epsd.git/editor/src/js/base/core/parser.js" />
-      <jump line="30" column="28" filename="E:/WWWW/epsd.git/editor/src/js/base/core/parser.js" />
-      <jump line="34" column="15" filename="E:/WWWW/epsd.git/editor/src/js/base/core/parser.js" />
-      <jump line="38" column="45" filename="E:/WWWW/epsd.git/editor/src/js/base/core/parser.js" />
       <jump line="97" column="26" filename="E:/WWWW/epsd.git/editor/src/js/base/core/parser.js" />
       <jump line="107" column="29" filename="E:/WWWW/epsd.git/editor/src/js/base/core/parser.js" />
       <jump line="120" column="29" filename="E:/WWWW/epsd.git/editor/src/js/base/core/parser.js" />
@@ -302,6 +307,10 @@
       <jump line="314" column="27" filename="E:/WWWW/epsd.git/editor/src/js/base/core/parser.js" />
       <jump line="992" column="0" filename="E:/WWWW/epsd.git/editor/src/js/base/core/parser.js" />
       <jump line="645" column="8" filename="E:/WWWW/epsd.git/editor/src/js/base/core/parser.js" />
+      <jump line="0" column="0" filename="E:/WWWW/epsd.git/editor/src/js/bs3/settings.js" />
+      <jump line="309" column="2" filename="E:/WWWW/epsd.git/editor/src/js/bs3/settings.js" />
+      <jump line="190" column="11" filename="E:/WWWW/epsd.git/editor/src/js/base/module/ProtectedAreas.js" />
+      <jump line="10" column="16" filename="E:/WWWW/epsd.git/editor/src/js/base/module/ProtectedAreas.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -311,7 +320,7 @@
         <text>true</text>
       </register>
       <register name="/" type="4">
-        <text>getLine</text>
+        <text encoding="base64">XDxQcm90ZWN0ZXRBcmVhc1w+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIHNyYzogIi50bXAvY29uY2F0L3NjcmlwdHMvc2NyaXB0cy5qcyIsCg==</text>
@@ -345,9 +354,9 @@
       </register>
     </registers>
     <search>
-      <last-search>getLine</last-search>
+      <last-search encoding="base64">XDxQcm90ZWN0ZXRBcmVhc1w+</last-search>
       <last-offset />
-      <last-pattern>getLine</last-pattern>
+      <last-pattern encoding="base64">XDxQcm90ZWN0ZXRBcmVhc1w+</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxyZXF1aXJlXD4=</last-substitute>
       <last-dir>1</last-dir>
@@ -355,7 +364,6 @@
     </search>
     <history>
       <history-search>
-        <entry>format</entry>
         <entry encoding="base64">XDxyZW5kZXJMaW5lXD4=</entry>
         <entry>concat</entry>
         <entry>remove</entry>
@@ -375,6 +383,7 @@
         <entry>renderScript</entry>
         <entry>parseScript</entry>
         <entry>getLine</entry>
+        <entry encoding="base64">XDxQcm90ZWN0ZXRBcmVhc1w+</entry>
       </history-search>
       <history-cmd />
       <history-expr />

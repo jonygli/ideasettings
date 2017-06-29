@@ -40,8 +40,8 @@
         <mark key="]" line="26" column="0" />
         <mark key="." line="26" column="0" />
       </file>
-      <file name="E:/WWWW/epsd.git/editor/src/js/base/core/parser.js" timestamp="1498566161795">
-        <mark key="'" line="647" column="17" />
+      <file name="E:/WWWW/epsd.git/editor/src/js/base/core/parser.js" timestamp="1498701150897">
+        <mark key="'" line="992" column="0" />
       </file>
       <file name="E:/WWWW/epsd.git/editor/.eslintrc" timestamp="1497959390108">
         <mark key="'" line="8" column="19" />
@@ -92,7 +92,7 @@
         <mark key="'" line="2002" column="46" />
       </file>
       <file name="E:/WWWW/epsd.git/Gruntfile.js" timestamp="1498566196400">
-        <mark key="'" line="547" column="9" />
+        <mark key="'" line="560" column="9" />
       </file>
       <file name="E:/WWWW/epsd.git/editor/src/js/base/core/agent.js" timestamp="1497957205648">
         <mark key="'" line="0" column="0" />
@@ -202,11 +202,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="58" column="37" filename="E:/WWWW/epsd.git/Gruntfile.js" />
-      <jump line="78" column="37" filename="E:/WWWW/epsd.git/Gruntfile.js" />
-      <jump line="111" column="43" filename="E:/WWWW/epsd.git/Gruntfile.js" />
-      <jump line="127" column="43" filename="E:/WWWW/epsd.git/Gruntfile.js" />
-      <jump line="22" column="8" filename="E:/WWWW/epsd.git/Gruntfile.js" />
       <jump line="31" column="16" filename="E:/WWWW/epsd.git/Gruntfile.js" />
       <jump line="1004" column="26" filename="E:/WWWW/epsd.git/editor/src/js/base/core/parser.js" />
       <jump line="30" column="28" filename="E:/WWWW/epsd.git/editor/src/js/base/core/parser.js" />
@@ -302,6 +297,11 @@
       <jump line="832" column="32" filename="E:/WWWW/epsd.git/editor/src/js/base/core/parser.js" />
       <jump line="647" column="17" filename="E:/WWWW/epsd.git/editor/src/js/base/core/parser.js" />
       <jump line="547" column="9" filename="E:/WWWW/epsd.git/Gruntfile.js" />
+      <jump line="824" column="17" filename="E:/WWWW/epsd.git/editor/src/js/base/core/parser.js" />
+      <jump line="862" column="27" filename="E:/WWWW/epsd.git/editor/src/js/base/core/parser.js" />
+      <jump line="164" column="27" filename="E:/WWWW/epsd.git/editor/src/js/base/core/parser.js" />
+      <jump line="314" column="27" filename="E:/WWWW/epsd.git/editor/src/js/base/core/parser.js" />
+      <jump line="992" column="0" filename="E:/WWWW/epsd.git/editor/src/js/base/core/parser.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -311,7 +311,7 @@
         <text>true</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxodG1sbWluXD4=</text>
+        <text>parseScript</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIHNyYzogIi50bXAvY29uY2F0L3NjcmlwdHMvc2NyaXB0cy5qcyIsCg==</text>
@@ -345,9 +345,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxodG1sbWluXD4=</last-search>
+      <last-search>parseScript</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxodG1sbWluXD4=</last-pattern>
+      <last-pattern>parseScript</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxyZXF1aXJlXD4=</last-substitute>
       <last-dir>1</last-dir>
@@ -355,9 +355,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxjb3B5XD4=</entry>
-        <entry encoding="base64">XDxjb25jYXRcPg==</entry>
-        <entry encoding="base64">XDxjb25uZWN0XD4=</entry>
         <entry encoding="base64">XDxhcHBDb25maWdcPg==</entry>
         <entry>format</entry>
         <entry encoding="base64">XDxyZW5kZXJMaW5lXD4=</entry>
@@ -375,6 +372,9 @@
         <entry encoding="base64">XDxyZW5kZXJEaWFsb2dcPg==</entry>
         <entry encoding="base64">XDxnZXRUb2tlblR5cGVcPg==</entry>
         <entry encoding="base64">XDxodG1sbWluXD4=</entry>
+        <entry encoding="base64">XDxnZXRMaW5lXD4=</entry>
+        <entry>renderScript</entry>
+        <entry>parseScript</entry>
       </history-search>
       <history-cmd />
       <history-expr />

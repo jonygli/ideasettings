@@ -148,7 +148,7 @@
       <file name="E:/WWWW/epsd.git/editor/src/js/app.js" timestamp="1497959261049">
         <mark key="'" line="14" column="5" />
       </file>
-      <file name="/Dummy.txt" timestamp="1498718692884">
+      <file name="/Dummy.txt" timestamp="1498725074989">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="E:/LLLL/anduo.git/js/grunt_minify/app.js" timestamp="1495435091926">
@@ -199,7 +199,9 @@
         <mark key="." line="10" column="20" />
         <mark key="^" line="10" column="20" />
       </file>
-      <file name="E:/WWWW/epsd.git/editor/src/js/bs3/module/GotoHandle.js" timestamp="1498535913477" />
+      <file name="E:/WWWW/epsd.git/editor/src/js/bs3/module/GotoHandle.js" timestamp="1498725058211">
+        <mark key="'" line="20" column="50" />
+      </file>
       <file name="E:/WWWW/epsd.git/editor/test/unit/bs3/module/ConditionHandle.spec.js" timestamp="1498555064233">
         <mark key="'" line="0" column="0" />
       </file>
@@ -225,8 +227,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="141" column="16" filename="E:/WWWW/epsd.git/Gruntfile.js" />
-      <jump line="0" column="0" filename="E:/WWWW/epsd.git/Gruntfile.js" />
       <jump line="21" column="44" filename="E:/WWWW/epsd.git/Gruntfile.js" />
       <jump line="265" column="11" filename="E:/WWWW/epsd.git/Gruntfile.js" />
       <jump line="274" column="35" filename="E:/WWWW/epsd.git/Gruntfile.js" />
@@ -325,6 +325,8 @@
       <jump line="344" column="22" filename="E:/WWWW/epsd.git/editor/Gruntfile.js" />
       <jump line="196" column="10" filename="E:/WWWW/epsd.git/editor/src/js/bs3/module/ChoiceHandle.js" />
       <jump line="0" column="0" filename="E:/WWWW/epsd.git/editor/src/js/bs3/module/ChoiceHandle.js" />
+      <jump line="56" column="47" filename="E:/WWWW/epsd.git/editor/src/js/bs3/module/GotoHandle.js" />
+      <jump line="20" column="50" filename="E:/WWWW/epsd.git/editor/src/js/bs3/module/GotoHandle.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -334,7 +336,7 @@
         <text>false</text>
       </register>
       <register name="/" type="4">
-        <text>uglify</text>
+        <text>format</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIG91dHB1dDogewogICAgICAgICAgICAgICAgICAgIGNvbW1lbnRzOiBmYWxzZSAvKiBzdHJpcCBhbGwgY29tbWVudHMgKi8KICAgICAgICAgICAgICAgIH0K</text>
@@ -368,9 +370,9 @@
       </register>
     </registers>
     <search>
-      <last-search>uglify</last-search>
+      <last-search>format</last-search>
       <last-offset />
-      <last-pattern>uglify</last-pattern>
+      <last-pattern>format</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxyZXF1aXJlXD4=</last-substitute>
       <last-dir>1</last-dir>
@@ -378,7 +380,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxyZW1vdmVsb2dnaW5nXD4=</entry>
         <entry>insertConditions</entry>
         <entry encoding="base64">XDxrVHlwZUVycm9yXD4=</entry>
         <entry encoding="base64">XDxsaW5lRW5kaW5nSW5kZXhcPg==</entry>
@@ -398,6 +399,7 @@
         <entry encoding="base64">XDxyZW5kZXJDaG9pY2VUYWJcPg==</entry>
         <entry encoding="base64">XDxwb3N0UmVuZGVyUGFuZXNcPg==</entry>
         <entry>uglify</entry>
+        <entry>format</entry>
       </history-search>
       <history-cmd />
       <history-expr />

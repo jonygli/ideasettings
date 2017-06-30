@@ -40,11 +40,12 @@
       <file name="E:/WWWW/epsd.git/editor/src/js/base/module/Caret.js" timestamp="1498706935243">
         <mark key="[" line="663" column="1" />
       </file>
-      <file name="E:/WWWW/epsd.git/package.json" timestamp="1498821897450">
+      <file name="E:/WWWW/epsd.git/package.json" timestamp="1498824051048">
         <mark key="'" line="26" column="0" />
-        <mark key="[" line="2" column="18" />
+        <mark key="[" line="2" column="19" />
         <mark key="]" line="2" column="19" />
         <mark key="." line="2" column="19" />
+        <mark key="^" line="2" column="19" />
       </file>
       <file name="E:/WWWW/epsd.git/editor/src/js/base/core/parser.js" timestamp="1498814489555">
         <mark key="'" line="996" column="31" />
@@ -52,6 +53,12 @@
         <mark key="]" line="1245" column="35" />
         <mark key="." line="1245" column="35" />
         <mark key="^" line="1245" column="35" />
+      </file>
+      <file name="E:/WWWW/epsd.git/editor/.eslintrc" timestamp="1497959390108">
+        <mark key="'" line="8" column="19" />
+        <mark key="[" line="19" column="8" />
+        <mark key="]" line="19" column="49" />
+        <mark key="." line="19" column="0" />
       </file>
       <file name="E:/WWWW/epsd.git/app/styles/main.css" timestamp="1496731792696">
         <mark key="'" line="107" column="0" />
@@ -74,7 +81,7 @@
         <mark key="." line="20" column="3" />
         <mark key="^" line="20" column="3" />
       </file>
-      <file name="E:/WWWW/epsd.git/editor/src/js/bs3/module/ChoiceHandle.js" timestamp="1498721406845">
+      <file name="E:/WWWW/epsd.git/editor/src/js/bs3/module/ChoiceHandle.js" timestamp="1498823601319">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="133" column="24" />
         <mark key="]" line="133" column="26" />
@@ -85,7 +92,7 @@
       <file name="/" timestamp="1494989021458">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="E:/WWWW/epsd.git/editor/src/js/base/module/Editor.js" timestamp="1498791704657">
+      <file name="E:/WWWW/epsd.git/editor/src/js/base/module/Editor.js" timestamp="1498823576852">
         <mark key="'" line="771" column="0" />
         <mark key="[" line="736" column="0" />
         <mark key="]" line="736" column="0" />
@@ -141,7 +148,7 @@
       <file name="E:/WWWW/epsd.git/editor/src/js/app.js" timestamp="1497959261049">
         <mark key="'" line="14" column="5" />
       </file>
-      <file name="/Dummy.txt" timestamp="1498814248545">
+      <file name="/Dummy.txt" timestamp="1498823636204">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="E:/LLLL/anduo.git/js/grunt_minify/app.js" timestamp="1495435091926">
@@ -154,11 +161,11 @@
         <mark key="." line="164" column="33" />
         <mark key="^" line="162" column="33" />
       </file>
-      <file name="E:/WWWW/epsd.git/editor/src/js/base/module/ProtectedAreas.js" timestamp="1498706674408">
-        <mark key="'" line="190" column="19" />
-        <mark key="[" line="190" column="19" />
-        <mark key="]" line="190" column="20" />
-        <mark key="." line="190" column="20" />
+      <file name="E:/WWWW/epsd.git/editor/src/js/base/module/ProtectedAreas.js" timestamp="1498822979630">
+        <mark key="'" line="193" column="19" />
+        <mark key="[" line="193" column="19" />
+        <mark key="]" line="193" column="20" />
+        <mark key="." line="193" column="20" />
       </file>
       <file name="E:/WWWW/epsd.git/editor/src/js/epseditor.js" timestamp="1497584760901">
         <mark key="'" line="16" column="0" />
@@ -180,6 +187,12 @@
         <mark key="^" line="13" column="9" />
         <mark key="." line="26" column="17" />
       </file>
+      <file name="E:/WWWW/epsd.git/editor/test/unit/base/module/Editor.spec.js" timestamp="1498543287956">
+        <mark key="'" line="389" column="50" />
+        <mark key="[" line="4" column="3" />
+        <mark key="]" line="220" column="0" />
+        <mark key="." line="220" column="0" />
+      </file>
       <file name="E:/WWWW/epsd.git/app/views/visual.html" timestamp="1497252511302">
         <mark key="'" line="4" column="3" />
         <mark key="[" line="10" column="20" />
@@ -187,7 +200,7 @@
         <mark key="." line="10" column="20" />
         <mark key="^" line="10" column="20" />
       </file>
-      <file name="E:/WWWW/epsd.git/editor/src/js/bs3/module/GotoHandle.js" timestamp="1498735761387">
+      <file name="E:/WWWW/epsd.git/editor/src/js/bs3/module/GotoHandle.js" timestamp="1498824039600">
         <mark key="'" line="48" column="20" />
       </file>
       <file name="E:/WWWW/epsd.git/editor/test/unit/bs3/module/ConditionHandle.spec.js" timestamp="1498555064233">
@@ -206,12 +219,12 @@
         <mark key="." line="7" column="31" />
         <mark key="^" line="7" column="36" />
       </file>
-      <file name="E:/WWWW/epsd.git/editor/package.json" timestamp="1498821907049">
+      <file name="E:/WWWW/epsd.git/editor/package.json" timestamp="1498824059338">
         <mark key="'" line="28" column="19" />
-        <mark key="[" line="3" column="18" />
+        <mark key="[" line="3" column="19" />
         <mark key="]" line="3" column="19" />
         <mark key="." line="3" column="19" />
-        <mark key="^" line="32" column="26" />
+        <mark key="^" line="3" column="19" />
       </file>
     </filemarks>
     <jumps>

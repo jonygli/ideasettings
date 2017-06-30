@@ -132,18 +132,18 @@
       <file name="E:/WWWW/epsd.git/editor/src/js/app.js" timestamp="1497959261049">
         <mark key="'" line="14" column="5" />
       </file>
-      <file name="/Dummy.txt" timestamp="1498791659474">
+      <file name="/Dummy.txt" timestamp="1498792997506">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="E:/LLLL/anduo.git/js/grunt_minify/app.js" timestamp="1495435091926">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="E:/WWWW/epsd.git/editor/src/js/base/Context.js" timestamp="1498791826865">
+      <file name="E:/WWWW/epsd.git/editor/src/js/base/Context.js" timestamp="1498792756094">
         <mark key="'" line="149" column="27" />
-        <mark key="[" line="158" column="0" />
-        <mark key="]" line="158" column="0" />
-        <mark key="." line="158" column="0" />
-        <mark key="^" line="158" column="40" />
+        <mark key="[" line="164" column="33" />
+        <mark key="]" line="164" column="33" />
+        <mark key="." line="164" column="33" />
+        <mark key="^" line="162" column="33" />
       </file>
       <file name="E:/WWWW/epsd.git/editor/src/js/base/module/ProtectedAreas.js" timestamp="1498706674408">
         <mark key="'" line="190" column="19" />
@@ -293,11 +293,11 @@
       <jump line="48" column="20" filename="E:/WWWW/epsd.git/editor/src/js/bs3/module/GotoHandle.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUudGltZSgnZm9ybWF0X3NhdmUnKTsK</text>
+      <register name="&quot;" type="4">
+        <text>format</text>
       </register>
       <register name="-" type="4">
-        <text>time</text>
+        <text>format</text>
       </register>
       <register name="/" type="4">
         <text>&quot;format&quot;</text>

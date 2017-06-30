@@ -73,10 +73,12 @@
       <file name="/" timestamp="1494989021458">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="E:/WWWW/epsd.git/editor/src/js/base/module/Editor.js" timestamp="1498555184779">
+      <file name="E:/WWWW/epsd.git/editor/src/js/base/module/Editor.js" timestamp="1498791704657">
         <mark key="'" line="771" column="0" />
-        <mark key="]" line="877" column="0" />
-        <mark key="." line="877" column="0" />
+        <mark key="[" line="736" column="0" />
+        <mark key="]" line="736" column="0" />
+        <mark key="." line="736" column="0" />
+        <mark key="^" line="736" column="26" />
       </file>
       <file name="E:/WWWW/epsd.git/editor/dist/epseditor.js" timestamp="1498198773018">
         <mark key="'" line="2002" column="46" />
@@ -130,18 +132,18 @@
       <file name="E:/WWWW/epsd.git/editor/src/js/app.js" timestamp="1497959261049">
         <mark key="'" line="14" column="5" />
       </file>
-      <file name="/Dummy.txt" timestamp="1498735714552">
+      <file name="/Dummy.txt" timestamp="1498791659474">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="E:/LLLL/anduo.git/js/grunt_minify/app.js" timestamp="1495435091926">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="E:/WWWW/epsd.git/editor/src/js/base/Context.js" timestamp="1498533985198">
+      <file name="E:/WWWW/epsd.git/editor/src/js/base/Context.js" timestamp="1498791826865">
         <mark key="'" line="149" column="27" />
-        <mark key="[" line="159" column="14" />
-        <mark key="]" line="159" column="14" />
-        <mark key="." line="159" column="14" />
-        <mark key="^" line="21" column="11" />
+        <mark key="[" line="158" column="0" />
+        <mark key="]" line="158" column="0" />
+        <mark key="." line="158" column="0" />
+        <mark key="^" line="158" column="40" />
       </file>
       <file name="E:/WWWW/epsd.git/editor/src/js/base/module/ProtectedAreas.js" timestamp="1498706674408">
         <mark key="'" line="190" column="19" />
@@ -292,49 +294,49 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUudGltZSgnZm9ybWF0X3NhdmUnKTsK</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">VGVuY2VudCA=</text>
+        <text>time</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxnb3RvTGFiZWxzXD4=</text>
+        <text>&quot;format&quot;</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBwYWNrYWdlIEZpbGUKICAgICAgICBwa2c6IGdydW50LmZpbGUucmVhZEpTT04oJ3BhY2thZ2UuanNvbicpLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS50aW1lRW5kKCdmb3JtYXRfdGltZScpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUudGltZSgnZm9ybWF0X3NhdmUnKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgb3V0cHV0IDogewogICAgICAgICAgICAgICAgY29tbWVudHM6IGZhbHNlIC8qIHN0cmlwIGFsbCBjb21tZW50cyAqLwogICAgICAgICAgICB9LAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUudGltZUVuZCgnZm9ybWF0X3NhdmUnKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG91dHB1dC5jb21tZW50czogZmFsc2UgLyogc3RyaXAgYWxsIGNvbW1lbnRzICovCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS50aW1lRW5kKCdmb3JtYXRfdGltZScpOwo=</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIHZhciBjbGFzc05hbWUgPSBzcGxpdFJvb3QuY2xhc3NOYW1lOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgb3V0cHV0IDogewogICAgICAgICAgICAgICAgY29tbWVudHM6IGZhbHNlIC8qIHN0cmlwIGFsbCBjb21tZW50cyAqLwogICAgICAgICAgICB9LAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhciBsaW5lRW5kaW5nSW5kZXggPSBjb2RlU3RyLmluZGV4T2YoJ1xuJywgaW5kZXgpOwogICAgICAgICAgICAgICAgaWYgKGxpbmVFbmRpbmdJbmRleCA8IDApIHsKICAgICAgICAgICAgICAgICAgICBsaW5lRW5kaW5nSW5kZXggPSBlbmRJbmRleCArIDE7CiAgICAgICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG91dHB1dC5jb21tZW50czogZmFsc2UgLyogc3RyaXAgYWxsIGNvbW1lbnRzICovCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIC8vIENvbmZpZ3VyYWJsZSBwYXRocyBmb3IgdGhlIGFwcGxpY2F0aW9uCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICJncnVudC1yZW1vdmUtbG9nZ2luZyI6ICJeMC4yLjAiLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIHZhciBjbGFzc05hbWUgPSBzcGxpdFJvb3QuY2xhc3NOYW1lOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAncmVtb3ZlbG9nZ2luZycsCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhciBsaW5lRW5kaW5nSW5kZXggPSBjb2RlU3RyLmluZGV4T2YoJ1xuJywgaW5kZXgpOwogICAgICAgICAgICAgICAgaWYgKGxpbmVFbmRpbmdJbmRleCA8IDApIHsKICAgICAgICAgICAgICAgICAgICBsaW5lRW5kaW5nSW5kZXggPSBlbmRJbmRleCArIDE7CiAgICAgICAgICAgICAgICB9Cg==</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxnb3RvTGFiZWxzXD4=</last-search>
+      <last-search>&quot;format&quot;</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxnb3RvTGFiZWxzXD4=</last-pattern>
+      <last-pattern>&quot;format&quot;</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxyZXF1aXJlXD4=</last-substitute>
       <last-dir>1</last-dir>
@@ -342,7 +344,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxodG1sbWluXD4=</entry>
         <entry encoding="base64">XDxnZXRMaW5lXD4=</entry>
         <entry>renderScript</entry>
         <entry>parseScript</entry>
@@ -362,6 +363,7 @@
         <entry encoding="base64">XDxnb3RvTGFiZWxcPg==</entry>
         <entry>goto</entry>
         <entry encoding="base64">XDxnb3RvTGFiZWxzXD4=</entry>
+        <entry>&quot;format&quot;</entry>
       </history-search>
       <history-cmd />
       <history-expr />

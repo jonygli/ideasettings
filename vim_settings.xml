@@ -38,7 +38,7 @@
         <mark key="^" line="141" column="40" />
       </file>
       <file name="E:/WWWW/epsd.git/editor/src/js/base/module/Caret.js" timestamp="1498706935243">
-        <mark key="[" line="663" column="1" />
+        <mark key="[" line="662" column="1" />
       </file>
       <file name="E:/WWWW/epsd.git/package.json" timestamp="1498824051048">
         <mark key="'" line="26" column="0" />
@@ -71,8 +71,8 @@
         <mark key="." line="20" column="3" />
         <mark key="^" line="20" column="3" />
       </file>
-      <file name="E:/WWWW/epsd.git/editor/src/js/bs3/module/ChoiceHandle.js" timestamp="1498823601319">
-        <mark key="'" line="0" column="0" />
+      <file name="E:/WWWW/epsd.git/editor/src/js/bs3/module/ChoiceHandle.js" timestamp="1499080764985">
+        <mark key="'" line="176" column="78" />
         <mark key="[" line="133" column="24" />
         <mark key="]" line="133" column="26" />
         <mark key="." line="133" column="26" />
@@ -82,12 +82,12 @@
       <file name="/" timestamp="1494989021458">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="E:/WWWW/epsd.git/editor/src/js/base/module/Editor.js" timestamp="1498823576852">
+      <file name="E:/WWWW/epsd.git/editor/src/js/base/module/Editor.js" timestamp="1499079962364">
         <mark key="'" line="771" column="0" />
-        <mark key="[" line="736" column="0" />
-        <mark key="]" line="736" column="0" />
-        <mark key="." line="736" column="0" />
-        <mark key="^" line="736" column="26" />
+        <mark key="[" line="741" column="27" />
+        <mark key="]" line="741" column="29" />
+        <mark key="." line="741" column="29" />
+        <mark key="^" line="741" column="29" />
       </file>
       <file name="E:/WWWW/epsd.git/editor/dist/epseditor.js" timestamp="1498198773018">
         <mark key="'" line="2002" column="46" />
@@ -138,7 +138,7 @@
       <file name="E:/WWWW/epsd.git/editor/src/js/app.js" timestamp="1497959261049">
         <mark key="'" line="14" column="5" />
       </file>
-      <file name="/Dummy.txt" timestamp="1499074529375">
+      <file name="/Dummy.txt" timestamp="1499080929171">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="E:/LLLL/anduo.git/js/grunt_minify/app.js" timestamp="1495435091926">
@@ -217,7 +217,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="169" column="51" filename="E:/WWWW/epsd.git/editor/src/js/base/core/parser.js" />
       <jump line="179" column="28" filename="E:/WWWW/epsd.git/editor/src/js/base/core/parser.js" />
       <jump line="256" column="27" filename="E:/WWWW/epsd.git/editor/src/js/base/core/parser.js" />
       <jump line="315" column="20" filename="E:/WWWW/epsd.git/editor/src/js/base/core/parser.js" />
@@ -317,10 +316,11 @@
       <jump line="271" column="17" filename="E:/WWWW/epsd.git/editor/src/js/base/core/parser.js" />
       <jump line="401" column="46" filename="E:/WWWW/epsd.git/editor/src/js/base/core/parser.js" />
       <jump line="273" column="35" filename="E:/WWWW/epsd.git/editor/src/js/base/core/parser.js" />
+      <jump line="176" column="78" filename="E:/WWWW/epsd.git/editor/src/js/bs3/module/ChoiceHandle.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUucHJvZmlsZSgncmVtb3ZlX2dvdG8nKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5wcm9maWxlKCdpbnNlcnRfY2hvaWNlJyk7Cg==</text>
       </register>
       <register name="-" type="4">
         <text>format</text>
@@ -329,7 +329,7 @@
         <text encoding="base64">XDxnZXRUb2tlbnNGcm9tVGFiXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUucHJvZmlsZSgncmVtb3ZlX2dvdG8nKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5wcm9maWxlKCdpbnNlcnRfY2hvaWNlJyk7Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUudGltZSgnZm9ybWF0X3NhdmUnKTsK</text>

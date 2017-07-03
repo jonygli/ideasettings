@@ -189,12 +189,12 @@
         <mark key="." line="10" column="20" />
         <mark key="^" line="10" column="20" />
       </file>
-      <file name="E:/WWWW/epsd.git/editor/src/js/bs3/module/GotoHandle.js" timestamp="1499063433214">
+      <file name="E:/WWWW/epsd.git/editor/src/js/bs3/module/GotoHandle.js" timestamp="1499065285395">
         <mark key="'" line="48" column="20" />
-        <mark key="[" line="99" column="16" />
-        <mark key="]" line="99" column="23" />
-        <mark key="^" line="99" column="23" />
-        <mark key="." line="99" column="23" />
+        <mark key="[" line="99" column="31" />
+        <mark key="]" line="99" column="47" />
+        <mark key="^" line="88" column="46" />
+        <mark key="." line="99" column="0" />
       </file>
       <file name="E:/WWWW/epsd.git/editor/test/unit/bs3/module/ConditionHandle.spec.js" timestamp="1498555064233">
         <mark key="'" line="0" column="0" />
@@ -324,7 +324,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHByb2ZpbGUoJ3JlbW92ZV9nb3RvJyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUucHJvZmlsZSgncmVtb3ZlX2dvdG8nKTsK</text>
       </register>
       <register name="-" type="4">
         <text>format</text>
@@ -333,7 +333,7 @@
         <text encoding="base64">XDxnZXRUb2tlblR5cGVcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHByb2ZpbGUoJ3JlbW92ZV9nb3RvJyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUucHJvZmlsZSgncmVtb3ZlX2dvdG8nKTsK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUudGltZSgnZm9ybWF0X3NhdmUnKTsK</text>

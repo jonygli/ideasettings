@@ -189,12 +189,12 @@
         <mark key="." line="10" column="20" />
         <mark key="^" line="10" column="20" />
       </file>
-      <file name="E:/WWWW/epsd.git/editor/src/js/bs3/module/GotoHandle.js" timestamp="1499055623488">
+      <file name="E:/WWWW/epsd.git/editor/src/js/bs3/module/GotoHandle.js" timestamp="1499062372370">
         <mark key="'" line="48" column="20" />
-        <mark key="[" line="99" column="23" />
-        <mark key="]" line="99" column="39" />
-        <mark key="^" line="88" column="35" />
-        <mark key="." line="99" column="0" />
+        <mark key="[" line="99" column="16" />
+        <mark key="]" line="99" column="23" />
+        <mark key="^" line="99" column="23" />
+        <mark key="." line="99" column="23" />
       </file>
       <file name="E:/WWWW/epsd.git/editor/test/unit/bs3/module/ConditionHandle.spec.js" timestamp="1498555064233">
         <mark key="'" line="0" column="0" />

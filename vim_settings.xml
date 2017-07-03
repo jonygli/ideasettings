@@ -54,12 +54,6 @@
         <mark key="." line="1245" column="35" />
         <mark key="^" line="1245" column="35" />
       </file>
-      <file name="E:/WWWW/epsd.git/editor/.eslintrc" timestamp="1497959390108">
-        <mark key="'" line="8" column="19" />
-        <mark key="[" line="19" column="8" />
-        <mark key="]" line="19" column="49" />
-        <mark key="." line="19" column="0" />
-      </file>
       <file name="E:/WWWW/epsd.git/app/styles/main.css" timestamp="1496731792696">
         <mark key="'" line="107" column="0" />
         <mark key="[" line="81" column="21" />
@@ -161,11 +155,12 @@
         <mark key="." line="164" column="33" />
         <mark key="^" line="162" column="33" />
       </file>
-      <file name="E:/WWWW/epsd.git/editor/src/js/base/module/ProtectedAreas.js" timestamp="1498822979630">
-        <mark key="'" line="193" column="19" />
-        <mark key="[" line="193" column="19" />
-        <mark key="]" line="193" column="20" />
-        <mark key="." line="193" column="20" />
+      <file name="E:/WWWW/epsd.git/editor/src/js/base/module/ProtectedAreas.js" timestamp="1499055658000">
+        <mark key="'" line="143" column="70" />
+        <mark key="[" line="14" column="25" />
+        <mark key="]" line="14" column="25" />
+        <mark key="." line="14" column="25" />
+        <mark key="^" line="14" column="25" />
       </file>
       <file name="E:/WWWW/epsd.git/editor/src/js/epseditor.js" timestamp="1497584760901">
         <mark key="'" line="16" column="0" />
@@ -187,12 +182,6 @@
         <mark key="^" line="13" column="9" />
         <mark key="." line="26" column="17" />
       </file>
-      <file name="E:/WWWW/epsd.git/editor/test/unit/base/module/Editor.spec.js" timestamp="1498543287956">
-        <mark key="'" line="389" column="50" />
-        <mark key="[" line="4" column="3" />
-        <mark key="]" line="220" column="0" />
-        <mark key="." line="220" column="0" />
-      </file>
       <file name="E:/WWWW/epsd.git/app/views/visual.html" timestamp="1497252511302">
         <mark key="'" line="4" column="3" />
         <mark key="[" line="10" column="20" />
@@ -200,8 +189,12 @@
         <mark key="." line="10" column="20" />
         <mark key="^" line="10" column="20" />
       </file>
-      <file name="E:/WWWW/epsd.git/editor/src/js/bs3/module/GotoHandle.js" timestamp="1498824039600">
+      <file name="E:/WWWW/epsd.git/editor/src/js/bs3/module/GotoHandle.js" timestamp="1499055623488">
         <mark key="'" line="48" column="20" />
+        <mark key="[" line="99" column="23" />
+        <mark key="]" line="99" column="39" />
+        <mark key="^" line="88" column="35" />
+        <mark key="." line="99" column="0" />
       </file>
       <file name="E:/WWWW/epsd.git/editor/test/unit/bs3/module/ConditionHandle.spec.js" timestamp="1498555064233">
         <mark key="'" line="0" column="0" />
@@ -228,7 +221,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="421" column="0" filename="E:/WWWW/epsd.git/Gruntfile.js" />
       <jump line="558" column="12" filename="E:/WWWW/epsd.git/Gruntfile.js" />
       <jump line="23" column="20" filename="E:/WWWW/epsd.git/Gruntfile.js" />
       <jump line="275" column="45" filename="E:/WWWW/epsd.git/Gruntfile.js" />
@@ -328,10 +320,11 @@
       <jump line="670" column="17" filename="E:/WWWW/epsd.git/editor/src/js/base/core/parser.js" />
       <jump line="996" column="31" filename="E:/WWWW/epsd.git/editor/src/js/base/core/parser.js" />
       <jump line="26" column="0" filename="E:/WWWW/epsd.git/package.json" />
+      <jump line="143" column="70" filename="E:/WWWW/epsd.git/editor/src/js/base/module/ProtectedAreas.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>format</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHByb2ZpbGUoJ3JlbW92ZV9nb3RvJyk7Cg==</text>
       </register>
       <register name="-" type="4">
         <text>format</text>
@@ -340,7 +333,7 @@
         <text encoding="base64">XDxnZXRUb2tlblR5cGVcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS50aW1lRW5kKCdmb3JtYXRfdGltZScpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHByb2ZpbGUoJ3JlbW92ZV9nb3RvJyk7Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUudGltZSgnZm9ybWF0X3NhdmUnKTsK</text>

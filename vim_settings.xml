@@ -47,8 +47,8 @@
         <mark key="." line="2" column="19" />
         <mark key="^" line="2" column="19" />
       </file>
-      <file name="E:/WWWW/epsd.git/editor/src/js/base/core/parser.js" timestamp="1499075709709">
-        <mark key="'" line="273" column="35" />
+      <file name="E:/WWWW/epsd.git/editor/src/js/base/core/parser.js" timestamp="1499158917564">
+        <mark key="'" line="0" column="0" />
       </file>
       <file name="E:/WWWW/epsd.git/app/styles/main.css" timestamp="1496731792696">
         <mark key="'" line="107" column="0" />
@@ -94,10 +94,10 @@
       </file>
       <file name="E:/WWWW/epsd.git/Gruntfile.js" timestamp="1499140106183">
         <mark key="'" line="527" column="13" />
-        <mark key="[" line="574" column="0" />
-        <mark key="]" line="574" column="0" />
+        <mark key="[" line="573" column="0" />
+        <mark key="]" line="573" column="0" />
         <mark key="^" line="31" column="7" />
-        <mark key="." line="574" column="0" />
+        <mark key="." line="573" column="0" />
       </file>
       <file name="E:/WWWW/epsd.git/editor/src/js/base/core/agent.js" timestamp="1497957205648">
         <mark key="'" line="0" column="0" />
@@ -214,8 +214,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="314" column="27" filename="E:/WWWW/epsd.git/editor/src/js/base/core/parser.js" />
-      <jump line="992" column="0" filename="E:/WWWW/epsd.git/editor/src/js/base/core/parser.js" />
       <jump line="645" column="8" filename="E:/WWWW/epsd.git/editor/src/js/base/core/parser.js" />
       <jump line="0" column="0" filename="E:/WWWW/epsd.git/editor/src/js/bs3/settings.js" />
       <jump line="309" column="2" filename="E:/WWWW/epsd.git/editor/src/js/bs3/settings.js" />
@@ -314,6 +312,8 @@
       <jump line="284" column="16" filename="E:/WWWW/epsd.git/editor/src/js/bs3/module/ChoiceHandle.js" />
       <jump line="299" column="28" filename="E:/WWWW/epsd.git/editor/src/js/bs3/module/ChoiceHandle.js" />
       <jump line="17" column="12" filename="E:/WWWW/epsd.git/editor/src/js/bs3/module/ConditionHandle.js" />
+      <jump line="1494" column="45" filename="E:/WWWW/epsd.git/editor/src/js/base/core/parser.js" />
+      <jump line="0" column="0" filename="E:/WWWW/epsd.git/editor/src/js/base/core/parser.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">

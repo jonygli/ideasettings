@@ -89,12 +89,18 @@
         <mark key="." line="741" column="29" />
         <mark key="^" line="741" column="29" />
       </file>
+      <file name="E:/WWWW/epsd.git/editor/dist/epseditor.js" timestamp="1498198773018">
+        <mark key="'" line="2002" column="46" />
+      </file>
       <file name="E:/WWWW/epsd.git/Gruntfile.js" timestamp="1499140106183">
         <mark key="'" line="527" column="13" />
         <mark key="[" line="574" column="0" />
         <mark key="]" line="574" column="0" />
         <mark key="^" line="31" column="7" />
         <mark key="." line="574" column="0" />
+      </file>
+      <file name="E:/WWWW/epsd.git/editor/src/js/base/core/agent.js" timestamp="1497957205648">
+        <mark key="'" line="0" column="0" />
       </file>
       <file name="E:/WWWW/epsd.git/editor/src/js/base/module/Clipboard.js" timestamp="1497957689765">
         <mark key="'" line="0" column="0" />
@@ -117,11 +123,17 @@
       <file name="/JavaScript Console" timestamp="1495865542265">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="E:/WWWW/epsd.git/editor/src/js/bs3/module/ConditionHandle.js" timestamp="1499152921817">
+      <file name="E:/WWWW/epsd.git/editor/src/js/bs3/module/ConditionHandle.js" timestamp="1499153884483">
         <mark key="'" line="17" column="12" />
       </file>
       <file name="E:/WWWW/epsd.git/.jshintrc" timestamp="1495698324359">
         <mark key="[" line="13" column="20" />
+      </file>
+      <file name="E:/WWWW/epsd.git/editor/test/unit/base/core/range.spec.js" timestamp="1497951239718">
+        <mark key="'" line="0" column="0" />
+      </file>
+      <file name="E:/WWWW/epsd.git/editor/src/js/app.js" timestamp="1497959261049">
+        <mark key="'" line="14" column="5" />
       </file>
       <file name="/Dummy.txt" timestamp="1499152741489">
         <mark key="[" line="0" column="0" />
@@ -149,6 +161,12 @@
         <mark key="]" line="4" column="15" />
         <mark key="." line="4" column="11" />
       </file>
+      <file name="E:/WWWW/epsd.git/editor/src/js/base/editing/Style.js" timestamp="1497957601665">
+        <mark key="'" line="0" column="0" />
+      </file>
+      <file name="E:/WWWW/epsd.git/editor/index.html" timestamp="1498215484292">
+        <mark key="'" line="7" column="6" />
+      </file>
       <file name="E:/WWWW/epsd.git/editor/src/js/base/core/range.js" timestamp="1498735646437" />
       <file name="E:/WWWW/epsd.git/app/scripts/controllers/visual.js" timestamp="1497947268830">
         <mark key="'" line="15" column="38" />
@@ -170,6 +188,9 @@
         <mark key="]" line="102" column="33" />
         <mark key="^" line="102" column="33" />
         <mark key="." line="102" column="33" />
+      </file>
+      <file name="E:/WWWW/epsd.git/editor/test/unit/bs3/module/ConditionHandle.spec.js" timestamp="1498555064233">
+        <mark key="'" line="0" column="0" />
       </file>
       <file name="E:/WWWW/epsd.git/editor/README.md" timestamp="1496908266891">
         <mark key="'" line="18" column="43" />
@@ -288,11 +309,11 @@
       <jump line="171" column="13" filename="E:/WWWW/epsd.git/editor/src/js/bs3/module/ChoiceHandle.js" />
       <jump line="75" column="20" filename="E:/WWWW/epsd.git/editor/src/js/bs3/module/ChoiceHandle.js" />
       <jump line="207" column="44" filename="E:/WWWW/epsd.git/editor/src/js/bs3/module/ConditionHandle.js" />
-      <jump line="17" column="12" filename="E:/WWWW/epsd.git/editor/src/js/bs3/module/ConditionHandle.js" />
       <jump line="120" column="46" filename="E:/WWWW/epsd.git/editor/src/js/bs3/module/ChoiceHandle.js" />
       <jump line="14" column="12" filename="E:/WWWW/epsd.git/editor/src/js/bs3/module/ChoiceHandle.js" />
       <jump line="284" column="16" filename="E:/WWWW/epsd.git/editor/src/js/bs3/module/ChoiceHandle.js" />
       <jump line="299" column="28" filename="E:/WWWW/epsd.git/editor/src/js/bs3/module/ChoiceHandle.js" />
+      <jump line="17" column="12" filename="E:/WWWW/epsd.git/editor/src/js/bs3/module/ConditionHandle.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -302,7 +323,7 @@
         <text>format</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDx0eXBlXD4=</text>
+        <text encoding="base64">XDx0eXBlc1w+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgJ3N1YmdydW50OmVkaXRvcmRpc3QnLAogICAgICAgICAgICAnY29weTplcHNlZGl0b3InLAo=</text>
@@ -336,9 +357,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDx0eXBlXD4=</last-search>
+      <last-search encoding="base64">XDx0eXBlc1w+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDx0eXBlXD4=</last-pattern>
+      <last-pattern encoding="base64">XDx0eXBlc1w+</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxyZXF1aXJlXD4=</last-substitute>
       <last-dir>1</last-dir>
@@ -364,8 +385,8 @@
         <entry encoding="base64">XDxjaG9pY2VzXD4=</entry>
         <entry encoding="base64">XDxyZXNpemVUYWJzXD4=</entry>
         <entry encoding="base64">XDxuZXdDaG9pY2VGbGFnXD4=</entry>
-        <entry encoding="base64">XDx0eXBlc1w+</entry>
         <entry encoding="base64">XDx0eXBlXD4=</entry>
+        <entry encoding="base64">XDx0eXBlc1w+</entry>
       </history-search>
       <history-cmd />
       <history-expr />

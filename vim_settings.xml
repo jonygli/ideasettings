@@ -92,8 +92,8 @@
       <file name="E:/WWWW/epsd.git/editor/dist/epseditor.js" timestamp="1498198773018">
         <mark key="'" line="2002" column="46" />
       </file>
-      <file name="E:/WWWW/epsd.git/Gruntfile.js" timestamp="1499139339174">
-        <mark key="'" line="410" column="8" />
+      <file name="E:/WWWW/epsd.git/Gruntfile.js" timestamp="1499140106183">
+        <mark key="'" line="527" column="13" />
         <mark key="[" line="573" column="0" />
         <mark key="]" line="573" column="0" />
         <mark key="^" line="31" column="7" />
@@ -217,7 +217,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="320" column="57" filename="E:/WWWW/epsd.git/editor/src/js/base/core/parser.js" />
       <jump line="351" column="39" filename="E:/WWWW/epsd.git/editor/src/js/base/core/parser.js" />
       <jump line="352" column="40" filename="E:/WWWW/epsd.git/editor/src/js/base/core/parser.js" />
       <jump line="360" column="40" filename="E:/WWWW/epsd.git/editor/src/js/base/core/parser.js" />
@@ -314,9 +313,10 @@
       <jump line="176" column="78" filename="E:/WWWW/epsd.git/editor/src/js/bs3/module/ChoiceHandle.js" />
       <jump line="80" column="73" filename="E:/WWWW/epsd.git/editor/src/js/base/module/ProtectedAreas.js" />
       <jump line="370" column="48" filename="E:/WWWW/epsd.git/Gruntfile.js" />
-      <jump line="527" column="13" filename="E:/WWWW/epsd.git/Gruntfile.js" />
+      <jump line="553" column="9" filename="E:/WWWW/epsd.git/Gruntfile.js" />
       <jump line="76" column="52" filename="E:/WWWW/epsd.git/Gruntfile.js" />
       <jump line="410" column="8" filename="E:/WWWW/epsd.git/Gruntfile.js" />
+      <jump line="527" column="13" filename="E:/WWWW/epsd.git/Gruntfile.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">

@@ -34,7 +34,8 @@
         <mark key="." line="141" column="40" />
         <mark key="^" line="141" column="40" />
       </file>
-      <file name="E:/WWWW/epsd.git/editor/src/js/base/module/Caret.js" timestamp="1498706935243">
+      <file name="E:/WWWW/epsd.git/editor/src/js/base/module/Caret.js" timestamp="1499246223276">
+        <mark key="'" line="83" column="12" />
         <mark key="[" line="662" column="1" />
       </file>
       <file name="E:/WWWW/epsd.git/package.json" timestamp="1498824051048">
@@ -209,12 +210,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="670" column="17" filename="E:/WWWW/epsd.git/editor/src/js/base/core/parser.js" />
-      <jump line="996" column="31" filename="E:/WWWW/epsd.git/editor/src/js/base/core/parser.js" />
-      <jump line="26" column="0" filename="E:/WWWW/epsd.git/package.json" />
-      <jump line="143" column="70" filename="E:/WWWW/epsd.git/editor/src/js/base/module/ProtectedAreas.js" />
-      <jump line="145" column="19" filename="E:/WWWW/epsd.git/editor/src/js/base/core/parser.js" />
-      <jump line="161" column="19" filename="E:/WWWW/epsd.git/editor/src/js/base/core/parser.js" />
       <jump line="212" column="24" filename="E:/WWWW/epsd.git/editor/src/js/base/core/parser.js" />
       <jump line="446" column="48" filename="E:/WWWW/epsd.git/editor/src/js/base/core/parser.js" />
       <jump line="478" column="37" filename="E:/WWWW/epsd.git/editor/src/js/base/core/parser.js" />
@@ -309,6 +304,12 @@
       <jump line="249" column="44" filename="E:/WWWW/epsd.git/editor/src/js/base/core/parser.js" />
       <jump line="1196" column="43" filename="E:/WWWW/epsd.git/editor/src/js/base/core/parser.js" />
       <jump line="971" column="17" filename="E:/WWWW/epsd.git/editor/src/js/base/core/parser.js" />
+      <jump line="178" column="12" filename="E:/WWWW/epsd.git/editor/src/js/base/module/Caret.js" />
+      <jump line="145" column="50" filename="E:/WWWW/epsd.git/editor/src/js/base/module/Caret.js" />
+      <jump line="152" column="24" filename="E:/WWWW/epsd.git/editor/src/js/base/module/Caret.js" />
+      <jump line="129" column="32" filename="E:/WWWW/epsd.git/editor/src/js/base/module/Caret.js" />
+      <jump line="112" column="10" filename="E:/WWWW/epsd.git/editor/src/js/base/module/Caret.js" />
+      <jump line="83" column="12" filename="E:/WWWW/epsd.git/editor/src/js/base/module/Caret.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">

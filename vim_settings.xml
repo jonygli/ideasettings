@@ -45,8 +45,8 @@
         <mark key="." line="2" column="19" />
         <mark key="^" line="2" column="19" />
       </file>
-      <file name="E:/WWWW/epsd.git/editor/src/js/base/core/parser.js" timestamp="1499325123632">
-        <mark key="'" line="822" column="23" />
+      <file name="E:/WWWW/epsd.git/editor/src/js/base/core/parser.js" timestamp="1499326947895">
+        <mark key="'" line="522" column="49" />
         <mark key="[" line="185" column="71" />
         <mark key="]" line="186" column="11" />
         <mark key="^" line="186" column="11" />
@@ -217,9 +217,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="14" column="12" filename="E:/WWWW/epsd.git/editor/src/js/bs3/module/ChoiceHandle.js" />
-      <jump line="284" column="16" filename="E:/WWWW/epsd.git/editor/src/js/bs3/module/ChoiceHandle.js" />
-      <jump line="299" column="28" filename="E:/WWWW/epsd.git/editor/src/js/bs3/module/ChoiceHandle.js" />
       <jump line="17" column="12" filename="E:/WWWW/epsd.git/editor/src/js/bs3/module/ConditionHandle.js" />
       <jump line="1494" column="45" filename="E:/WWWW/epsd.git/editor/src/js/base/core/parser.js" />
       <jump line="0" column="0" filename="E:/WWWW/epsd.git/editor/src/js/base/core/parser.js" />
@@ -317,6 +314,9 @@
       <jump line="1329" column="51" filename="E:/WWWW/epsd.git/editor/src/js/base/core/parser.js" />
       <jump line="39" column="12" filename="E:/WWWW/epsd.git/editor/src/js/base/core/parser.js" />
       <jump line="822" column="23" filename="E:/WWWW/epsd.git/editor/src/js/base/core/parser.js" />
+      <jump line="1214" column="25" filename="E:/WWWW/epsd.git/editor/src/js/base/core/parser.js" />
+      <jump line="37" column="12" filename="E:/WWWW/epsd.git/editor/src/js/base/core/parser.js" />
+      <jump line="522" column="49" filename="E:/WWWW/epsd.git/editor/src/js/base/core/parser.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -326,7 +326,7 @@
         <text>format</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxUWVBFX0NPTU1BTkRcPg==</text>
+        <text encoding="base64">XDxUWVBFX0RJQUxPR1w+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgJ3N1YmdydW50OmVkaXRvcmRpc3QnLAogICAgICAgICAgICAnY29weTplcHNlZGl0b3InLAo=</text>
@@ -360,9 +360,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxUWVBFX0NPTU1BTkRcPg==</last-search>
+      <last-search encoding="base64">XDxUWVBFX0RJQUxPR1w+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxUWVBFX0NPTU1BTkRcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxUWVBFX0RJQUxPR1w+</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxyZXF1aXJlXD4=</last-substitute>
       <last-dir>1</last-dir>
@@ -370,7 +370,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxzY3JpcHRMaW5lTnVtYmVyXD4=</entry>
         <entry encoding="base64">XDxwcmVQYXJzZURvbVw+</entry>
         <entry encoding="base64">XDxkb21MaW5lTnVtYmVyXD4=</entry>
         <entry encoding="base64">XDxpc0xlZnRDYXJldFw+</entry>
@@ -390,6 +389,7 @@
         <entry encoding="base64">XDxjYXJldEVsZW1lbnRcPg==</entry>
         <entry encoding="base64">XDxwYXJzZUxhYmVsXD4=</entry>
         <entry encoding="base64">XDxUWVBFX0NPTU1BTkRcPg==</entry>
+        <entry encoding="base64">XDxUWVBFX0RJQUxPR1w+</entry>
       </history-search>
       <history-cmd />
       <history-expr />

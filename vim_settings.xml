@@ -34,8 +34,8 @@
         <mark key="." line="141" column="40" />
         <mark key="^" line="141" column="40" />
       </file>
-      <file name="E:/WWWW/epsd.git/editor/src/js/base/module/Caret.js" timestamp="1499247541187">
-        <mark key="'" line="40" column="28" />
+      <file name="E:/WWWW/epsd.git/editor/src/js/base/module/Caret.js" timestamp="1499341947724">
+        <mark key="'" line="127" column="28" />
         <mark key="[" line="662" column="1" />
       </file>
       <file name="E:/WWWW/epsd.git/package.json" timestamp="1498824051048">
@@ -60,12 +60,6 @@
         <mark key="." line="66" column="0" />
       </file>
       <file name="E:/WWWW/epsd.git/editor/test/unit/bs3/module/Toolbar.spec.js" timestamp="1497957076668" />
-      <file name="E:/WWWW/epsd.git/README.md" timestamp="1498549176824">
-        <mark key="[" line="17" column="56" />
-        <mark key="]" line="19" column="102" />
-        <mark key="." line="19" column="102" />
-        <mark key="^" line="19" column="102" />
-      </file>
       <file name="E:/WWWW/epsd.git/editor/test/unit/bs3/module/Buttons.spec.js" timestamp="1497960357105">
         <mark key="'" line="23" column="3" />
         <mark key="[" line="20" column="5" />
@@ -81,7 +75,7 @@
         <mark key="^" line="69" column="64" />
       </file>
       <file name="E:/WWWW/epsd.git/editor/src/js/base/module/Statusbar.js" timestamp="1498735278981" />
-      <file name="E:/WWWW/epsd.git/editor/src/js/bs3/module/HoverCursor.js" timestamp="1499248497821">
+      <file name="E:/WWWW/epsd.git/editor/src/js/bs3/module/HoverCursor.js" timestamp="1499340846788">
         <mark key="'" line="193" column="19" />
         <mark key="[" line="193" column="102" />
         <mark key="]" line="193" column="19" />
@@ -91,11 +85,11 @@
       <file name="/" timestamp="1494989021458">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="E:/WWWW/epsd.git/editor/src/js/base/module/Editor.js" timestamp="1499079962364">
-        <mark key="'" line="771" column="0" />
-        <mark key="[" line="741" column="27" />
-        <mark key="]" line="741" column="29" />
-        <mark key="." line="741" column="29" />
+      <file name="E:/WWWW/epsd.git/editor/src/js/base/module/Editor.js" timestamp="1499342040772">
+        <mark key="'" line="900" column="43" />
+        <mark key="[" line="778" column="0" />
+        <mark key="]" line="778" column="0" />
+        <mark key="." line="778" column="0" />
         <mark key="^" line="741" column="29" />
       </file>
       <file name="E:/WWWW/epsd.git/editor/dist/epseditor.js" timestamp="1498198773018">
@@ -117,7 +111,8 @@
         <mark key="]" line="60" column="67" />
         <mark key="." line="60" column="67" />
       </file>
-      <file name="E:/WWWW/epsd.git/editor/src/js/base/core/dom.js" timestamp="1498716316994">
+      <file name="E:/WWWW/epsd.git/editor/src/js/base/core/dom.js" timestamp="1499341721858">
+        <mark key="'" line="1173" column="24" />
         <mark key="[" line="1146" column="41" />
         <mark key="]" line="1146" column="39" />
         <mark key="^" line="1146" column="39" />
@@ -138,7 +133,7 @@
       <file name="E:/WWWW/epsd.git/editor/src/js/app.js" timestamp="1497959261049">
         <mark key="'" line="14" column="5" />
       </file>
-      <file name="/Dummy.txt" timestamp="1499323181018">
+      <file name="/Dummy.txt" timestamp="1499342216096">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="E:/LLLL/anduo.git/js/grunt_minify/app.js" timestamp="1495435091926">
@@ -151,8 +146,8 @@
         <mark key="." line="164" column="33" />
         <mark key="^" line="162" column="33" />
       </file>
-      <file name="E:/WWWW/epsd.git/editor/src/js/base/module/ProtectedAreas.js" timestamp="1499135381130">
-        <mark key="'" line="80" column="73" />
+      <file name="E:/WWWW/epsd.git/editor/src/js/base/module/ProtectedAreas.js" timestamp="1499342131141">
+        <mark key="'" line="200" column="16" />
         <mark key="[" line="14" column="25" />
         <mark key="]" line="14" column="25" />
         <mark key="." line="14" column="25" />
@@ -170,7 +165,10 @@
       <file name="E:/WWWW/epsd.git/editor/index.html" timestamp="1498215484292">
         <mark key="'" line="7" column="6" />
       </file>
-      <file name="E:/WWWW/epsd.git/editor/src/js/base/core/range.js" timestamp="1498735646437" />
+      <file name="E:/WWWW/epsd.git/editor/src/js/base/core/range.js" timestamp="1499341833289">
+        <mark key="'" line="83" column="54" />
+        <mark key="[" line="809" column="24" />
+      </file>
       <file name="E:/WWWW/epsd.git/app/scripts/controllers/visual.js" timestamp="1497947268830">
         <mark key="'" line="15" column="38" />
         <mark key="[" line="26" column="16" />
@@ -185,12 +183,12 @@
         <mark key="." line="10" column="20" />
         <mark key="^" line="10" column="20" />
       </file>
-      <file name="E:/WWWW/epsd.git/editor/src/js/bs3/module/GotoHandle.js" timestamp="1499141266691">
-        <mark key="'" line="102" column="33" />
-        <mark key="[" line="99" column="31" />
-        <mark key="]" line="102" column="33" />
-        <mark key="^" line="102" column="33" />
-        <mark key="." line="102" column="33" />
+      <file name="E:/WWWW/epsd.git/editor/src/js/bs3/module/GotoHandle.js" timestamp="1499342240586">
+        <mark key="'" line="12" column="44" />
+        <mark key="[" line="87" column="29" />
+        <mark key="]" line="87" column="29" />
+        <mark key="^" line="87" column="29" />
+        <mark key="." line="87" column="29" />
       </file>
       <file name="E:/WWWW/epsd.git/editor/test/unit/bs3/module/ConditionHandle.spec.js" timestamp="1498555064233">
         <mark key="'" line="0" column="0" />
@@ -217,22 +215,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1501" column="17" filename="E:/WWWW/epsd.git/editor/src/js/base/core/parser.js" />
-      <jump line="1574" column="24" filename="E:/WWWW/epsd.git/editor/src/js/base/core/parser.js" />
-      <jump line="1595" column="58" filename="E:/WWWW/epsd.git/editor/src/js/base/core/parser.js" />
-      <jump line="1217" column="87" filename="E:/WWWW/epsd.git/editor/src/js/base/core/parser.js" />
-      <jump line="1596" column="45" filename="E:/WWWW/epsd.git/editor/src/js/base/core/parser.js" />
-      <jump line="1602" column="49" filename="E:/WWWW/epsd.git/editor/src/js/base/core/parser.js" />
-      <jump line="159" column="25" filename="E:/WWWW/epsd.git/editor/src/js/base/core/parser.js" />
-      <jump line="163" column="31" filename="E:/WWWW/epsd.git/editor/src/js/base/core/parser.js" />
-      <jump line="164" column="33" filename="E:/WWWW/epsd.git/editor/src/js/base/core/parser.js" />
-      <jump line="162" column="17" filename="E:/WWWW/epsd.git/editor/src/js/base/core/parser.js" />
-      <jump line="1483" column="29" filename="E:/WWWW/epsd.git/editor/src/js/base/core/parser.js" />
-      <jump line="1568" column="17" filename="E:/WWWW/epsd.git/editor/src/js/base/core/parser.js" />
-      <jump line="1711" column="28" filename="E:/WWWW/epsd.git/editor/src/js/base/core/parser.js" />
-      <jump line="1418" column="29" filename="E:/WWWW/epsd.git/editor/src/js/base/core/parser.js" />
-      <jump line="1476" column="66" filename="E:/WWWW/epsd.git/editor/src/js/base/core/parser.js" />
-      <jump line="1379" column="17" filename="E:/WWWW/epsd.git/editor/src/js/base/core/parser.js" />
       <jump line="205" column="19" filename="E:/WWWW/epsd.git/editor/src/js/base/core/parser.js" />
       <jump line="181" column="17" filename="E:/WWWW/epsd.git/editor/src/js/base/core/parser.js" />
       <jump line="207" column="19" filename="E:/WWWW/epsd.git/editor/src/js/base/core/parser.js" />
@@ -317,52 +299,68 @@
       <jump line="150" column="22" filename="E:/WWWW/epsd.git/editor/src/js/base/core/parser.js" />
       <jump line="1316" column="24" filename="E:/WWWW/epsd.git/editor/src/js/base/core/parser.js" />
       <jump line="1534" column="39" filename="E:/WWWW/epsd.git/editor/src/js/base/core/parser.js" />
+      <jump line="15" column="37" filename="E:/WWWW/epsd.git/editor/src/js/base/module/ProtectedAreas.js" />
+      <jump line="43" column="30" filename="E:/WWWW/epsd.git/editor/src/js/base/module/ProtectedAreas.js" />
+      <jump line="1148" column="25" filename="E:/WWWW/epsd.git/editor/src/js/base/core/dom.js" />
+      <jump line="1156" column="12" filename="E:/WWWW/epsd.git/editor/src/js/base/core/dom.js" />
+      <jump line="1588" column="47" filename="E:/WWWW/epsd.git/editor/src/js/base/core/dom.js" />
+      <jump line="1173" column="24" filename="E:/WWWW/epsd.git/editor/src/js/base/core/dom.js" />
+      <jump line="83" column="54" filename="E:/WWWW/epsd.git/editor/src/js/base/core/range.js" />
+      <jump line="157" column="24" filename="E:/WWWW/epsd.git/editor/src/js/base/module/Caret.js" />
+      <jump line="57" column="52" filename="E:/WWWW/epsd.git/editor/src/js/base/module/Caret.js" />
+      <jump line="102" column="24" filename="E:/WWWW/epsd.git/editor/src/js/base/module/Caret.js" />
+      <jump line="127" column="28" filename="E:/WWWW/epsd.git/editor/src/js/base/module/Caret.js" />
+      <jump line="901" column="43" filename="E:/WWWW/epsd.git/editor/src/js/base/module/Editor.js" />
+      <jump line="200" column="16" filename="E:/WWWW/epsd.git/editor/src/js/base/module/ProtectedAreas.js" />
+      <jump line="47" column="0" filename="E:/WWWW/epsd.git/editor/src/js/bs3/module/GotoHandle.js" />
+      <jump line="87" column="26" filename="E:/WWWW/epsd.git/editor/src/js/bs3/module/GotoHandle.js" />
+      <jump line="12" column="44" filename="E:/WWWW/epsd.git/editor/src/js/bs3/module/GotoHandle.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGhpcy4kcmlnaHRIb3ZlckN1cnNvci5ibHVyKCk7CiAgICAgICAgICAgIHRoaXMuJHJpZ2h0SG92ZXJDdXJzb3IucG9wb3ZlcignaGlkZScpOwogICAgICAgICAgICB2YXIgcmlnaHRUb3BZID0gcG9zWSAtIGNvbnRleHQubGF5b3V0SW5mby5lZGl0b3JSaWdodFNpZGVQYW5lbC5vZmZzZXQoKS50b3AgLSAxNDsKICAgICAgICAgICAgdmFyIGhpZ2hsaWdoVG9wWSA9IHBvc1kgLSBjb250ZXh0LmxheW91dEluZm8uZWRpdG9yQ29udGFpbmVyUGFuZWwub2Zmc2V0KCkudG9wIC0gMTQ7CiAgICAgICAgICAgIHZhciBsZWZ0VG9wWSA9IHBvc1kgLSBjb250ZXh0LmxheW91dEluZm8uZWRpdG9yTGVmdFNpZGVQYW5lbC5vZmZzZXQoKS50b3AgLSAxNDsKICAgICAgICAgICAgLy9yZS1hZGp1c3QgaG92ZXIgY3Vyc29yIHBvc2l0aW9uLiBwcmV2ZW50IGl0IG1vdmUgb3V0IG9mIGVkaXRvcgogICAgICAgICAgICBpZiAocmlnaHRUb3BZIDwgMCkgewogICAgICAgICAgICAgICAgcmlnaHRUb3BZID0gMDsKICAgICAgICAgICAgfQogICAgICAgICAgICBpZiAoaGlnaGxpZ2hUb3BZIDwgMCkgewogICAgICAgICAgICAgICAgaGlnaGxpZ2hUb3BZID0gMDsKICAgICAgICAgICAgfQogICAgICAgICAgICBpZiAobGVmdFRvcFkgPCAwKSB7CiAgICAgICAgICAgICAgICBsZWZ0VG9wWSA9IDA7CiAgICAgICAgICAgIH0KICAgICAgICAgICAgaWYgKHJpZ2h0VG9wWSA+IGNsaWVudEhlaWdodCkgewogICAgICAgICAgICAgICAgcmlnaHRUb3BZID0gY2xpZW50SGVpZ2h0OwogICAgICAgICAgICB9CiAgICAgICAgICAgIGlmIChoaWdobGlnaFRvcFkgPiBjbGllbnRIZWlnaHQpIHsKICAgICAgICAgICAgICAgIGhpZ2hsaWdoVG9wWSA9IGNsaWVudEhlaWdodDsKICAgICAgICAgICAgfQogICAgICAgICAgICBpZiAobGVmdFRvcFkgPiBjbGllbnRIZWlnaHQpIHsKICAgICAgICAgICAgICAgIGxlZnRUb3BZID0gY2xpZW50SGVpZ2h0OwogICAgICAgICAgICB9CiAgICAgICAgICAgIC8vc2V0IHJpZ2h0IGhvdmVyIGN1cnNvciBwb3NpdGlvbgogICAgICAgICAgICB0aGlzLiRyaWdodEhvdmVyQ3Vyc29yLmNzcyh7CiAgICAgICAgICAgICAgICAndG9wJzogcmlnaHRUb3BZCiAgICAgICAgICAgIH0pOwoKICAgICAgICAgICAgLy9zZXQgaGlnaGxpZ2h0IGN1cnNvciBwb3NpdGlvbgogICAgICAgICAgICB0aGlzLiRoaWdobGlnaHRIb3ZlckN1cnNvci5jc3MoewogICAgICAgICAgICAgICAgJ3dpZHRoJzogY29udGV4dC5sYXlvdXRJbmZvLmVkaXRvckNvbnRhaW5lclBhbmVsLndpZHRoKCkgKyBjb250ZXh0LmxheW91dEluZm8uZWRpdG9yTGVmdFNpZGVQYW5lbC53aWR0aCgpLAogICAgICAgICAgICAgICAgJ3RvcCcgIDogaGlnaGxpZ2hUb3BZCiAgICAgICAgICAgIH0pOwoKICAgICAgICAgICAgLy9zZXQgbGVmdCBob3ZlciBjdXJzb3IgcG9zaXRpb24KICAgICAgICAgICAgdGhpcy4kbGVmdEhvdmVyQ3Vyc29yLmNzcyh7CiAgICAgICAgICAgICAgICAndG9wJzogbGVmdFRvcFkKICAgICAgICAgICAgfSk7Cgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8gdmFyIHJuZyA9IHRoaXMuY3JlYXRlUmFuZ2UoKS5kZWxldGVDb250ZW50cygpOwo=</text>
       </register>
       <register name="-" type="4">
         <text>format</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxIVE1MX0VNUFRZX0xJTkVcPg==</text>
+        <text encoding="base64">XDxlZGl0YWJsZVw+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgJ3N1YmdydW50OmVkaXRvcmRpc3QnLAogICAgICAgICAgICAnY29weTplcHNlZGl0b3InLAo=</text>
       </register>
       <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgLy8gdmFyIHJuZyA9IHRoaXMuY3JlYXRlUmFuZ2UoKS5kZWxldGVDb250ZW50cygpOwo=</text>
+      </register>
+      <register name="2" type="2">
         <text encoding="base64">ICAgICAgICAgICAgdGhpcy4kcmlnaHRIb3ZlckN1cnNvci5ibHVyKCk7CiAgICAgICAgICAgIHRoaXMuJHJpZ2h0SG92ZXJDdXJzb3IucG9wb3ZlcignaGlkZScpOwogICAgICAgICAgICB2YXIgcmlnaHRUb3BZID0gcG9zWSAtIGNvbnRleHQubGF5b3V0SW5mby5lZGl0b3JSaWdodFNpZGVQYW5lbC5vZmZzZXQoKS50b3AgLSAxNDsKICAgICAgICAgICAgdmFyIGhpZ2hsaWdoVG9wWSA9IHBvc1kgLSBjb250ZXh0LmxheW91dEluZm8uZWRpdG9yQ29udGFpbmVyUGFuZWwub2Zmc2V0KCkudG9wIC0gMTQ7CiAgICAgICAgICAgIHZhciBsZWZ0VG9wWSA9IHBvc1kgLSBjb250ZXh0LmxheW91dEluZm8uZWRpdG9yTGVmdFNpZGVQYW5lbC5vZmZzZXQoKS50b3AgLSAxNDsKICAgICAgICAgICAgLy9yZS1hZGp1c3QgaG92ZXIgY3Vyc29yIHBvc2l0aW9uLiBwcmV2ZW50IGl0IG1vdmUgb3V0IG9mIGVkaXRvcgogICAgICAgICAgICBpZiAocmlnaHRUb3BZIDwgMCkgewogICAgICAgICAgICAgICAgcmlnaHRUb3BZID0gMDsKICAgICAgICAgICAgfQogICAgICAgICAgICBpZiAoaGlnaGxpZ2hUb3BZIDwgMCkgewogICAgICAgICAgICAgICAgaGlnaGxpZ2hUb3BZID0gMDsKICAgICAgICAgICAgfQogICAgICAgICAgICBpZiAobGVmdFRvcFkgPCAwKSB7CiAgICAgICAgICAgICAgICBsZWZ0VG9wWSA9IDA7CiAgICAgICAgICAgIH0KICAgICAgICAgICAgaWYgKHJpZ2h0VG9wWSA+IGNsaWVudEhlaWdodCkgewogICAgICAgICAgICAgICAgcmlnaHRUb3BZID0gY2xpZW50SGVpZ2h0OwogICAgICAgICAgICB9CiAgICAgICAgICAgIGlmIChoaWdobGlnaFRvcFkgPiBjbGllbnRIZWlnaHQpIHsKICAgICAgICAgICAgICAgIGhpZ2hsaWdoVG9wWSA9IGNsaWVudEhlaWdodDsKICAgICAgICAgICAgfQogICAgICAgICAgICBpZiAobGVmdFRvcFkgPiBjbGllbnRIZWlnaHQpIHsKICAgICAgICAgICAgICAgIGxlZnRUb3BZID0gY2xpZW50SGVpZ2h0OwogICAgICAgICAgICB9CiAgICAgICAgICAgIC8vc2V0IHJpZ2h0IGhvdmVyIGN1cnNvciBwb3NpdGlvbgogICAgICAgICAgICB0aGlzLiRyaWdodEhvdmVyQ3Vyc29yLmNzcyh7CiAgICAgICAgICAgICAgICAndG9wJzogcmlnaHRUb3BZCiAgICAgICAgICAgIH0pOwoKICAgICAgICAgICAgLy9zZXQgaGlnaGxpZ2h0IGN1cnNvciBwb3NpdGlvbgogICAgICAgICAgICB0aGlzLiRoaWdobGlnaHRIb3ZlckN1cnNvci5jc3MoewogICAgICAgICAgICAgICAgJ3dpZHRoJzogY29udGV4dC5sYXlvdXRJbmZvLmVkaXRvckNvbnRhaW5lclBhbmVsLndpZHRoKCkgKyBjb250ZXh0LmxheW91dEluZm8uZWRpdG9yTGVmdFNpZGVQYW5lbC53aWR0aCgpLAogICAgICAgICAgICAgICAgJ3RvcCcgIDogaGlnaGxpZ2hUb3BZCiAgICAgICAgICAgIH0pOwoKICAgICAgICAgICAgLy9zZXQgbGVmdCBob3ZlciBjdXJzb3IgcG9zaXRpb24KICAgICAgICAgICAgdGhpcy4kbGVmdEhvdmVyQ3Vyc29yLmNzcyh7CiAgICAgICAgICAgICAgICAndG9wJzogbGVmdFRvcFkKICAgICAgICAgICAgfSk7Cgo=</text>
       </register>
-      <register name="2" type="4">
+      <register name="3" type="4">
         <text encoding="base64">ICAgICAgICAgICAvL3NldCByaWdodCBob3ZlciBjdXJzb3IgY29udGV4dCBtZW51CiAgICAgICAgICAgICAgICB0aGlzLiRyaWdodEhvdmVyQ3Vyc29yLmRhdGEoJ2JzLnBvcG92ZXInKS5vcHRpb25zLmNvbnRlbnQgPSBzZWxmLmdldENvbnRleHRNZW51QnlUYXJnZXQoJHRyYWNrRG9tWzBdKTs=</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgY2FyZXRJbmRleCA9IHByb2Nlc3NDYXJldChwcmVHb3RvTGFiZWxOYW1lLCBnb3RvTGFiZWxOYW1lKTsK</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIGFzc2VydCgpOwo=</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIGdyb3Vwcy50YWJzID0gZG9jdW1lbnQuZ2V0RWxlbWVudHNCeUNsYXNzTmFtZShkYXRhLnRhYnNHcm91cCk7Cg==</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAnYnVpbGQnLAo=</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAvLyAndGVzdCcsCg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAvLyAncmVtb3ZlbG9nZ2luZycsCg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUudGltZSgnZm9ybWF0X3NhdmUnKTsK</text>
+        <text encoding="base64">ICAgICAgICAvLyAncmVtb3ZlbG9nZ2luZycsCg==</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxIVE1MX0VNUFRZX0xJTkVcPg==</last-search>
+      <last-search encoding="base64">XDxlZGl0YWJsZVw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxIVE1MX0VNUFRZX0xJTkVcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxlZGl0YWJsZVw+</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxyZXF1aXJlXD4=</last-substitute>
       <last-dir>1</last-dir>
@@ -370,10 +368,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxpc0xlZnRDYXJldFw+</entry>
-        <entry encoding="base64">XDxyZW5kZXJMYWJlbFw+</entry>
-        <entry encoding="base64">XDxwYXJzZURvbVw+</entry>
-        <entry encoding="base64">XDxyZW5kZXJHb3RvXD4=</entry>
         <entry encoding="base64">XDxyZW5kZXJDb25kaXRpb25cPg==</entry>
         <entry encoding="base64">XDxyZW5kZXJEaWFsb2dcPg==</entry>
         <entry encoding="base64">XDxwcmVHb3RvTGFiZWxOYW1lXD4=</entry>
@@ -390,6 +384,10 @@
         <entry encoding="base64">XDxUWVBFX0RJQUxPR1w+</entry>
         <entry encoding="base64">XDxyZW5kZXJMaW5lXD4=</entry>
         <entry encoding="base64">XDxIVE1MX0VNUFRZX0xJTkVcPg==</entry>
+        <entry encoding="base64">XDxnZXRUaXRpbGVJblRhYlw+</entry>
+        <entry>setTimeout</entry>
+        <entry encoding="base64">XDxlZGlhYmxlXD4=</entry>
+        <entry encoding="base64">XDxlZGl0YWJsZVw+</entry>
       </history-search>
       <history-cmd />
       <history-expr />

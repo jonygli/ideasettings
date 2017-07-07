@@ -146,8 +146,8 @@
         <mark key="." line="164" column="33" />
         <mark key="^" line="162" column="33" />
       </file>
-      <file name="E:/WWWW/epsd.git/editor/src/js/base/module/ProtectedAreas.js" timestamp="1499412427246">
-        <mark key="'" line="223" column="0" />
+      <file name="E:/WWWW/epsd.git/editor/src/js/base/module/ProtectedAreas.js" timestamp="1499419424848">
+        <mark key="'" line="54" column="58" />
         <mark key="[" line="14" column="25" />
         <mark key="]" line="14" column="25" />
         <mark key="." line="14" column="25" />
@@ -209,8 +209,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="129" column="32" filename="E:/WWWW/epsd.git/editor/src/js/base/module/Caret.js" />
-      <jump line="112" column="10" filename="E:/WWWW/epsd.git/editor/src/js/base/module/Caret.js" />
       <jump line="83" column="12" filename="E:/WWWW/epsd.git/editor/src/js/base/module/Caret.js" />
       <jump line="109" column="65" filename="E:/WWWW/epsd.git/editor/src/js/base/module/Caret.js" />
       <jump line="18" column="12" filename="E:/WWWW/epsd.git/editor/src/js/base/module/Caret.js" />
@@ -309,6 +307,8 @@
       <jump line="1607" column="20" filename="E:/WWWW/epsd.git/editor/src/js/base/core/parser.js" />
       <jump line="1613" column="20" filename="E:/WWWW/epsd.git/editor/src/js/base/core/parser.js" />
       <jump line="1615" column="40" filename="E:/WWWW/epsd.git/editor/src/js/base/core/parser.js" />
+      <jump line="166" column="48" filename="E:/WWWW/epsd.git/editor/src/js/base/module/ProtectedAreas.js" />
+      <jump line="54" column="58" filename="E:/WWWW/epsd.git/editor/src/js/base/module/ProtectedAreas.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">

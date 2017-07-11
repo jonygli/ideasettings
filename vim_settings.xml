@@ -153,9 +153,9 @@
         <mark key="^" line="133" column="47" />
         <mark key="." line="133" column="45" />
       </file>
-      <file name="E:/WWWW/epsd.git/editor/src/js/base/module/ProtectedAreas.js" timestamp="1499736381230">
-        <mark key="'" line="81" column="20" />
-        <mark key="[" line="14" column="25" />
+      <file name="E:/WWWW/epsd.git/editor/src/js/base/module/ProtectedAreas.js" timestamp="1499744029151">
+        <mark key="'" line="253" column="3" />
+        <mark key="[" line="82" column="17" />
         <mark key="]" line="14" column="25" />
         <mark key="." line="14" column="25" />
         <mark key="^" line="14" column="25" />
@@ -216,9 +216,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1356" column="61" filename="E:/WWWW/epsd.git/editor/src/js/base/core/parser.js" />
-      <jump line="1745" column="52" filename="E:/WWWW/epsd.git/editor/src/js/base/core/parser.js" />
-      <jump line="1336" column="52" filename="E:/WWWW/epsd.git/editor/src/js/base/core/parser.js" />
       <jump line="1362" column="52" filename="E:/WWWW/epsd.git/editor/src/js/base/core/parser.js" />
       <jump line="1384" column="48" filename="E:/WWWW/epsd.git/editor/src/js/base/core/parser.js" />
       <jump line="1432" column="52" filename="E:/WWWW/epsd.git/editor/src/js/base/core/parser.js" />
@@ -316,6 +313,9 @@
       <jump line="170" column="57" filename="E:/WWWW/epsd.git/editor/src/js/base/module/ProtectedAreas.js" />
       <jump line="81" column="20" filename="E:/WWWW/epsd.git/editor/src/js/base/module/ProtectedAreas.js" />
       <jump line="161" column="36" filename="E:/WWWW/epsd.git/editor/test/unit/base/module/Editor.spec.js" />
+      <jump line="31" column="37" filename="E:/WWWW/epsd.git/editor/src/js/base/module/ProtectedAreas.js" />
+      <jump line="152" column="109" filename="E:/WWWW/epsd.git/editor/src/js/base/module/ProtectedAreas.js" />
+      <jump line="253" column="3" filename="E:/WWWW/epsd.git/editor/src/js/base/module/ProtectedAreas.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -325,7 +325,7 @@
         <text>updateCode</text>
       </register>
       <register name="/" type="4">
-        <text>GoToStart</text>
+        <text encoding="base64">XDxCYWNrc3BhY2VcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIHRoaXMudHJpZ2dlckV2ZW50KCd1cGRhdGVDb2RlJyk7Cg==</text>
@@ -359,9 +359,9 @@
       </register>
     </registers>
     <search>
-      <last-search>GoToStart</last-search>
+      <last-search encoding="base64">XDxCYWNrc3BhY2VcPg==</last-search>
       <last-offset />
-      <last-pattern>GoToStart</last-pattern>
+      <last-pattern encoding="base64">XDxCYWNrc3BhY2VcPg==</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxyZXF1aXJlXD4=</last-substitute>
       <last-dir>1</last-dir>
@@ -369,7 +369,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxwYXJzZUxhYmVsXD4=</entry>
         <entry encoding="base64">XDxUWVBFX0NPTU1BTkRcPg==</entry>
         <entry encoding="base64">XDxUWVBFX0RJQUxPR1w+</entry>
         <entry encoding="base64">XDxyZW5kZXJMaW5lXD4=</entry>
@@ -389,6 +388,7 @@
         <entry>Backspace</entry>
         <entry>gotostart</entry>
         <entry>GoToStart</entry>
+        <entry encoding="base64">XDxCYWNrc3BhY2VcPg==</entry>
       </history-search>
       <history-cmd />
       <history-expr />

@@ -190,8 +190,8 @@
         <mark key="." line="10" column="20" />
         <mark key="^" line="10" column="20" />
       </file>
-      <file name="E:/WWWW/epsd.git/editor/src/js/bs3/module/GotoHandle.js" timestamp="1499389715272">
-        <mark key="'" line="12" column="44" />
+      <file name="E:/WWWW/epsd.git/editor/src/js/bs3/module/GotoHandle.js" timestamp="1499746574578">
+        <mark key="'" line="84" column="0" />
         <mark key="[" line="87" column="29" />
         <mark key="]" line="87" column="29" />
         <mark key="^" line="87" column="29" />
@@ -216,7 +216,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1362" column="52" filename="E:/WWWW/epsd.git/editor/src/js/base/core/parser.js" />
       <jump line="1384" column="48" filename="E:/WWWW/epsd.git/editor/src/js/base/core/parser.js" />
       <jump line="1432" column="52" filename="E:/WWWW/epsd.git/editor/src/js/base/core/parser.js" />
       <jump line="1496" column="56" filename="E:/WWWW/epsd.git/editor/src/js/base/core/parser.js" />
@@ -316,6 +315,7 @@
       <jump line="31" column="37" filename="E:/WWWW/epsd.git/editor/src/js/base/module/ProtectedAreas.js" />
       <jump line="152" column="109" filename="E:/WWWW/epsd.git/editor/src/js/base/module/ProtectedAreas.js" />
       <jump line="253" column="3" filename="E:/WWWW/epsd.git/editor/src/js/base/module/ProtectedAreas.js" />
+      <jump line="84" column="0" filename="E:/WWWW/epsd.git/editor/src/js/bs3/module/GotoHandle.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">

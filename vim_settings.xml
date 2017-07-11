@@ -75,12 +75,12 @@
         <mark key="." line="20" column="3" />
         <mark key="^" line="20" column="3" />
       </file>
-      <file name="E:/WWWW/epsd.git/editor/src/js/bs3/module/ChoiceHandle.js" timestamp="1499759679324">
-        <mark key="'" line="197" column="13" />
-        <mark key="[" line="67" column="0" />
-        <mark key="]" line="67" column="0" />
-        <mark key="." line="67" column="0" />
-        <mark key="^" line="69" column="64" />
+      <file name="E:/WWWW/epsd.git/editor/src/js/bs3/module/ChoiceHandle.js" timestamp="1499761718523">
+        <mark key="'" line="82" column="65" />
+        <mark key="[" line="136" column="27" />
+        <mark key="]" line="136" column="29" />
+        <mark key="." line="136" column="29" />
+        <mark key="^" line="136" column="29" />
       </file>
       <file name="E:/WWWW/epsd.git/editor/src/js/bs3/module/HoverCursor.js" timestamp="1499758630624">
         <mark key="'" line="34" column="61" />
@@ -140,6 +140,9 @@
       <file name="E:/WWWW/epsd.git/editor/src/js/app.js" timestamp="1497959261049">
         <mark key="'" line="14" column="5" />
       </file>
+      <file name="E:/WWWW/epsd.git/editor/src/less/epseditor.less" timestamp="1499761188247">
+        <mark key="'" line="722" column="4" />
+      </file>
       <file name="/Dummy.txt" timestamp="1499759098552">
         <mark key="[" line="0" column="0" />
       </file>
@@ -159,6 +162,9 @@
         <mark key="]" line="14" column="25" />
         <mark key="." line="14" column="25" />
         <mark key="^" line="14" column="25" />
+      </file>
+      <file name="E:/WWWW/epsd.git/editor/src/less/elements.less" timestamp="1499760746177">
+        <mark key="'" line="173" column="0" />
       </file>
       <file name="E:/WWWW/epsd.git/editor/src/js/base/editing/Style.js" timestamp="1497957601665">
         <mark key="'" line="0" column="0" />
@@ -216,19 +222,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1584" column="36" filename="E:/WWWW/epsd.git/editor/src/js/base/core/parser.js" />
-      <jump line="1647" column="38" filename="E:/WWWW/epsd.git/editor/src/js/base/core/parser.js" />
-      <jump line="1682" column="30" filename="E:/WWWW/epsd.git/editor/src/js/base/core/parser.js" />
-      <jump line="48" column="12" filename="E:/WWWW/epsd.git/editor/src/js/base/core/parser.js" />
-      <jump line="1328" column="16" filename="E:/WWWW/epsd.git/editor/src/js/base/core/parser.js" />
-      <jump line="1324" column="17" filename="E:/WWWW/epsd.git/editor/src/js/base/core/parser.js" />
-      <jump line="1662" column="37" filename="E:/WWWW/epsd.git/editor/src/js/base/core/parser.js" />
-      <jump line="1329" column="51" filename="E:/WWWW/epsd.git/editor/src/js/base/core/parser.js" />
-      <jump line="39" column="12" filename="E:/WWWW/epsd.git/editor/src/js/base/core/parser.js" />
-      <jump line="822" column="23" filename="E:/WWWW/epsd.git/editor/src/js/base/core/parser.js" />
-      <jump line="1214" column="25" filename="E:/WWWW/epsd.git/editor/src/js/base/core/parser.js" />
-      <jump line="37" column="12" filename="E:/WWWW/epsd.git/editor/src/js/base/core/parser.js" />
-      <jump line="522" column="49" filename="E:/WWWW/epsd.git/editor/src/js/base/core/parser.js" />
       <jump line="820" column="40" filename="E:/WWWW/epsd.git/editor/src/js/base/core/parser.js" />
       <jump line="173" column="18" filename="E:/WWWW/epsd.git/editor/src/js/base/core/parser.js" />
       <jump line="196" column="18" filename="E:/WWWW/epsd.git/editor/src/js/base/core/parser.js" />
@@ -313,22 +306,35 @@
       <jump line="47" column="17" filename="E:/WWWW/epsd.git/editor/src/js/bs3/module/ChoiceHandle.js" />
       <jump line="54" column="17" filename="E:/WWWW/epsd.git/editor/src/js/bs3/module/ChoiceHandle.js" />
       <jump line="60" column="13" filename="E:/WWWW/epsd.git/editor/src/js/bs3/module/ChoiceHandle.js" />
-      <jump line="251" column="17" filename="E:/WWWW/epsd.git/editor/src/js/bs3/module/ChoiceHandle.js" />
       <jump line="89" column="25" filename="E:/WWWW/epsd.git/editor/src/js/bs3/module/ChoiceHandle.js" />
       <jump line="197" column="13" filename="E:/WWWW/epsd.git/editor/src/js/bs3/module/ChoiceHandle.js" />
+      <jump line="251" column="17" filename="E:/WWWW/epsd.git/editor/src/js/bs3/module/ChoiceHandle.js" />
+      <jump line="0" column="0" filename="E:/WWWW/epsd.git/editor/src/less/elements.less" />
+      <jump line="173" column="0" filename="E:/WWWW/epsd.git/editor/src/less/elements.less" />
+      <jump line="13" column="17" filename="E:/WWWW/epsd.git/editor/src/less/epseditor.less" />
+      <jump line="711" column="16" filename="E:/WWWW/epsd.git/editor/src/less/epseditor.less" />
+      <jump line="717" column="19" filename="E:/WWWW/epsd.git/editor/src/less/epseditor.less" />
+      <jump line="290" column="35" filename="E:/WWWW/epsd.git/editor/src/less/epseditor.less" />
+      <jump line="563" column="25" filename="E:/WWWW/epsd.git/editor/src/less/epseditor.less" />
+      <jump line="150" column="4" filename="E:/WWWW/epsd.git/editor/src/less/epseditor.less" />
+      <jump line="154" column="12" filename="E:/WWWW/epsd.git/editor/src/less/epseditor.less" />
+      <jump line="559" column="4" filename="E:/WWWW/epsd.git/editor/src/less/epseditor.less" />
+      <jump line="621" column="4" filename="E:/WWWW/epsd.git/editor/src/less/epseditor.less" />
+      <jump line="722" column="4" filename="E:/WWWW/epsd.git/editor/src/less/epseditor.less" />
+      <jump line="82" column="65" filename="E:/WWWW/epsd.git/editor/src/js/bs3/module/ChoiceHandle.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>updateCode</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5wcm9maWxlKCdvbkNsaWNrJyk7Cg==</text>
       </register>
       <register name="-" type="4">
         <text>updateCode</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDx0YWJCaW5kUGFuZVw+</text>
+        <text>onClick</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHRoaXMudHJpZ2dlckV2ZW50KCd1cGRhdGVDb2RlJyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5wcm9maWxlKCdvbkNsaWNrJyk7Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAnPGJ1dHRvbiB0eXBlPSJidXR0b24iIGNsYXNzPSJidG4gYnRuLWRlZmF1bHQgYnRuLWxnIiBpZD0iY2xvc2VCcmFuY2giPkNsb3NlIEJyYW5jaDwvYnV0dG9uPicgKwo=</text>
@@ -359,9 +365,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDx0YWJCaW5kUGFuZVw+</last-search>
+      <last-search>onClick</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDx0YWJCaW5kUGFuZVw+</last-pattern>
+      <last-pattern>onClick</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxyZXF1aXJlXD4=</last-substitute>
       <last-dir>1</last-dir>
@@ -369,10 +375,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxyZW5kZXJMaW5lXD4=</entry>
-        <entry encoding="base64">XDxIVE1MX0VNUFRZX0xJTkVcPg==</entry>
-        <entry encoding="base64">XDxnZXRUaXRpbGVJblRhYlw+</entry>
-        <entry>setTimeout</entry>
         <entry encoding="base64">XDxlZGlhYmxlXD4=</entry>
         <entry encoding="base64">XDxlZGl0YWJsZVw+</entry>
         <entry encoding="base64">XDxjb25jdXJyZW50XD4=</entry>
@@ -389,6 +391,10 @@
         <entry encoding="base64">XDxCYWNrc3BhY2VcPg==</entry>
         <entry encoding="base64">XDxpbml0VGFic1w+</entry>
         <entry encoding="base64">XDx0YWJCaW5kUGFuZVw+</entry>
+        <entry>hand</entry>
+        <entry>trash</entry>
+        <entry>max-width</entry>
+        <entry>onClick</entry>
       </history-search>
       <history-cmd />
       <history-expr />

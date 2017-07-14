@@ -26,8 +26,8 @@
       <file name="E:/WWWW/epsd.git/editor/src/js/bs3/settings.js" timestamp="1499424309713">
         <mark key="'" line="240" column="41" />
       </file>
-      <file name="E:/WWWW/epsd.git/editor/src/js/bs3/module/SummaryLine.js" timestamp="1499842441773">
-        <mark key="'" line="162" column="12" />
+      <file name="E:/WWWW/epsd.git/editor/src/js/bs3/module/SummaryLine.js" timestamp="1500020995265">
+        <mark key="'" line="212" column="20" />
       </file>
       <file name="E:/WWWW/epsd.git/editor/.jscsrc" timestamp="1497959005776">
         <mark key="'" line="29" column="18" />
@@ -53,7 +53,7 @@
       <file name="E:/WWWW/epsd.git/editor/src/js/bs3/module/ConditionHandle.js" timestamp="1499153884483">
         <mark key="'" line="17" column="12" />
       </file>
-      <file name="E:/WWWW/epsd.git/package.json" timestamp="1499427550301">
+      <file name="E:/WWWW/epsd.git/package.json" timestamp="1500021567625">
         <mark key="'" line="26" column="0" />
         <mark key="[" line="2" column="19" />
         <mark key="]" line="2" column="20" />
@@ -188,7 +188,7 @@
         <mark key="." line="7" column="31" />
         <mark key="^" line="7" column="36" />
       </file>
-      <file name="E:/WWWW/epsd.git/editor/package.json" timestamp="1499427559392">
+      <file name="E:/WWWW/epsd.git/editor/package.json" timestamp="1500021572243">
         <mark key="'" line="17" column="24" />
         <mark key="[" line="3" column="19" />
         <mark key="]" line="3" column="20" />
@@ -197,7 +197,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="118" column="17" filename="E:/WWWW/epsd.git/editor/src/js/base/core/parser.js" />
       <jump line="1317" column="34" filename="E:/WWWW/epsd.git/editor/src/js/base/core/parser.js" />
       <jump line="14" column="12" filename="E:/WWWW/epsd.git/editor/src/js/base/core/parser.js" />
       <jump line="136" column="22" filename="E:/WWWW/epsd.git/editor/src/js/base/core/parser.js" />
@@ -297,6 +296,7 @@
       <jump line="46" column="41" filename="E:/WWWW/epsd.git/editor/src/js/bs3/module/HoverCursor.js" />
       <jump line="203" column="90" filename="E:/WWWW/epsd.git/editor/src/js/bs3/module/HoverCursor.js" />
       <jump line="204" column="93" filename="E:/WWWW/epsd.git/editor/src/js/bs3/module/HoverCursor.js" />
+      <jump line="212" column="20" filename="E:/WWWW/epsd.git/editor/src/js/bs3/module/SummaryLine.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">

@@ -29,8 +29,8 @@
       <file name="E:/WWWW/epsd.git/editor/src/js/bs3/settings.js" timestamp="1499424309713">
         <mark key="'" line="240" column="41" />
       </file>
-      <file name="E:/WWWW/epsd.git/editor/src/js/bs3/module/SummaryLine.js" timestamp="1500020995265">
-        <mark key="'" line="212" column="20" />
+      <file name="E:/WWWW/epsd.git/editor/src/js/bs3/module/SummaryLine.js" timestamp="1500281308431">
+        <mark key="'" line="87" column="16" />
       </file>
       <file name="E:/WWWW/epsd.git/editor/.jscsrc" timestamp="1497959005776">
         <mark key="'" line="29" column="18" />
@@ -115,7 +115,7 @@
         <mark key="." line="20" column="3" />
         <mark key="^" line="20" column="3" />
       </file>
-      <file name="E:/WWWW/epsd.git/editor/src/js/base/module/ProtectedAreas.js" timestamp="1500278713244">
+      <file name="E:/WWWW/epsd.git/editor/src/js/base/module/ProtectedAreas.js" timestamp="1500281203626">
         <mark key="'" line="165" column="64" />
         <mark key="[" line="82" column="17" />
         <mark key="]" line="14" column="25" />
@@ -200,16 +200,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="43" column="30" filename="E:/WWWW/epsd.git/editor/src/js/base/module/ProtectedAreas.js" />
-      <jump line="1148" column="25" filename="E:/WWWW/epsd.git/editor/src/js/base/core/dom.js" />
-      <jump line="1156" column="12" filename="E:/WWWW/epsd.git/editor/src/js/base/core/dom.js" />
-      <jump line="1588" column="47" filename="E:/WWWW/epsd.git/editor/src/js/base/core/dom.js" />
-      <jump line="1173" column="24" filename="E:/WWWW/epsd.git/editor/src/js/base/core/dom.js" />
-      <jump line="83" column="54" filename="E:/WWWW/epsd.git/editor/src/js/base/core/range.js" />
-      <jump line="157" column="24" filename="E:/WWWW/epsd.git/editor/src/js/base/module/Caret.js" />
-      <jump line="57" column="52" filename="E:/WWWW/epsd.git/editor/src/js/base/module/Caret.js" />
-      <jump line="102" column="24" filename="E:/WWWW/epsd.git/editor/src/js/base/module/Caret.js" />
-      <jump line="127" column="28" filename="E:/WWWW/epsd.git/editor/src/js/base/module/Caret.js" />
       <jump line="901" column="43" filename="E:/WWWW/epsd.git/editor/src/js/base/module/Editor.js" />
       <jump line="200" column="16" filename="E:/WWWW/epsd.git/editor/src/js/base/module/ProtectedAreas.js" />
       <jump line="47" column="0" filename="E:/WWWW/epsd.git/editor/src/js/bs3/module/GotoHandle.js" />
@@ -278,7 +268,6 @@
       <jump line="722" column="4" filename="E:/WWWW/epsd.git/editor/src/less/epseditor.less" />
       <jump line="82" column="65" filename="E:/WWWW/epsd.git/editor/src/js/bs3/module/ChoiceHandle.js" />
       <jump line="89" column="12" filename="E:/WWWW/epsd.git/editor/src/js/bs3/module/SummaryLine.js" />
-      <jump line="242" column="58" filename="E:/WWWW/epsd.git/editor/src/js/bs3/module/SummaryLine.js" />
       <jump line="20" column="10" filename="E:/WWWW/epsd.git/editor/src/js/bs3/module/SummaryLine.js" />
       <jump line="21" column="12" filename="E:/WWWW/epsd.git/editor/src/js/bs3/module/SummaryLine.js" />
       <jump line="107" column="68" filename="E:/WWWW/epsd.git/editor/src/js/bs3/module/SummaryLine.js" />
@@ -300,6 +289,17 @@
       <jump line="1711" column="47" filename="E:/WWWW/epsd.git/editor/src/js/base/core/dom.js" />
       <jump line="1424" column="0" filename="E:/WWWW/epsd.git/editor/src/js/base/core/dom.js" />
       <jump line="165" column="64" filename="E:/WWWW/epsd.git/editor/src/js/base/module/ProtectedAreas.js" />
+      <jump line="242" column="45" filename="E:/WWWW/epsd.git/editor/src/js/bs3/module/SummaryLine.js" />
+      <jump line="233" column="0" filename="E:/WWWW/epsd.git/editor/src/js/bs3/module/SummaryLine.js" />
+      <jump line="38" column="16" filename="E:/WWWW/epsd.git/editor/src/js/bs3/module/SummaryLine.js" />
+      <jump line="53" column="16" filename="E:/WWWW/epsd.git/editor/src/js/bs3/module/SummaryLine.js" />
+      <jump line="30" column="16" filename="E:/WWWW/epsd.git/editor/src/js/bs3/module/SummaryLine.js" />
+      <jump line="42" column="16" filename="E:/WWWW/epsd.git/editor/src/js/bs3/module/SummaryLine.js" />
+      <jump line="91" column="37" filename="E:/WWWW/epsd.git/editor/src/js/bs3/module/SummaryLine.js" />
+      <jump line="98" column="9" filename="E:/WWWW/epsd.git/editor/src/js/bs3/module/SummaryLine.js" />
+      <jump line="95" column="3" filename="E:/WWWW/epsd.git/editor/src/js/bs3/module/SummaryLine.js" />
+      <jump line="75" column="12" filename="E:/WWWW/epsd.git/editor/src/js/bs3/module/SummaryLine.js" />
+      <jump line="87" column="16" filename="E:/WWWW/epsd.git/editor/src/js/bs3/module/SummaryLine.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">

@@ -23,6 +23,9 @@
       <file name="/fragment.js" timestamp="1499222091937">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="E:/WWWW/epsd.git/editor/src/js/base/core/dom.js" timestamp="1500262270063">
+        <mark key="'" line="1424" column="0" />
+      </file>
       <file name="E:/WWWW/epsd.git/editor/src/js/bs3/settings.js" timestamp="1499424309713">
         <mark key="'" line="240" column="41" />
       </file>
@@ -85,7 +88,7 @@
       <file name="E:/WWWW/epsd.git/editor/src/less/epseditor.less" timestamp="1499761188247">
         <mark key="'" line="722" column="4" />
       </file>
-      <file name="/Dummy.txt" timestamp="1500015919285">
+      <file name="/Dummy.txt" timestamp="1500262230755">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="E:/WWWW/epsd.git/app/styles/main.css" timestamp="1496731792696">
@@ -197,11 +200,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="14" column="12" filename="E:/WWWW/epsd.git/editor/src/js/base/core/parser.js" />
-      <jump line="136" column="22" filename="E:/WWWW/epsd.git/editor/src/js/base/core/parser.js" />
-      <jump line="150" column="22" filename="E:/WWWW/epsd.git/editor/src/js/base/core/parser.js" />
-      <jump line="1316" column="24" filename="E:/WWWW/epsd.git/editor/src/js/base/core/parser.js" />
-      <jump line="1534" column="39" filename="E:/WWWW/epsd.git/editor/src/js/base/core/parser.js" />
       <jump line="15" column="37" filename="E:/WWWW/epsd.git/editor/src/js/base/module/ProtectedAreas.js" />
       <jump line="43" column="30" filename="E:/WWWW/epsd.git/editor/src/js/base/module/ProtectedAreas.js" />
       <jump line="1148" column="25" filename="E:/WWWW/epsd.git/editor/src/js/base/core/dom.js" />
@@ -297,6 +295,11 @@
       <jump line="212" column="20" filename="E:/WWWW/epsd.git/editor/src/js/bs3/module/SummaryLine.js" />
       <jump line="158" column="37" filename="E:/WWWW/epsd.git/editor/src/js/base/module/Caret.js" />
       <jump line="81" column="27" filename="E:/WWWW/epsd.git/editor/src/js/base/module/ProtectedAreas.js" />
+      <jump line="928" column="0" filename="E:/WWWW/epsd.git/editor/src/js/base/core/dom.js" />
+      <jump line="278" column="16" filename="E:/WWWW/epsd.git/editor/src/js/base/core/dom.js" />
+      <jump line="1400" column="12" filename="E:/WWWW/epsd.git/editor/src/js/base/core/dom.js" />
+      <jump line="1711" column="47" filename="E:/WWWW/epsd.git/editor/src/js/base/core/dom.js" />
+      <jump line="1424" column="0" filename="E:/WWWW/epsd.git/editor/src/js/base/core/dom.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -306,7 +309,7 @@
         <text>show</text>
       </register>
       <register name="/" type="4">
-        <text>14</text>
+        <text encoding="base64">XDxpc0luTGFiZWxcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIHRoaXMuJGhpZ2hsaWdodEhvdmVyQ3Vyc29yLnNob3coKTsKICAgICAgICAgICAgICAgIHRoaXMuJHJpZ2h0SG92ZXJDdXJzb3Iuc2hvdygpOwogICAgICAgICAgICAgICAgdGhpcy4kbGVmdEhvdmVyQ3Vyc29yLnNob3coKTsK</text>
@@ -340,9 +343,9 @@
       </register>
     </registers>
     <search>
-      <last-search>14</last-search>
+      <last-search encoding="base64">XDxpc0luTGFiZWxcPg==</last-search>
       <last-offset />
-      <last-pattern>14</last-pattern>
+      <last-pattern encoding="base64">XDxpc0luTGFiZWxcPg==</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxyZXF1aXJlXD4=</last-substitute>
       <last-dir>1</last-dir>
@@ -350,7 +353,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxjb25jdXJyZW50XD4=</entry>
         <entry encoding="base64">XDxjbGVhblw+</entry>
         <entry>basic</entry>
         <entry>Basic</entry>
@@ -370,6 +372,7 @@
         <entry>onClick</entry>
         <entry encoding="base64">XDxzdW1tYXJ5TGluZURhdGFcPg==</entry>
         <entry>14</entry>
+        <entry encoding="base64">XDxpc0luTGFiZWxcPg==</entry>
       </history-search>
       <history-cmd />
       <history-expr />

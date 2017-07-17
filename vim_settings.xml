@@ -46,8 +46,8 @@
         <mark key="." line="141" column="40" />
         <mark key="^" line="141" column="40" />
       </file>
-      <file name="E:/WWWW/epsd.git/editor/src/js/base/module/Caret.js" timestamp="1499758356176">
-        <mark key="'" line="146" column="26" />
+      <file name="E:/WWWW/epsd.git/editor/src/js/base/module/Caret.js" timestamp="1500255976879">
+        <mark key="'" line="158" column="37" />
         <mark key="[" line="662" column="1" />
       </file>
       <file name="E:/WWWW/epsd.git/editor/src/js/bs3/module/ConditionHandle.js" timestamp="1499153884483">
@@ -197,7 +197,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1317" column="34" filename="E:/WWWW/epsd.git/editor/src/js/base/core/parser.js" />
       <jump line="14" column="12" filename="E:/WWWW/epsd.git/editor/src/js/base/core/parser.js" />
       <jump line="136" column="22" filename="E:/WWWW/epsd.git/editor/src/js/base/core/parser.js" />
       <jump line="150" column="22" filename="E:/WWWW/epsd.git/editor/src/js/base/core/parser.js" />
@@ -297,6 +296,7 @@
       <jump line="203" column="90" filename="E:/WWWW/epsd.git/editor/src/js/bs3/module/HoverCursor.js" />
       <jump line="204" column="93" filename="E:/WWWW/epsd.git/editor/src/js/bs3/module/HoverCursor.js" />
       <jump line="212" column="20" filename="E:/WWWW/epsd.git/editor/src/js/bs3/module/SummaryLine.js" />
+      <jump line="158" column="37" filename="E:/WWWW/epsd.git/editor/src/js/base/module/Caret.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">

@@ -91,7 +91,7 @@
       <file name="E:/WWWW/epsd.git/editor/src/less/epseditor.less" timestamp="1499761188247">
         <mark key="'" line="722" column="4" />
       </file>
-      <file name="/Dummy.txt" timestamp="1500360732689">
+      <file name="/Dummy.txt" timestamp="1500364700134">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="E:/WWWW/epsd.git/app/styles/main.css" timestamp="1496731792696">
@@ -138,8 +138,8 @@
       <file name="/" timestamp="1494989021458">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="E:/WWWW/epsd.git/editor/src/js/base/core/range.js" timestamp="1499341833289">
-        <mark key="'" line="83" column="54" />
+      <file name="E:/WWWW/epsd.git/editor/src/js/base/core/range.js" timestamp="1500364720784">
+        <mark key="'" line="176" column="45" />
         <mark key="[" line="809" column="24" />
       </file>
       <file name="E:/WWWW/epsd.git/editor/src/js/base/module/Editor.js" timestamp="1500283233107">
@@ -185,7 +185,7 @@
       <file name="E:/WWWW/epsd.git/editor/test/unit/bs3/module/ConditionHandle.spec.js" timestamp="1498555064233">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="E:/WWWW/epsd.git/editor/src/js/base/module/Clipboard.js" timestamp="1500016141141">
+      <file name="E:/WWWW/epsd.git/editor/src/js/base/module/Clipboard.js" timestamp="1500364138330">
         <mark key="'" line="0" column="0" />
       </file>
       <file name="E:/WWWW/epsd.git/.jscsrc" timestamp="1498199327983">
@@ -204,8 +204,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="24" column="30" filename="E:/WWWW/epsd.git/editor/src/js/bs3/module/SummaryLine.js" />
-      <jump line="1607" column="20" filename="E:/WWWW/epsd.git/editor/src/js/base/core/parser.js" />
       <jump line="1613" column="20" filename="E:/WWWW/epsd.git/editor/src/js/base/core/parser.js" />
       <jump line="1615" column="40" filename="E:/WWWW/epsd.git/editor/src/js/base/core/parser.js" />
       <jump line="166" column="48" filename="E:/WWWW/epsd.git/editor/src/js/base/module/ProtectedAreas.js" />
@@ -304,6 +302,8 @@
       <jump line="648" column="12" filename="E:/WWWW/epsd.git/editor/src/js/base/core/dom.js" />
       <jump line="624" column="0" filename="E:/WWWW/epsd.git/editor/src/js/base/core/dom.js" />
       <jump line="474" column="0" filename="E:/WWWW/epsd.git/editor/src/js/base/core/parser.js" />
+      <jump line="681" column="45" filename="E:/WWWW/epsd.git/editor/src/js/base/core/range.js" />
+      <jump line="176" column="45" filename="E:/WWWW/epsd.git/editor/src/js/base/core/range.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -313,7 +313,7 @@
         <text>show</text>
       </register>
       <register name="/" type="4">
-        <text>isVisible</text>
+        <text encoding="base64">XDxnZXRTZWxlY3Rpb25cPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIHRoaXMuJGhpZ2hsaWdodEhvdmVyQ3Vyc29yLnNob3coKTsKICAgICAgICAgICAgICAgIHRoaXMuJHJpZ2h0SG92ZXJDdXJzb3Iuc2hvdygpOwogICAgICAgICAgICAgICAgdGhpcy4kbGVmdEhvdmVyQ3Vyc29yLnNob3coKTsK</text>
@@ -347,9 +347,9 @@
       </register>
     </registers>
     <search>
-      <last-search>isVisible</last-search>
+      <last-search encoding="base64">XDxnZXRTZWxlY3Rpb25cPg==</last-search>
       <last-offset />
-      <last-pattern>isVisible</last-pattern>
+      <last-pattern encoding="base64">XDxnZXRTZWxlY3Rpb25cPg==</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxyZXF1aXJlXD4=</last-substitute>
       <last-dir>1</last-dir>
@@ -357,7 +357,6 @@
     </search>
     <history>
       <history-search>
-        <entry>gotostart</entry>
         <entry>GoToStart</entry>
         <entry encoding="base64">XDxCYWNrc3BhY2VcPg==</entry>
         <entry encoding="base64">XDxpbml0VGFic1w+</entry>
@@ -377,6 +376,7 @@
         <entry encoding="base64">XDxzaWJsaW5nSXNQcm90ZWN0ZWRcPg==</entry>
         <entry encoding="base64">XDxpc0ljb25Eb21cPg==</entry>
         <entry>isVisible</entry>
+        <entry encoding="base64">XDxnZXRTZWxlY3Rpb25cPg==</entry>
       </history-search>
       <history-cmd />
       <history-expr />

@@ -118,7 +118,7 @@
         <mark key="^" line="14" column="25" />
       </file>
       <file name="E:/WWWW/epsd.git/editor/src/js/bs3/module/ChoiceHandle.js" timestamp="1500543349924">
-        <mark key="'" line="449" column="0" />
+        <mark key="'" line="448" column="0" />
       </file>
       <file name="E:/WWWW/epsd.git/editor/src/less/elements.less" timestamp="1499760746177">
         <mark key="'" line="173" column="0" />
@@ -153,12 +153,12 @@
         <mark key="." line="899" column="45" />
         <mark key="^" line="899" column="45" />
       </file>
-      <file name="E:/WWWW/epsd.git/app/scripts/controllers/visual.js" timestamp="1497947268830">
+      <file name="E:/WWWW/epsd.git/app/scripts/controllers/visual.js" timestamp="1500551113856">
         <mark key="'" line="15" column="38" />
-        <mark key="[" line="26" column="16" />
-        <mark key="]" line="26" column="17" />
-        <mark key="^" line="13" column="9" />
-        <mark key="." line="26" column="17" />
+        <mark key="[" line="27" column="24" />
+        <mark key="]" line="31" column="11" />
+        <mark key="^" line="31" column="11" />
+        <mark key="." line="31" column="11" />
       </file>
       <file name="E:/WWWW/epsd.git/editor/dist/epseditor.js" timestamp="1498198773018">
         <mark key="'" line="2002" column="46" />
@@ -170,11 +170,11 @@
         <mark key="^" line="31" column="7" />
         <mark key="." line="553" column="0" />
       </file>
-      <file name="E:/WWWW/epsd.git/app/views/visual.html" timestamp="1497252511302">
+      <file name="E:/WWWW/epsd.git/app/views/visual.html" timestamp="1500550634347">
         <mark key="'" line="4" column="3" />
-        <mark key="[" line="10" column="20" />
-        <mark key="]" line="10" column="20" />
-        <mark key="." line="10" column="20" />
+        <mark key="[" line="5" column="16" />
+        <mark key="]" line="5" column="16" />
+        <mark key="." line="5" column="16" />
         <mark key="^" line="10" column="20" />
       </file>
       <file name="E:/WWWW/epsd.git/editor/src/js/base/core/agent.js" timestamp="1497957205648">
@@ -312,10 +312,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>caretTarget</text>
+        <text>event.target.files[0].</text>
       </register>
       <register name="-" type="4">
-        <text>caretTarget</text>
+        <text>event.target.files[0].</text>
       </register>
       <register name="/" type="4">
         <text>updateChoiceSize</text>

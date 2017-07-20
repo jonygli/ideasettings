@@ -46,8 +46,8 @@
       <file name="/JavaScript Console" timestamp="1495865542265">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="E:/WWWW/epsd.git/editor/Gruntfile.js" timestamp="1498729334858">
-        <mark key="'" line="139" column="43" />
+      <file name="E:/WWWW/epsd.git/editor/Gruntfile.js" timestamp="1500516947514">
+        <mark key="'" line="329" column="35" />
         <mark key="[" line="75" column="0" />
         <mark key="]" line="76" column="48" />
         <mark key="." line="141" column="40" />
@@ -69,12 +69,6 @@
         <mark key="]" line="2" column="20" />
         <mark key="." line="2" column="20" />
         <mark key="^" line="2" column="19" />
-      </file>
-      <file name="E:/WWWW/epsd.git/editor/.eslintrc" timestamp="1497959390108">
-        <mark key="'" line="8" column="19" />
-        <mark key="[" line="19" column="8" />
-        <mark key="]" line="19" column="49" />
-        <mark key="." line="19" column="0" />
       </file>
       <file name="E:/WWWW/epsd.git/.jshintrc" timestamp="1495698324359">
         <mark key="[" line="13" column="20" />
@@ -166,12 +160,6 @@
         <mark key="^" line="31" column="7" />
         <mark key="." line="553" column="0" />
       </file>
-      <file name="E:/WWWW/epsd.git/editor/test/unit/base/module/Editor.spec.js" timestamp="1499736477768">
-        <mark key="'" line="161" column="36" />
-        <mark key="[" line="4" column="3" />
-        <mark key="]" line="220" column="0" />
-        <mark key="." line="220" column="0" />
-      </file>
       <file name="E:/WWWW/epsd.git/app/views/visual.html" timestamp="1497252511302">
         <mark key="'" line="4" column="3" />
         <mark key="[" line="10" column="20" />
@@ -211,8 +199,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="89" column="12" filename="E:/WWWW/epsd.git/editor/src/js/bs3/module/SummaryLine.js" />
-      <jump line="20" column="10" filename="E:/WWWW/epsd.git/editor/src/js/bs3/module/SummaryLine.js" />
       <jump line="21" column="12" filename="E:/WWWW/epsd.git/editor/src/js/bs3/module/SummaryLine.js" />
       <jump line="107" column="68" filename="E:/WWWW/epsd.git/editor/src/js/bs3/module/SummaryLine.js" />
       <jump line="127" column="12" filename="E:/WWWW/epsd.git/editor/src/js/bs3/module/SummaryLine.js" />
@@ -311,6 +297,8 @@
       <jump line="380" column="24" filename="E:/WWWW/epsd.git/editor/src/js/base/core/parser.js" />
       <jump line="439" column="32" filename="E:/WWWW/epsd.git/editor/src/js/base/core/parser.js" />
       <jump line="441" column="67" filename="E:/WWWW/epsd.git/editor/src/js/base/core/parser.js" />
+      <jump line="197" column="28" filename="E:/WWWW/epsd.git/editor/Gruntfile.js" />
+      <jump line="329" column="35" filename="E:/WWWW/epsd.git/editor/Gruntfile.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -320,7 +308,7 @@
         <text encoding="base64">ZWxzZSA=</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxsYXN0UXVhdGVJbmRleFw+</text>
+        <text>8000</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIHRoaXMuJGhpZ2hsaWdodEhvdmVyQ3Vyc29yLnNob3coKTsKICAgICAgICAgICAgICAgIHRoaXMuJHJpZ2h0SG92ZXJDdXJzb3Iuc2hvdygpOwogICAgICAgICAgICAgICAgdGhpcy4kbGVmdEhvdmVyQ3Vyc29yLnNob3coKTsK</text>
@@ -354,9 +342,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxsYXN0UXVhdGVJbmRleFw+</last-search>
+      <last-search>8000</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxsYXN0UXVhdGVJbmRleFw+</last-pattern>
+      <last-pattern>8000</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxyZXF1aXJlXD4=</last-substitute>
       <last-dir>1</last-dir>
@@ -364,8 +352,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxpc0luTGFiZWxcPg==</entry>
-        <entry encoding="base64">XDxpc0VkaXRcPg==</entry>
         <entry encoding="base64">XDxhZnRlckNvbW1hbmRcPg==</entry>
         <entry>Delete</entry>
         <entry encoding="base64">XDxnZXRUb2tlbnNGcm9tVGFiXD4=</entry>
@@ -384,6 +370,8 @@
         <entry>otherwise</entry>
         <entry>bCheckError</entry>
         <entry encoding="base64">XDxsYXN0UXVhdGVJbmRleFw+</entry>
+        <entry encoding="base64">XDxjb25uZWN0XD4=</entry>
+        <entry>8000</entry>
       </history-search>
       <history-cmd />
       <history-expr />

@@ -117,8 +117,8 @@
         <mark key="." line="14" column="25" />
         <mark key="^" line="14" column="25" />
       </file>
-      <file name="E:/WWWW/epsd.git/editor/src/js/bs3/module/ChoiceHandle.js" timestamp="1500435104576">
-        <mark key="'" line="449" column="16" />
+      <file name="E:/WWWW/epsd.git/editor/src/js/bs3/module/ChoiceHandle.js" timestamp="1500543349924">
+        <mark key="'" line="449" column="0" />
       </file>
       <file name="E:/WWWW/epsd.git/editor/src/less/elements.less" timestamp="1499760746177">
         <mark key="'" line="173" column="0" />
@@ -260,7 +260,6 @@
       <jump line="360" column="37" filename="E:/WWWW/epsd.git/editor/src/js/bs3/module/ChoiceHandle.js" />
       <jump line="175" column="45" filename="E:/WWWW/epsd.git/editor/src/js/bs3/module/ChoiceHandle.js" />
       <jump line="174" column="44" filename="E:/WWWW/epsd.git/editor/src/js/bs3/module/ChoiceHandle.js" />
-      <jump line="449" column="16" filename="E:/WWWW/epsd.git/editor/src/js/bs3/module/ChoiceHandle.js" />
       <jump line="372" column="10" filename="E:/WWWW/epsd.git/editor/src/js/bs3/module/ConditionHandle.js" />
       <jump line="461" column="12" filename="E:/WWWW/epsd.git/editor/src/js/bs3/module/ConditionHandle.js" />
       <jump line="479" column="72" filename="E:/WWWW/epsd.git/editor/src/js/bs3/module/ConditionHandle.js" />
@@ -309,6 +308,7 @@
       <jump line="74" column="55" filename="E:/WWWW/epsd.git/editor/src/js/base/module/Caret.js" />
       <jump line="19" column="9" filename="E:/WWWW/epsd.git/editor/src/js/base/editing/Typing.js" />
       <jump line="151" column="21" filename="E:/WWWW/epsd.git/editor/src/less/epseditor.less" />
+      <jump line="449" column="0" filename="E:/WWWW/epsd.git/editor/src/js/bs3/module/ChoiceHandle.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -318,7 +318,7 @@
         <text>caretTarget</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxlZGl0aW5nVGFyZ2V0XD4=</text>
+        <text>updateChoiceSize</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgLy8gICAgIHZhciBjYXJldFRhcmdldCA9IGNvbnRleHQuZ2V0RWRpdGluZ1RhcmdldCgpOwo=</text>
@@ -352,9 +352,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxlZGl0aW5nVGFyZ2V0XD4=</last-search>
+      <last-search>updateChoiceSize</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxlZGl0aW5nVGFyZ2V0XD4=</last-pattern>
+      <last-pattern>updateChoiceSize</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxyZXF1aXJlXD4=</last-substitute>
       <last-dir>1</last-dir>
@@ -362,7 +362,6 @@
     </search>
     <history>
       <history-search>
-        <entry>Delete</entry>
         <entry encoding="base64">XDxnZXRUb2tlbnNGcm9tVGFiXD4=</entry>
         <entry encoding="base64">XDxnZXRMaW5lVHlwZVw+</entry>
         <entry encoding="base64">XDxzaWJsaW5nSXNQcm90ZWN0ZWRcPg==</entry>
@@ -382,6 +381,7 @@
         <entry encoding="base64">XDxjb25uZWN0XD4=</entry>
         <entry>8000</entry>
         <entry encoding="base64">XDxlZGl0aW5nVGFyZ2V0XD4=</entry>
+        <entry>updateChoiceSize</entry>
       </history-search>
       <history-cmd />
       <history-expr />

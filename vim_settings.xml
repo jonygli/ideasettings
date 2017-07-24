@@ -57,14 +57,14 @@
         <mark key="'" line="40" column="12" />
       </file>
       <file name="E:/WWWW/epsd.git/editor/src/js/base/module/Caret.js" timestamp="1500536588587">
-        <mark key="'" line="74" column="55" />
-        <mark key="[" line="61" column="23" />
-        <mark key="]" line="61" column="23" />
-        <mark key="." line="61" column="23" />
-        <mark key="^" line="60" column="63" />
+        <mark key="'" line="68" column="55" />
+        <mark key="[" line="55" column="23" />
+        <mark key="]" line="55" column="23" />
+        <mark key="." line="55" column="23" />
+        <mark key="^" line="54" column="63" />
       </file>
       <file name="E:/WWWW/epsd.git/editor/src/js/bs3/module/ConditionHandle.js" timestamp="1500886861313">
-        <mark key="'" line="476" column="34" />
+        <mark key="'" line="478" column="34" />
       </file>
       <file name="E:/WWWW/epsd.git/package.json" timestamp="1500630649803">
         <mark key="'" line="26" column="0" />
@@ -118,12 +118,12 @@
       <file name="E:/WWWW/epsd.git/editor/src/less/elements.less" timestamp="1499760746177">
         <mark key="'" line="173" column="0" />
       </file>
-      <file name="E:/WWWW/epsd.git/editor/src/js/bs3/module/HoverCursor.js" timestamp="1500897083041">
-        <mark key="'" line="182" column="0" />
-        <mark key="[" line="186" column="28" />
-        <mark key="]" line="186" column="28" />
-        <mark key="." line="186" column="28" />
-        <mark key="^" line="186" column="16" />
+      <file name="E:/WWWW/epsd.git/editor/src/js/bs3/module/HoverCursor.js" timestamp="1500898958807">
+        <mark key="'" line="176" column="0" />
+        <mark key="[" line="180" column="28" />
+        <mark key="]" line="180" column="28" />
+        <mark key="." line="180" column="28" />
+        <mark key="^" line="180" column="16" />
       </file>
       <file name="E:/WWWW/epsd.git/editor/src/js/base/editing/Typing.js" timestamp="1500629161186">
         <mark key="'" line="53" column="0" />

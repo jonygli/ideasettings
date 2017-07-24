@@ -23,8 +23,8 @@
       <file name="/fragment.js" timestamp="1499222091937">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="E:/WWWW/epsd.git/editor/src/js/base/core/dom.js" timestamp="1500880121238">
-        <mark key="'" line="1695" column="47" />
+      <file name="E:/WWWW/epsd.git/editor/src/js/base/core/dom.js" timestamp="1500885147369">
+        <mark key="'" line="1159" column="38" />
       </file>
       <file name="E:/WWWW/epsd.git/editor/src/js/bs3/settings.js" timestamp="1500625668451">
         <mark key="'" line="240" column="41" />
@@ -63,8 +63,8 @@
         <mark key="." line="61" column="23" />
         <mark key="^" line="60" column="63" />
       </file>
-      <file name="E:/WWWW/epsd.git/editor/src/js/bs3/module/ConditionHandle.js" timestamp="1500880170722">
-        <mark key="'" line="417" column="55" />
+      <file name="E:/WWWW/epsd.git/editor/src/js/bs3/module/ConditionHandle.js" timestamp="1500884807868">
+        <mark key="'" line="78" column="74" />
       </file>
       <file name="E:/WWWW/epsd.git/package.json" timestamp="1500630649803">
         <mark key="'" line="26" column="0" />
@@ -203,10 +203,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1579" column="64" filename="E:/WWWW/epsd.git/editor/src/js/base/core/dom.js" />
-      <jump line="226" column="12" filename="E:/WWWW/epsd.git/editor/src/js/bs3/module/SummaryLine.js" />
-      <jump line="1691" column="70" filename="E:/WWWW/epsd.git/editor/src/js/base/core/dom.js" />
-      <jump line="648" column="12" filename="E:/WWWW/epsd.git/editor/src/js/base/core/dom.js" />
       <jump line="624" column="0" filename="E:/WWWW/epsd.git/editor/src/js/base/core/dom.js" />
       <jump line="474" column="0" filename="E:/WWWW/epsd.git/editor/src/js/base/core/parser.js" />
       <jump line="681" column="45" filename="E:/WWWW/epsd.git/editor/src/js/base/core/range.js" />
@@ -303,6 +299,10 @@
       <jump line="383" column="39" filename="E:/WWWW/epsd.git/editor/src/js/base/module/Editor.js" />
       <jump line="427" column="11" filename="E:/WWWW/epsd.git/editor/src/js/base/module/Editor.js" />
       <jump line="417" column="55" filename="E:/WWWW/epsd.git/editor/src/js/bs3/module/ConditionHandle.js" />
+      <jump line="78" column="74" filename="E:/WWWW/epsd.git/editor/src/js/bs3/module/ConditionHandle.js" />
+      <jump line="1142" column="27" filename="E:/WWWW/epsd.git/editor/src/js/base/core/dom.js" />
+      <jump line="908" column="48" filename="E:/WWWW/epsd.git/editor/src/js/base/core/dom.js" />
+      <jump line="1159" column="38" filename="E:/WWWW/epsd.git/editor/src/js/base/core/dom.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">

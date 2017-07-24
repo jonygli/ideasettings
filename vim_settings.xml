@@ -23,7 +23,7 @@
       <file name="/fragment.js" timestamp="1499222091937">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="E:/WWWW/epsd.git/editor/src/js/base/core/dom.js" timestamp="1500629127607">
+      <file name="E:/WWWW/epsd.git/editor/src/js/base/core/dom.js" timestamp="1500880121238">
         <mark key="'" line="1695" column="47" />
       </file>
       <file name="E:/WWWW/epsd.git/editor/src/js/bs3/settings.js" timestamp="1500625668451">
@@ -63,8 +63,8 @@
         <mark key="." line="61" column="23" />
         <mark key="^" line="60" column="63" />
       </file>
-      <file name="E:/WWWW/epsd.git/editor/src/js/bs3/module/ConditionHandle.js" timestamp="1500862978565">
-        <mark key="'" line="451" column="16" />
+      <file name="E:/WWWW/epsd.git/editor/src/js/bs3/module/ConditionHandle.js" timestamp="1500880170722">
+        <mark key="'" line="417" column="55" />
       </file>
       <file name="E:/WWWW/epsd.git/package.json" timestamp="1500630649803">
         <mark key="'" line="26" column="0" />
@@ -203,7 +203,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="65" column="17" filename="E:/WWWW/epsd.git/editor/src/js/base/module/ProtectedAreas.js" />
       <jump line="1579" column="64" filename="E:/WWWW/epsd.git/editor/src/js/base/core/dom.js" />
       <jump line="226" column="12" filename="E:/WWWW/epsd.git/editor/src/js/bs3/module/SummaryLine.js" />
       <jump line="1691" column="70" filename="E:/WWWW/epsd.git/editor/src/js/base/core/dom.js" />
@@ -303,6 +302,7 @@
       <jump line="151" column="21" filename="E:/WWWW/epsd.git/editor/src/js/base/module/Editor.js" />
       <jump line="383" column="39" filename="E:/WWWW/epsd.git/editor/src/js/base/module/Editor.js" />
       <jump line="427" column="11" filename="E:/WWWW/epsd.git/editor/src/js/base/module/Editor.js" />
+      <jump line="417" column="55" filename="E:/WWWW/epsd.git/editor/src/js/bs3/module/ConditionHandle.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">

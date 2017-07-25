@@ -85,7 +85,7 @@
       <file name="E:/WWWW/epsd.git/editor/src/less/epseditor.less" timestamp="1500622041103">
         <mark key="'" line="577" column="19" />
       </file>
-      <file name="/Dummy.txt" timestamp="1500977854714">
+      <file name="/Dummy.txt" timestamp="1500982323027">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="E:/WWWW/epsd.git/app/styles/main.css" timestamp="1496731792696">
@@ -180,8 +180,8 @@
       <file name="E:/WWWW/epsd.git/editor/test/unit/bs3/module/ConditionHandle.spec.js" timestamp="1498555064233">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="E:/WWWW/epsd.git/editor/src/js/base/module/Clipboard.js" timestamp="1500434593064">
-        <mark key="'" line="0" column="0" />
+      <file name="E:/WWWW/epsd.git/editor/src/js/base/module/Clipboard.js" timestamp="1500982331328">
+        <mark key="'" line="192" column="39" />
         <mark key="[" line="209" column="18" />
         <mark key="]" line="209" column="18" />
         <mark key="^" line="172" column="11" />
@@ -203,7 +203,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1829" column="0" filename="E:/WWWW/epsd.git/editor/src/js/base/core/parser.js" />
       <jump line="1945" column="9" filename="E:/WWWW/epsd.git/editor/src/js/base/core/parser.js" />
       <jump line="1951" column="25" filename="E:/WWWW/epsd.git/editor/src/js/base/core/parser.js" />
       <jump line="1954" column="42" filename="E:/WWWW/epsd.git/editor/src/js/base/core/parser.js" />
@@ -303,6 +302,7 @@
       <jump line="649" column="18" filename="E:/WWWW/epsd.git/editor/src/js/bs3/module/ConditionHandle.js" />
       <jump line="252" column="20" filename="E:/WWWW/epsd.git/editor/src/js/bs3/module/ChoiceHandle.js" />
       <jump line="597" column="18" filename="E:/WWWW/epsd.git/editor/src/js/bs3/module/ChoiceHandle.js" />
+      <jump line="192" column="39" filename="E:/WWWW/epsd.git/editor/src/js/base/module/Clipboard.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">

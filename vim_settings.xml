@@ -92,7 +92,7 @@
       <file name="E:/WWWW/epsd.git/editor/src/less/epseditor.less" timestamp="1500622041103">
         <mark key="'" line="577" column="19" />
       </file>
-      <file name="/Dummy.txt" timestamp="1500982323027">
+      <file name="/Dummy.txt" timestamp="1501054450756">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="E:/WWWW/epsd.git/app/styles/main.css" timestamp="1496731792696">
@@ -126,8 +126,8 @@
         <mark key="." line="14" column="25" />
         <mark key="^" line="14" column="25" />
       </file>
-      <file name="E:/WWWW/epsd.git/editor/src/js/bs3/module/ChoiceHandle.js" timestamp="1501036405216">
-        <mark key="'" line="304" column="27" />
+      <file name="E:/WWWW/epsd.git/editor/src/js/bs3/module/ChoiceHandle.js" timestamp="1501054449675">
+        <mark key="'" line="155" column="32" />
         <mark key="[" line="66" column="31" />
         <mark key="]" line="346" column="44" />
         <mark key="^" line="346" column="44" />
@@ -218,7 +218,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1677" column="12" filename="E:/WWWW/epsd.git/editor/src/js/base/core/dom.js" />
       <jump line="898" column="22" filename="E:/WWWW/epsd.git/editor/src/less/epseditor.less" />
       <jump line="522" column="11" filename="E:/WWWW/epsd.git/editor/src/less/epseditor.less" />
       <jump line="559" column="15" filename="E:/WWWW/epsd.git/editor/src/less/epseditor.less" />
@@ -278,7 +277,6 @@
       <jump line="482" column="25" filename="E:/WWWW/epsd.git/editor/src/js/bs3/module/ChoiceHandle.js" />
       <jump line="96" column="27" filename="E:/WWWW/epsd.git/editor/src/js/bs3/module/ChoiceHandle.js" />
       <jump line="514" column="56" filename="E:/WWWW/epsd.git/editor/src/js/bs3/module/ChoiceHandle.js" />
-      <jump line="155" column="45" filename="E:/WWWW/epsd.git/editor/src/js/bs3/module/ChoiceHandle.js" />
       <jump line="488" column="55" filename="E:/WWWW/epsd.git/editor/src/js/bs3/module/ChoiceHandle.js" />
       <jump line="439" column="13" filename="E:/WWWW/epsd.git/editor/src/js/bs3/module/ChoiceHandle.js" />
       <jump line="255" column="43" filename="E:/WWWW/epsd.git/editor/src/js/bs3/module/ConditionHandle.js" />
@@ -318,6 +316,8 @@
       <jump line="186" column="20" filename="E:/WWWW/epsd.git/editor/src/js/base/module/Clipboard.js" />
       <jump line="290" column="0" filename="E:/WWWW/epsd.git/editor/src/js/base/module/ProtectedAreas.js" />
       <jump line="304" column="27" filename="E:/WWWW/epsd.git/editor/src/js/bs3/module/ChoiceHandle.js" />
+      <jump line="376" column="55" filename="E:/WWWW/epsd.git/editor/src/js/bs3/module/ChoiceHandle.js" />
+      <jump line="155" column="32" filename="E:/WWWW/epsd.git/editor/src/js/bs3/module/ChoiceHandle.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">

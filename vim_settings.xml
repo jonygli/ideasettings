@@ -73,8 +73,8 @@
         <mark key="." line="2" column="20" />
         <mark key="^" line="2" column="19" />
       </file>
-      <file name="E:/WWWW/epsd.git/editor/src/js/base/core/parser.js" timestamp="1501057780076">
-        <mark key="'" line="1499" column="37" />
+      <file name="E:/WWWW/epsd.git/editor/src/js/base/core/parser.js" timestamp="1501059634052">
+        <mark key="'" line="279" column="42" />
       </file>
       <file name="E:/WWWW/epsd.git/.jshintrc" timestamp="1495698324359">
         <mark key="[" line="13" column="20" />
@@ -88,7 +88,7 @@
       <file name="E:/WWWW/epsd.git/editor/src/less/epseditor.less" timestamp="1500622041103">
         <mark key="'" line="577" column="19" />
       </file>
-      <file name="/Dummy.txt" timestamp="1501056827598">
+      <file name="/Dummy.txt" timestamp="1501059490960">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="E:/WWWW/epsd.git/app/styles/main.css" timestamp="1496731792696">
@@ -214,11 +214,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="849" column="20" filename="E:/WWWW/epsd.git/editor/src/js/base/core/dom.js" />
-      <jump line="53" column="0" filename="E:/WWWW/epsd.git/editor/src/js/base/editing/Typing.js" />
-      <jump line="857" column="19" filename="E:/WWWW/epsd.git/editor/src/js/base/core/dom.js" />
-      <jump line="868" column="12" filename="E:/WWWW/epsd.git/editor/src/js/base/core/dom.js" />
-      <jump line="913" column="50" filename="E:/WWWW/epsd.git/editor/src/js/base/core/dom.js" />
       <jump line="926" column="41" filename="E:/WWWW/epsd.git/editor/src/js/base/core/dom.js" />
       <jump line="1694" column="47" filename="E:/WWWW/epsd.git/editor/src/js/base/core/dom.js" />
       <jump line="1695" column="47" filename="E:/WWWW/epsd.git/editor/src/js/base/core/dom.js" />
@@ -314,6 +309,11 @@
       <jump line="1462" column="0" filename="E:/WWWW/epsd.git/editor/src/js/base/core/parser.js" />
       <jump line="1481" column="37" filename="E:/WWWW/epsd.git/editor/src/js/base/core/parser.js" />
       <jump line="1499" column="37" filename="E:/WWWW/epsd.git/editor/src/js/base/core/parser.js" />
+      <jump line="345" column="44" filename="E:/WWWW/epsd.git/editor/src/js/base/core/parser.js" />
+      <jump line="348" column="41" filename="E:/WWWW/epsd.git/editor/src/js/base/core/parser.js" />
+      <jump line="1195" column="42" filename="E:/WWWW/epsd.git/editor/src/js/base/core/parser.js" />
+      <jump line="22" column="12" filename="E:/WWWW/epsd.git/editor/src/js/base/core/parser.js" />
+      <jump line="279" column="42" filename="E:/WWWW/epsd.git/editor/src/js/base/core/parser.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -323,7 +323,7 @@
         <text>event.target.files[0].</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxwcm9jZXNzQ2FyZXRcPg==</text>
+        <text encoding="base64">XDxLRVlXT1JEX0VMSUZcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgLy8gICAgIHZhciBjYXJldFRhcmdldCA9IGNvbnRleHQuZ2V0RWRpdGluZ1RhcmdldCgpOwo=</text>
@@ -357,9 +357,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxwcm9jZXNzQ2FyZXRcPg==</last-search>
+      <last-search encoding="base64">XDxLRVlXT1JEX0VMSUZcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxwcm9jZXNzQ2FyZXRcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxLRVlXT1JEX0VMSUZcPg==</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxyZXF1aXJlXD4=</last-substitute>
       <last-dir>1</last-dir>
@@ -367,7 +367,6 @@
     </search>
     <history>
       <history-search>
-        <entry>updateChoiceSize</entry>
         <entry>600</entry>
         <entry encoding="base64">XDx1cGRhdGVDaG9pY2VTaXplXD4=</entry>
         <entry>formatDom</entry>
@@ -387,6 +386,7 @@
         <entry encoding="base64">XDxzZXRUaW1lb3V0XD4=</entry>
         <entry encoding="base64">XDxDQVJFVF9DSEFSXD4=</entry>
         <entry encoding="base64">XDxwcm9jZXNzQ2FyZXRcPg==</entry>
+        <entry encoding="base64">XDxLRVlXT1JEX0VMSUZcPg==</entry>
       </history-search>
       <history-cmd />
       <history-expr />

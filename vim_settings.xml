@@ -23,8 +23,12 @@
       <file name="/fragment.js" timestamp="1499222091937">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="E:/WWWW/epsd.git/editor/src/js/base/core/dom.js" timestamp="1500885147369">
-        <mark key="'" line="1159" column="38" />
+      <file name="E:/WWWW/epsd.git/editor/src/js/base/core/dom.js" timestamp="1501032440083">
+        <mark key="'" line="213" column="9" />
+        <mark key="[" line="1602" column="44" />
+        <mark key="]" line="1621" column="44" />
+        <mark key="^" line="1621" column="44" />
+        <mark key="." line="1621" column="44" />
       </file>
       <file name="E:/WWWW/epsd.git/editor/src/js/bs3/settings.js" timestamp="1500625668451">
         <mark key="'" line="240" column="41" />
@@ -73,6 +77,9 @@
         <mark key="." line="2" column="20" />
         <mark key="^" line="2" column="19" />
       </file>
+      <file name="E:/WWWW/epsd.git/editor/src/js/base/core/parser.js" timestamp="1501032661836">
+        <mark key="'" line="144" column="101" />
+      </file>
       <file name="E:/WWWW/epsd.git/.jshintrc" timestamp="1495698324359">
         <mark key="[" line="13" column="20" />
       </file>
@@ -112,8 +119,19 @@
         <mark key="." line="20" column="3" />
         <mark key="^" line="20" column="3" />
       </file>
-      <file name="E:/WWWW/epsd.git/editor/src/js/bs3/module/ChoiceHandle.js" timestamp="1500978488552">
-        <mark key="'" line="597" column="18" />
+      <file name="E:/WWWW/epsd.git/editor/src/js/base/module/ProtectedAreas.js" timestamp="1501033051006">
+        <mark key="'" line="290" column="0" />
+        <mark key="[" line="27" column="28" />
+        <mark key="]" line="14" column="25" />
+        <mark key="." line="14" column="25" />
+        <mark key="^" line="14" column="25" />
+      </file>
+      <file name="E:/WWWW/epsd.git/editor/src/js/bs3/module/ChoiceHandle.js" timestamp="1501033176979">
+        <mark key="'" line="304" column="27" />
+        <mark key="[" line="66" column="31" />
+        <mark key="]" line="346" column="44" />
+        <mark key="^" line="346" column="44" />
+        <mark key="." line="346" column="44" />
       </file>
       <file name="E:/WWWW/epsd.git/editor/src/less/elements.less" timestamp="1499760746177">
         <mark key="'" line="173" column="0" />
@@ -177,8 +195,8 @@
       <file name="E:/WWWW/epsd.git/editor/test/unit/bs3/module/ConditionHandle.spec.js" timestamp="1498555064233">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="E:/WWWW/epsd.git/editor/src/js/base/module/Clipboard.js" timestamp="1500982331328">
-        <mark key="'" line="192" column="39" />
+      <file name="E:/WWWW/epsd.git/editor/src/js/base/module/Clipboard.js" timestamp="1501033015316">
+        <mark key="'" line="186" column="20" />
         <mark key="[" line="209" column="18" />
         <mark key="]" line="209" column="18" />
         <mark key="^" line="172" column="11" />
@@ -200,28 +218,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1945" column="9" filename="E:/WWWW/epsd.git/editor/src/js/base/core/parser.js" />
-      <jump line="1951" column="25" filename="E:/WWWW/epsd.git/editor/src/js/base/core/parser.js" />
-      <jump line="1954" column="42" filename="E:/WWWW/epsd.git/editor/src/js/base/core/parser.js" />
-      <jump line="359" column="20" filename="E:/WWWW/epsd.git/editor/src/js/base/core/parser.js" />
-      <jump line="365" column="28" filename="E:/WWWW/epsd.git/editor/src/js/base/core/parser.js" />
-      <jump line="366" column="28" filename="E:/WWWW/epsd.git/editor/src/js/base/core/parser.js" />
-      <jump line="380" column="24" filename="E:/WWWW/epsd.git/editor/src/js/base/core/parser.js" />
-      <jump line="439" column="32" filename="E:/WWWW/epsd.git/editor/src/js/base/core/parser.js" />
-      <jump line="441" column="67" filename="E:/WWWW/epsd.git/editor/src/js/base/core/parser.js" />
-      <jump line="197" column="28" filename="E:/WWWW/epsd.git/editor/Gruntfile.js" />
-      <jump line="329" column="35" filename="E:/WWWW/epsd.git/editor/Gruntfile.js" />
-      <jump line="145" column="28" filename="E:/WWWW/epsd.git/editor/src/js/bs3/module/HoverCursor.js" />
-      <jump line="164" column="46" filename="E:/WWWW/epsd.git/editor/src/js/bs3/module/HoverCursor.js" />
-      <jump line="285" column="12" filename="E:/WWWW/epsd.git/editor/src/js/base/Context.js" />
-      <jump line="293" column="19" filename="E:/WWWW/epsd.git/editor/src/js/base/Context.js" />
-      <jump line="41" column="51" filename="E:/WWWW/epsd.git/editor/src/js/bs3/module/HoverCursor.js" />
-      <jump line="74" column="55" filename="E:/WWWW/epsd.git/editor/src/js/base/module/Caret.js" />
-      <jump line="19" column="9" filename="E:/WWWW/epsd.git/editor/src/js/base/editing/Typing.js" />
-      <jump line="151" column="21" filename="E:/WWWW/epsd.git/editor/src/less/epseditor.less" />
-      <jump line="449" column="0" filename="E:/WWWW/epsd.git/editor/src/js/bs3/module/ChoiceHandle.js" />
-      <jump line="163" column="0" filename="E:/WWWW/epsd.git/editor/src/js/base/core/dom.js" />
-      <jump line="880" column="12" filename="E:/WWWW/epsd.git/editor/src/js/base/core/dom.js" />
       <jump line="1677" column="12" filename="E:/WWWW/epsd.git/editor/src/js/base/core/dom.js" />
       <jump line="898" column="22" filename="E:/WWWW/epsd.git/editor/src/less/epseditor.less" />
       <jump line="522" column="11" filename="E:/WWWW/epsd.git/editor/src/less/epseditor.less" />
@@ -300,6 +296,28 @@
       <jump line="252" column="20" filename="E:/WWWW/epsd.git/editor/src/js/bs3/module/ChoiceHandle.js" />
       <jump line="597" column="18" filename="E:/WWWW/epsd.git/editor/src/js/bs3/module/ChoiceHandle.js" />
       <jump line="192" column="39" filename="E:/WWWW/epsd.git/editor/src/js/base/module/Clipboard.js" />
+      <jump line="1246" column="9" filename="E:/WWWW/epsd.git/editor/src/js/base/core/dom.js" />
+      <jump line="256" column="12" filename="E:/WWWW/epsd.git/editor/src/js/base/core/dom.js" />
+      <jump line="309" column="20" filename="E:/WWWW/epsd.git/editor/src/js/base/core/dom.js" />
+      <jump line="494" column="36" filename="E:/WWWW/epsd.git/editor/src/js/base/core/dom.js" />
+      <jump line="537" column="39" filename="E:/WWWW/epsd.git/editor/src/js/base/core/dom.js" />
+      <jump line="602" column="25" filename="E:/WWWW/epsd.git/editor/src/js/base/core/dom.js" />
+      <jump line="624" column="16" filename="E:/WWWW/epsd.git/editor/src/js/base/core/dom.js" />
+      <jump line="234" column="22" filename="E:/WWWW/epsd.git/editor/src/js/base/core/dom.js" />
+      <jump line="213" column="9" filename="E:/WWWW/epsd.git/editor/src/js/base/core/dom.js" />
+      <jump line="1835" column="40" filename="E:/WWWW/epsd.git/editor/src/js/base/core/parser.js" />
+      <jump line="211" column="16" filename="E:/WWWW/epsd.git/editor/src/js/base/core/parser.js" />
+      <jump line="223" column="26" filename="E:/WWWW/epsd.git/editor/src/js/base/core/parser.js" />
+      <jump line="796" column="16" filename="E:/WWWW/epsd.git/editor/src/js/base/core/parser.js" />
+      <jump line="804" column="39" filename="E:/WWWW/epsd.git/editor/src/js/base/core/parser.js" />
+      <jump line="822" column="16" filename="E:/WWWW/epsd.git/editor/src/js/base/core/parser.js" />
+      <jump line="825" column="82" filename="E:/WWWW/epsd.git/editor/src/js/base/core/parser.js" />
+      <jump line="132" column="16" filename="E:/WWWW/epsd.git/editor/src/js/base/core/parser.js" />
+      <jump line="144" column="101" filename="E:/WWWW/epsd.git/editor/src/js/base/core/parser.js" />
+      <jump line="194" column="16" filename="E:/WWWW/epsd.git/editor/src/js/base/module/Clipboard.js" />
+      <jump line="186" column="20" filename="E:/WWWW/epsd.git/editor/src/js/base/module/Clipboard.js" />
+      <jump line="290" column="0" filename="E:/WWWW/epsd.git/editor/src/js/base/module/ProtectedAreas.js" />
+      <jump line="304" column="27" filename="E:/WWWW/epsd.git/editor/src/js/bs3/module/ChoiceHandle.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -309,7 +327,7 @@
         <text>event.target.files[0].</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxwcmV2ZW50RGVmYXVsdFw+</text>
+        <text encoding="base64">XDxhZnRlclBhc3RlXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgLy8gICAgIHZhciBjYXJldFRhcmdldCA9IGNvbnRleHQuZ2V0RWRpdGluZ1RhcmdldCgpOwo=</text>
@@ -343,9 +361,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxwcmV2ZW50RGVmYXVsdFw+</last-search>
+      <last-search encoding="base64">XDxhZnRlclBhc3RlXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxwcmV2ZW50RGVmYXVsdFw+</last-pattern>
+      <last-pattern encoding="base64">XDxhZnRlclBhc3RlXD4=</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxyZXF1aXJlXD4=</last-substitute>
       <last-dir>1</last-dir>
@@ -353,9 +371,6 @@
     </search>
     <history>
       <history-search>
-        <entry>otherwise</entry>
-        <entry>bCheckError</entry>
-        <entry encoding="base64">XDxsYXN0UXVhdGVJbmRleFw+</entry>
         <entry encoding="base64">XDxjb25uZWN0XD4=</entry>
         <entry>8000</entry>
         <entry encoding="base64">XDxlZGl0aW5nVGFyZ2V0XD4=</entry>
@@ -373,6 +388,9 @@
         <entry>keydown</entry>
         <entry encoding="base64">XDxoYW5kbGVJbnB1dFw+</entry>
         <entry encoding="base64">XDxwcmV2ZW50RGVmYXVsdFw+</entry>
+        <entry>nodeLength</entry>
+        <entry encoding="base64">XDxjYXJldFN0clw+</entry>
+        <entry encoding="base64">XDxhZnRlclBhc3RlXD4=</entry>
       </history-search>
       <history-cmd />
       <history-expr />

@@ -63,8 +63,8 @@
         <mark key="." line="54" column="23" />
         <mark key="^" line="53" column="63" />
       </file>
-      <file name="E:/WWWW/epsd.git/editor/src/js/bs3/module/ConditionHandle.js" timestamp="1501055530362">
-        <mark key="'" line="479" column="16" />
+      <file name="E:/WWWW/epsd.git/editor/src/js/bs3/module/ConditionHandle.js" timestamp="1501063709206">
+        <mark key="'" line="517" column="16" />
       </file>
       <file name="E:/WWWW/epsd.git/package.json" timestamp="1500630649803">
         <mark key="'" line="26" column="0" />
@@ -88,7 +88,7 @@
       <file name="E:/WWWW/epsd.git/editor/src/less/epseditor.less" timestamp="1500622041103">
         <mark key="'" line="577" column="19" />
       </file>
-      <file name="/Dummy.txt" timestamp="1501059490960">
+      <file name="/Dummy.txt" timestamp="1501063590234">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="E:/WWWW/epsd.git/app/styles/main.css" timestamp="1496731792696">
@@ -122,7 +122,7 @@
         <mark key="." line="14" column="25" />
         <mark key="^" line="14" column="25" />
       </file>
-      <file name="E:/WWWW/epsd.git/editor/src/js/bs3/module/ChoiceHandle.js" timestamp="1501061339919">
+      <file name="E:/WWWW/epsd.git/editor/src/js/bs3/module/ChoiceHandle.js" timestamp="1501064124408">
         <mark key="'" line="526" column="13" />
         <mark key="[" line="66" column="31" />
         <mark key="]" line="346" column="44" />
@@ -214,17 +214,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="78" column="74" filename="E:/WWWW/epsd.git/editor/src/js/bs3/module/ConditionHandle.js" />
-      <jump line="1142" column="27" filename="E:/WWWW/epsd.git/editor/src/js/base/core/dom.js" />
-      <jump line="908" column="48" filename="E:/WWWW/epsd.git/editor/src/js/base/core/dom.js" />
-      <jump line="1159" column="38" filename="E:/WWWW/epsd.git/editor/src/js/base/core/dom.js" />
-      <jump line="478" column="34" filename="E:/WWWW/epsd.git/editor/src/js/bs3/module/ConditionHandle.js" />
-      <jump line="21" column="12" filename="E:/WWWW/epsd.git/editor/src/js/base/Context.js" />
-      <jump line="541" column="51" filename="E:/WWWW/epsd.git/editor/src/js/base/core/range.js" />
-      <jump line="182" column="0" filename="E:/WWWW/epsd.git/editor/src/js/bs3/module/HoverCursor.js" />
-      <jump line="298" column="20" filename="E:/WWWW/epsd.git/editor/src/js/base/Context.js" />
-      <jump line="307" column="51" filename="E:/WWWW/epsd.git/editor/src/js/base/Context.js" />
-      <jump line="308" column="23" filename="E:/WWWW/epsd.git/editor/src/js/base/Context.js" />
       <jump line="296" column="20" filename="E:/WWWW/epsd.git/editor/src/js/base/Context.js" />
       <jump line="267" column="54" filename="E:/WWWW/epsd.git/editor/src/js/base/Context.js" />
       <jump line="303" column="51" filename="E:/WWWW/epsd.git/editor/src/js/base/Context.js" />
@@ -314,6 +303,17 @@
       <jump line="495" column="46" filename="E:/WWWW/epsd.git/editor/src/js/bs3/module/ChoiceHandle.js" />
       <jump line="483" column="24" filename="E:/WWWW/epsd.git/editor/src/js/bs3/module/ChoiceHandle.js" />
       <jump line="526" column="13" filename="E:/WWWW/epsd.git/editor/src/js/bs3/module/ChoiceHandle.js" />
+      <jump line="537" column="16" filename="E:/WWWW/epsd.git/editor/src/js/bs3/module/ConditionHandle.js" />
+      <jump line="506" column="12" filename="E:/WWWW/epsd.git/editor/src/js/bs3/module/ConditionHandle.js" />
+      <jump line="538" column="12" filename="E:/WWWW/epsd.git/editor/src/js/bs3/module/ConditionHandle.js" />
+      <jump line="516" column="12" filename="E:/WWWW/epsd.git/editor/src/js/bs3/module/ConditionHandle.js" />
+      <jump line="396" column="12" filename="E:/WWWW/epsd.git/editor/src/js/bs3/module/ConditionHandle.js" />
+      <jump line="481" column="12" filename="E:/WWWW/epsd.git/editor/src/js/bs3/module/ConditionHandle.js" />
+      <jump line="518" column="34" filename="E:/WWWW/epsd.git/editor/src/js/bs3/module/ConditionHandle.js" />
+      <jump line="476" column="12" filename="E:/WWWW/epsd.git/editor/src/js/bs3/module/ConditionHandle.js" />
+      <jump line="507" column="16" filename="E:/WWWW/epsd.git/editor/src/js/bs3/module/ConditionHandle.js" />
+      <jump line="508" column="16" filename="E:/WWWW/epsd.git/editor/src/js/bs3/module/ConditionHandle.js" />
+      <jump line="517" column="16" filename="E:/WWWW/epsd.git/editor/src/js/bs3/module/ConditionHandle.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -323,7 +323,7 @@
         <text>event.target.files[0].</text>
       </register>
       <register name="/" type="4">
-        <text>handleInput</text>
+        <text encoding="base64">XDxyZWRyYXdUYWJzQXJyYXlcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgLy8gICAgIHZhciBjYXJldFRhcmdldCA9IGNvbnRleHQuZ2V0RWRpdGluZ1RhcmdldCgpOwo=</text>
@@ -357,9 +357,9 @@
       </register>
     </registers>
     <search>
-      <last-search>handleInput</last-search>
+      <last-search encoding="base64">XDxyZWRyYXdUYWJzQXJyYXlcPg==</last-search>
       <last-offset />
-      <last-pattern>handleInput</last-pattern>
+      <last-pattern encoding="base64">XDxyZWRyYXdUYWJzQXJyYXlcPg==</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxyZXF1aXJlXD4=</last-substitute>
       <last-dir>1</last-dir>
@@ -367,8 +367,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxwYWRkaW5nQmxhbmtIVE1MXD4=</entry>
-        <entry encoding="base64">XDxzcGxpdFRyZWVcPg==</entry>
         <entry encoding="base64">XDxzcGxpdFBvaW50XD4=</entry>
         <entry>insertNode</entry>
         <entry encoding="base64">XDxmb2N1c1JuZ1w+</entry>
@@ -384,9 +382,11 @@
         <entry encoding="base64">XDxLRVlXT1JEX0VMSUZcPg==</entry>
         <entry encoding="base64">XDxmdW5jdGlvblw+</entry>
         <entry encoding="base64">XDxzZXRUaW1lb3V0XD4=</entry>
-        <entry encoding="base64">XDxyZWRyYXdUYWJzRGl2VGFza1w+</entry>
-        <entry encoding="base64">XDxyZWRyYXdUYWJzRGl2XD4=</entry>
         <entry>handleInput</entry>
+        <entry encoding="base64">XDxhZGRSZWRyYXdUYWJzRGl2XD4=</entry>
+        <entry encoding="base64">XDxyZWRyYXdUYWJzRGl2XD4=</entry>
+        <entry encoding="base64">XDxyZWRyYXdUYWJzRGl2VGFza1w+</entry>
+        <entry encoding="base64">XDxyZWRyYXdUYWJzQXJyYXlcPg==</entry>
       </history-search>
       <history-cmd />
       <history-expr />

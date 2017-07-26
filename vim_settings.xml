@@ -191,8 +191,8 @@
       <file name="E:/WWWW/epsd.git/editor/test/unit/bs3/module/ConditionHandle.spec.js" timestamp="1498555064233">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="E:/WWWW/epsd.git/editor/src/js/base/module/Clipboard.js" timestamp="1501058645706">
-        <mark key="'" line="186" column="20" />
+      <file name="E:/WWWW/epsd.git/editor/src/js/base/module/Clipboard.js" timestamp="1501066976324">
+        <mark key="'" line="70" column="12" />
         <mark key="[" line="209" column="18" />
         <mark key="]" line="209" column="18" />
         <mark key="^" line="172" column="11" />
@@ -214,7 +214,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="296" column="20" filename="E:/WWWW/epsd.git/editor/src/js/base/Context.js" />
       <jump line="267" column="54" filename="E:/WWWW/epsd.git/editor/src/js/base/Context.js" />
       <jump line="303" column="51" filename="E:/WWWW/epsd.git/editor/src/js/base/Context.js" />
       <jump line="304" column="23" filename="E:/WWWW/epsd.git/editor/src/js/base/Context.js" />
@@ -314,6 +313,7 @@
       <jump line="507" column="16" filename="E:/WWWW/epsd.git/editor/src/js/bs3/module/ConditionHandle.js" />
       <jump line="508" column="16" filename="E:/WWWW/epsd.git/editor/src/js/bs3/module/ConditionHandle.js" />
       <jump line="517" column="16" filename="E:/WWWW/epsd.git/editor/src/js/bs3/module/ConditionHandle.js" />
+      <jump line="70" column="12" filename="E:/WWWW/epsd.git/editor/src/js/base/module/Clipboard.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">

@@ -191,8 +191,8 @@
       <file name="E:/WWWW/epsd.git/editor/test/unit/bs3/module/ConditionHandle.spec.js" timestamp="1498555064233">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="E:/WWWW/epsd.git/editor/src/js/base/module/Clipboard.js" timestamp="1501123046424">
-        <mark key="'" line="70" column="12" />
+      <file name="E:/WWWW/epsd.git/editor/src/js/base/module/Clipboard.js" timestamp="1501128058250">
+        <mark key="'" line="179" column="9" />
         <mark key="[" line="209" column="18" />
         <mark key="]" line="209" column="18" />
         <mark key="^" line="172" column="11" />
@@ -214,7 +214,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="329" column="8" filename="E:/WWWW/epsd.git/editor/src/js/bs3/module/ChoiceHandle.js" />
       <jump line="193" column="51" filename="E:/WWWW/epsd.git/editor/src/js/bs3/module/ChoiceHandle.js" />
       <jump line="470" column="16" filename="E:/WWWW/epsd.git/editor/src/js/bs3/module/ChoiceHandle.js" />
       <jump line="482" column="25" filename="E:/WWWW/epsd.git/editor/src/js/bs3/module/ChoiceHandle.js" />
@@ -314,6 +313,7 @@
       <jump line="334" column="14" filename="E:/WWWW/epsd.git/editor/src/js/base/Context.js" />
       <jump line="335" column="31" filename="E:/WWWW/epsd.git/editor/src/js/base/Context.js" />
       <jump line="142" column="35" filename="E:/WWWW/epsd.git/editor/src/js/base/Context.js" />
+      <jump line="179" column="9" filename="E:/WWWW/epsd.git/editor/src/js/base/module/Clipboard.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
